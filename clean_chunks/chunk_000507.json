@@ -1,0 +1,29 @@
+{
+  "chunk_id": "employee_list_under_sdm_sadar_8d993642__b9a1b9c622d8__chunk_0001_part_1",
+  "document_id": "employee_list_under_sdm_sadar_8d993642__b9a1b9c622d8",
+  "parent_document": "employee_list_under_sdm_sadar_8d993642__b9a1b9c622d8",
+  "chunk_index": 1,
+  "total_chunks": 3,
+  "previous_chunk_id": "employee_list_under_sdm_sadar_8d993642__b9a1b9c622d8__chunk_0000",
+  "next_chunk_id": "employee_list_under_sdm_sadar_8d993642__b9a1b9c622d8__chunk_0002",
+  "title": "More Menu (Part 2/2)",
+  "url": "https://westtripura.nic.in/employee-list-under-sdm-sadar/",
+  "heading_chain": [
+    "Employee List under SDM, Sadar"
+  ],
+  "heading": "Employee List under SDM, Sadar",
+  "section": "Employee List under SDM, Sadar",
+  "sub_section": "",
+  "text": "Jaya Ghosh, LDC | |\n| Sri Rajat Chakraborty, LDC | |\n| 6 | Election Section | Sri Abhijit Saha, Inspector | Smti. Sanchita Paul, LDC | |\n| Sri Anubrata Datta, LDC (Fixed) | |\n| Smt. Mandira Das, LDC (Fixed) | |\n| 7 | Small Savings Section | Sri Debajit Das, D.O (S/S) | Sri Victor Majumder, Inspector (S/S) | |\n| Smt. Jongshila Debbarma, UDC | |\n| 8 | Confidential Section | Sri Sukanta Choudhury, PA-I | Sri Ratan Debbarma, Peon | |\n| Sri Sailo Debbarma, Peon | |\n| Smti. Dipali Das, Peon | |\n| Smt. Dalia Barman (Deb), Peon | |",
+  "content": "Jaya Ghosh, LDC | |\n| Sri Rajat Chakraborty, LDC | |\n| 6 | Election Section | Sri Abhijit Saha, Inspector | Smti. Sanchita Paul, LDC | |\n| Sri Anubrata Datta, LDC (Fixed) | |\n| Smt. Mandira Das, LDC (Fixed) | |\n| 7 | Small Savings Section | Sri Debajit Das, D.O (S/S) | Sri Victor Majumder, Inspector (S/S) | |\n| Smt. Jongshila Debbarma, UDC | |\n| 8 | Confidential Section | Sri Sukanta Choudhury, PA-I | Sri Ratan Debbarma, Peon | |\n| Sri Sailo Debbarma, Peon | |\n| Smti. Dipali Das, Peon | |\n| Smt. Dalia Barman (Deb), Peon | |",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 144,
+  "character_count": 529,
+  "has_table": true,
+  "has_list": false,
+  "created_at": "2026-07-11T20:31:37.189588Z",
+  "sha256": "a147d096dc8de05740d6463f3574e445874b67a6fc5e870fab054cfbaa9921b2",
+  "split_part": 1,
+  "split_total": 2
+}

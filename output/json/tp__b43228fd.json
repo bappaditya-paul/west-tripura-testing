@@ -1,0 +1,536 @@
+{
+  "metadata": {
+    "id": "tp__b43228fd",
+    "url": "https://www.wptripura.nic.in/images/tp.pdf",
+    "file_name": "tp__b43228fd.pdf",
+    "title": "Tp",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T22:44:07.245410+00:00",
+    "page_count": 1,
+    "tables": 0,
+    "images": 0,
+    "word_count": 88,
+    "sha256": "9e674a38abbd3f1a7ac32609ba4deebb149501eee9c9055deedd3bf7582a7039",
+    "file_size_bytes": 89026,
+    "processing_status": "success",
+    "parser_used": "docling+ocr",
+    "extraction_time_s": 40.335,
+    "local_path": "output/documents/pdf/tp__b43228fd.pdf",
+    "markdown_path": "output/markdown/tp__b43228fd.md",
+    "json_path": "output/json/tp__b43228fd.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "tp__b43228fd",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 17211979284402040889,
+      "filename": "tp__b43228fd.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/groups/1"
+        },
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/groups/2"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/2"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      },
+      {
+        "self_ref": "#/groups/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/6"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      },
+      {
+        "self_ref": "#/groups/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/9"
+          },
+          {
+            "$ref": "#/texts/10"
+          },
+          {
+            "$ref": "#/texts/11"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 212.66666666666666,
+              "t": 670.6666666666666,
+              "r": 385.6666666666667,
+              "b": 655.0,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              18
+            ]
+          }
+        ],
+        "orig": "Women'sPolytechnic",
+        "text": "Women'sPolytechnic",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 217.66666666666666,
+              "t": 635.3333333333333,
+              "r": 384.6666666666667,
+              "b": 620.6666666666667,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              20
+            ]
+          }
+        ],
+        "orig": "Hapania,Tripura-West",
+        "text": "Hapania,Tripura-West",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 31.333333333333332,
+              "t": 569.3333333333334,
+              "r": 299.6666666666667,
+              "b": 555.0,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              41
+            ]
+          }
+        ],
+        "orig": "No.F.1(24)/W.POLY/T&P/Vol.-11/2015-16/003",
+        "text": "No.F.1(24)/W.POLY/T&P/Vol.-11/2015-16/003"
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 268.6666666666667,
+              "t": 513.0,
+              "r": 336.3333333333333,
+              "b": 498.0,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              6
+            ]
+          }
+        ],
+        "orig": "NOTICE",
+        "text": "NOTICE",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 31.0,
+              "t": 454.3333333333333,
+              "r": 567.3333333333334,
+              "b": 350.3333333333333,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              483
+            ]
+          }
+        ],
+        "orig": "All the students of 3d year all departments are hereby informed that, an leading edtech company \"Inmovidu\"has expressed willingness to recruit students against various post in their esteemedorganization.In thisregard a placement drivewill be carried out at Womens Polytechnic campus on 20/05/2022 at 11.00 AM. onwards.All interested students are directedto attend theplacement drive on 20/05/2022.Students are also directed to carry updatedresume/biodata toattend theplacement drive.",
+        "text": "All the students of 3d year all departments are hereby informed that, an leading edtech company \"Inmovidu\"has expressed willingness to recruit students against various post in their esteemedorganization.In thisregard a placement drivewill be carried out at Womens Polytechnic campus on 20/05/2022 at 11.00 AM. onwards.All interested students are directedto attend theplacement drive on 20/05/2022.Students are also directed to carry updatedresume/biodata toattend theplacement drive."
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 34.0,
+              "t": 324.66666666666674,
+              "r": 412.3333333333333,
+              "b": 322.66666666666674,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              60
+            ]
+          }
+        ],
+        "orig": "For anyinformation contact theundersign or dr.Manash Ch.Das.",
+        "text": "For anyinformation contact theundersign or dr.Manash Ch.Das."
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/groups/1"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 472.0,
+              "t": 575.3333333333334,
+              "r": 564.6666666666666,
+              "b": 564.6666666666666,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              16
+            ]
+          }
+        ],
+        "orig": "Date: 17.05.2022",
+        "text": "Date: 17.05.2022"
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 469.0,
+              "t": 275.66666666666674,
+              "r": 516.3333333333334,
+              "b": 274.33333333333326,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              6
+            ]
+          }
+        ],
+        "orig": "vetmal",
+        "text": "vetmal"
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 485.0,
+              "t": 267.33333333333326,
+              "r": 547.3333333333334,
+              "b": 266.66666666666674,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              8
+            ]
+          }
+        ],
+        "orig": "17.0S.22",
+        "text": "17.0S.22"
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/groups/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 469.0,
+              "t": 275.66666666666674,
+              "r": 516.3333333333334,
+              "b": 274.33333333333326,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              6
+            ]
+          }
+        ],
+        "orig": "vetmal",
+        "text": "vetmal"
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/groups/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 485.0,
+              "t": 267.33333333333326,
+              "r": 547.3333333333334,
+              "b": 266.66666666666674,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              8
+            ]
+          }
+        ],
+        "orig": "17.0S.22",
+        "text": "17.0S.22"
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/groups/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "caption",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 431.0,
+              "t": 252.66666666666674,
+              "r": 555.0,
+              "b": 211.0,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              48
+            ]
+          }
+        ],
+        "orig": "Soma Saha Coordinator,T&Pcell Women'sPolytechnic",
+        "text": "Soma Saha Coordinator,T&Pcell Women'sPolytechnic"
+      },
+      {
+        "self_ref": "#/texts/12",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 382.6666666666667,
+              "t": 26.33333333333337,
+              "r": 536.3333333333334,
+              "b": 10.0,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              23
+            ]
+          }
+        ],
+        "orig": "Scanned with CamScanner",
+        "text": "Scanned with CamScanner"
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/7"
+          },
+          {
+            "$ref": "#/texts/8"
+          }
+        ],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 469.956787109375,
+              "t": 295.154541015625,
+              "r": 549.00244140625,
+              "b": 257.34814453125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 595.0,
+          "height": 842.0
+        },
+        "page_no": 1
+      }
+    }
+  }
+}

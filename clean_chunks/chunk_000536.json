@@ -1,0 +1,27 @@
+{
+  "chunk_id": "index_0af06c55__01a161aa70ba__chunk_0003",
+  "document_id": "index_0af06c55__01a161aa70ba",
+  "parent_document": "index_0af06c55__01a161aa70ba",
+  "chunk_index": 3,
+  "total_chunks": 7,
+  "previous_chunk_id": "index_0af06c55__01a161aa70ba__chunk_0002",
+  "next_chunk_id": "index_0af06c55__01a161aa70ba__chunk_0004",
+  "title": "About MeriPehchaan",
+  "url": "https://meripehchaan.gov.in/",
+  "heading_chain": [
+    "Know Your User"
+  ],
+  "heading": "Know Your User",
+  "section": "Know Your User",
+  "sub_section": "",
+  "text": "# Know Your User\n\nYou will get verified information about your User who has logged in via MeriPehchaan. Users will be able to reuse the MeriPehchaan profile information to access other Government services.",
+  "content": "# Know Your User\n\nYou will get verified information about your User who has logged in via MeriPehchaan. Users will be able to reuse the MeriPehchaan profile information to access other Government services.",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 46,
+  "character_count": 205,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:36:35.442177Z",
+  "sha256": "3019eeb9f748a54b8099ccd5ceae48f69e43d5046f4054d37e4b6e40adfc8576"
+}

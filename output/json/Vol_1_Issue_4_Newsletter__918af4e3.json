@@ -1,0 +1,2036 @@
+{
+  "metadata": {
+    "id": "Vol_1_Issue_4_Newsletter__918af4e3",
+    "url": "https://www.wptripura.nic.in/images/Vol_1_Issue_4%20Newsletter.pdf",
+    "file_name": "Vol_1_Issue_4_Newsletter__918af4e3.pdf",
+    "title": "Vol 1 Issue 4%20Newsletter",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T22:41:14.031499+00:00",
+    "page_count": 4,
+    "tables": 0,
+    "images": 0,
+    "word_count": 928,
+    "sha256": "f079ef454efb26aa910e17c4d5184b7ccaa5c2ea64a2bd424c506656682932bb",
+    "file_size_bytes": 1315764,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 9.502,
+    "local_path": "output/documents/pdf/Vol_1_Issue_4_Newsletter__918af4e3.pdf",
+    "markdown_path": "output/markdown/Vol_1_Issue_4_Newsletter__918af4e3.md",
+    "json_path": "output/json/Vol_1_Issue_4_Newsletter__918af4e3.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "Vol_1_Issue_4_Newsletter__918af4e3",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 5499007666320126651,
+      "filename": "Vol_1_Issue_4_Newsletter__918af4e3.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/pictures/4"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/pictures/5"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/pictures/6"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/pictures/7"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/pictures/8"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/pictures/9"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/pictures/10"
+        },
+        {
+          "$ref": "#/pictures/11"
+        },
+        {
+          "$ref": "#/pictures/12"
+        },
+        {
+          "$ref": "#/pictures/13"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/pictures/14"
+        },
+        {
+          "$ref": "#/pictures/15"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/pictures/16"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/pictures/17"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/pictures/18"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/pictures/19"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/10"
+          },
+          {
+            "$ref": "#/texts/11"
+          },
+          {
+            "$ref": "#/texts/12"
+          },
+          {
+            "$ref": "#/texts/13"
+          },
+          {
+            "$ref": "#/texts/14"
+          },
+          {
+            "$ref": "#/texts/15"
+          },
+          {
+            "$ref": "#/texts/16"
+          },
+          {
+            "$ref": "#/texts/17"
+          },
+          {
+            "$ref": "#/texts/18"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 201.72672,
+              "t": 814.5867595078124,
+              "r": 382.95503999999994,
+              "b": 805.337365120811,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              39
+            ]
+          }
+        ],
+        "orig": "WOMEN'S POLYTECHNIC WOMEN'S POLYTECHNIC",
+        "text": "WOMEN'S POLYTECHNIC WOMEN'S POLYTECHNIC",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 188.76191999999998,
+              "t": 799.7707195078124,
+              "r": 395.04431999999997,
+              "b": 779.90105144282,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              103
+            ]
+          }
+        ],
+        "orig": "EDUCATION (HIGHER) DEPARTMENT GOVERNMENT OF TRIPURA EDUCATION (HIGHER) DEPARTMENT GOVERNMENT OF TRIPURA",
+        "text": "EDUCATION (HIGHER) DEPARTMENT GOVERNMENT OF TRIPURA EDUCATION (HIGHER) DEPARTMENT GOVERNMENT OF TRIPURA"
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 226.56287999999998,
+              "t": 774.5663995078124,
+              "r": 357.36479999999995,
+              "b": 767.2933714428199,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              20
+            ]
+          }
+        ],
+        "orig": "HAPANIA, TRIPURA (W)",
+        "text": "HAPANIA, TRIPURA (W)",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 187.20000000000002,
+              "t": 762.6329995078124,
+              "r": 395.85743999999994,
+              "b": 756.7039005417859,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              57
+            ]
+          }
+        ],
+        "orig": "PHONE 0381 PHONE 0381-2376814, email: wpoly3003@gmail.com",
+        "text": "PHONE 0381 PHONE 0381-2376814, email: wpoly3003@gmail.com"
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 241.20000000000002,
+              "t": 742.2839995078125,
+              "r": 343.90799999999996,
+              "b": 730.2959995078124,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              10
+            ]
+          }
+        ],
+        "orig": "NEWSLETTER",
+        "text": "NEWSLETTER",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 215.28000000000003,
+              "t": 723.0839995078125,
+              "r": 368.604,
+              "b": 715.0919995078125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              32
+            ]
+          }
+        ],
+        "orig": "Vol: 1, issue: 4 (Oct-Dec, 2019)",
+        "text": "Vol: 1, issue: 4 (Oct-Dec, 2019)"
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 199.0872,
+              "t": 504.9907195078125,
+              "r": 395.81567999999993,
+              "b": 495.44925012005746,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              46
+            ]
+          }
+        ],
+        "orig": "FROM THE PRINCIPAL'S FROM THE PRINCIPAL'S DESK",
+        "text": "FROM THE PRINCIPAL'S FROM THE PRINCIPAL'S DESK",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 313.572,
+              "t": 460.2839995078125,
+              "r": 592.5740999999987,
+              "b": 262.74027457944567,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              762
+            ]
+          }
+        ],
+        "orig": "I am delighted to know the newsletter of Women's Polytechnic, Hapania,  is  gallantly activities of Oct-Dec 2019 make an impact to the stakeholders highlighting  all  the  activities and  achievements  of Hapania.  The  newsletter  will us to move forward in the good wishes are always  with the faculty members  and  other  staff  of especially the newsletter delighted to know that the fourth issue of of Women's Polytechnic, gallantly  displaying  the  major Dec 2019. I hope this issue will to the stakeholders by all  the  activities,  performances of  Women's  Polytechnic, The  newsletter  will  surely  motivate us to move forward in the path of progress. My es are always  with the faculty members  and  other  staff  of  the institute, newsletter team.",
+        "text": "I am delighted to know the newsletter of Women's Polytechnic, Hapania,  is  gallantly activities of Oct-Dec 2019 make an impact to the stakeholders highlighting  all  the  activities and  achievements  of Hapania.  The  newsletter  will us to move forward in the good wishes are always  with the faculty members  and  other  staff  of especially the newsletter delighted to know that the fourth issue of of Women's Polytechnic, gallantly  displaying  the  major Dec 2019. I hope this issue will to the stakeholders by all  the  activities,  performances of  Women's  Polytechnic, The  newsletter  will  surely  motivate us to move forward in the path of progress. My es are always  with the faculty members  and  other  staff  of  the institute, newsletter team."
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 385.57199999999995,
+              "t": 252.44399950781246,
+              "r": 506.24399999999997,
+              "b": 222.49199950781258,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              54
+            ]
+          }
+        ],
+        "orig": "----Dr. Tirtharaj Sen, Dr. Tirtharaj Sen,FIE Principal",
+        "text": "----Dr. Tirtharaj Sen, Dr. Tirtharaj Sen,FIE Principal"
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 248.64287999999996,
+              "t": 181.7735995078125,
+              "r": 355.32239999999996,
+              "b": 176.14854760469825,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              16
+            ]
+          }
+        ],
+        "orig": "Editorial Board:",
+        "text": "Editorial Board:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 43.801919999999996,
+              "t": 158.6693995078125,
+              "r": 426.81948,
+              "b": 153.3727377648288,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              193
+            ]
+          }
+        ],
+        "orig": "1.  Dr. Tirtharaj Sen, FIE, Principal 1.  Dr. Tirtharaj Sen, FIE, Principal                                                                                                        ---- Chairman.",
+        "text": " Dr. Tirtharaj Sen, FIE, Principal 1.  Dr. Tirtharaj Sen, FIE, Principal                                                                                                        ---- Chairman.",
+        "enumerated": true,
+        "marker": "1."
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 43.801919999999996,
+              "t": 144.87275950781248,
+              "r": 464.7361199999999,
+              "b": 139.57609776482877,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              220
+            ]
+          }
+        ],
+        "orig": "2. Sri Amar Debnath, Lecturer, English 2. Sri Amar Debnath, Lecturer, English                                                                                                 ---- Convenor cum Editor. Convenor cum Editor.",
+        "text": "Sri Amar Debnath, Lecturer, English 2. Sri Amar Debnath, Lecturer, English                                                                                                 ---- Convenor cum Editor. Convenor cum Editor.",
+        "enumerated": true,
+        "marker": "2."
+      },
+      {
+        "self_ref": "#/texts/12",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 43.801919999999996,
+              "t": 131.0680795078125,
+              "r": 474.57707999999997,
+              "b": 125.7714177648287,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              223
+            ]
+          }
+        ],
+        "orig": "3. Smt. Soma Saha, HoD (I/C), IT 3. Smt. Soma Saha, HoD (I/C), IT                                                                                                            ---- Editorial Board Member Editorial Board Member",
+        "text": "Smt. Soma Saha, HoD (I/C), IT 3. Smt. Soma Saha, HoD (I/C), IT                                                                                                            ---- Editorial Board Member Editorial Board Member",
+        "enumerated": true,
+        "marker": "3."
+      },
+      {
+        "self_ref": "#/texts/13",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 43.801919999999996,
+              "t": 117.27143950781249,
+              "r": 270.3069064799998,
+              "b": 111.97477776482879,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              40
+            ]
+          }
+        ],
+        "orig": "4. Dr Apurba Saha, In-Charge Examination",
+        "text": "Dr Apurba Saha, In-Charge Examination",
+        "enumerated": true,
+        "marker": "4."
+      },
+      {
+        "self_ref": "#/texts/14",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 123.00395999999998,
+              "t": 117.27143950781249,
+              "r": 474.22331999999994,
+              "b": 111.97477776482879,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              158
+            ]
+          }
+        ],
+        "orig": "Charge Examination                                                                                          ---- Editorial Board Member Editorial Board Member",
+        "text": "Charge Examination                                                                                          ---- Editorial Board Member Editorial Board Member",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/15",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 43.801919999999996,
+              "t": 103.46675950781253,
+              "r": 474.81827999999996,
+              "b": 98.17009776482871,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              225
+            ]
+          }
+        ],
+        "orig": "5. Sri Jayanta Das, HoD (I/C), FT 5. Sri Jayanta Das, HoD (I/C), FT                                                                                                            ---- Editorial Board Member Editorial Board Member",
+        "text": "Sri Jayanta Das, HoD (I/C), FT 5. Sri Jayanta Das, HoD (I/C), FT                                                                                                            ---- Editorial Board Member Editorial Board Member",
+        "enumerated": true,
+        "marker": "5."
+      },
+      {
+        "self_ref": "#/texts/16",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 43.801919999999996,
+              "t": 89.6701195078125,
+              "r": 474.57707999999997,
+              "b": 84.3734577648288,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              228
+            ]
+          }
+        ],
+        "orig": "6. Dr. Rupak Sarkar, HoD (I/C),  Science and Humanities 6. Dr. Rupak Sarkar, HoD (I/C),  Science and Humanities                                                                   ---- Editorial Board Member Editorial Board Member",
+        "text": "Dr. Rupak Sarkar, HoD (I/C),  Science and Humanities 6. Dr. Rupak Sarkar, HoD (I/C),  Science and Humanities                                                                   ---- Editorial Board Member Editorial Board Member",
+        "enumerated": true,
+        "marker": "6."
+      },
+      {
+        "self_ref": "#/texts/17",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 43.801919999999996,
+              "t": 75.75287950781251,
+              "r": 264.4564798799997,
+              "b": 70.4562177648288,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              39
+            ]
+          }
+        ],
+        "orig": "7. Smt. Sunita Debbarma, HoD (I/C), CST",
+        "text": "Smt. Sunita Debbarma, HoD (I/C), CST",
+        "enumerated": true,
+        "marker": "7."
+      },
+      {
+        "self_ref": "#/texts/18",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 192.36503999999996,
+              "t": 75.75287950781251,
+              "r": 474.45647999999994,
+              "b": 70.4562177648288,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              50
+            ]
+          }
+        ],
+        "orig": "---- Editorial Board Member Editorial Board Member",
+        "text": "---- Editorial Board Member Editorial Board Member",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/19",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 503.6447999999999,
+              "t": 22.04687950781249,
+              "r": 553.0487999999999,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 1 of 4",
+        "text": "Page 1 of 4"
+      },
+      {
+        "self_ref": "#/texts/20",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 202.92011999999997,
+              "t": 811.9472395078125,
+              "r": 412.18631999999997,
+              "b": 802.7506473290415,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              47
+            ]
+          }
+        ],
+        "orig": "SNAPSHOTS OF ACTIVITIES SNAPSHOTS OF ACTIVITIES",
+        "text": "SNAPSHOTS OF ACTIVITIES SNAPSHOTS OF ACTIVITIES",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/21",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 40.0086020418848,
+              "t": 759.9851995078125,
+              "r": 492.88394,
+              "b": 751.3204612879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              153
+            ]
+          }
+        ],
+        "orig": "1. Obsevation of Fit India Plogging Run & Fit India Plogging Run & ''Swacchata Hi Seva'' in association with NSS Unit '' in association with NSS Unit WP:",
+        "text": "1. Obsevation of Fit India Plogging Run & Fit India Plogging Run & ''Swacchata Hi Seva'' in association with NSS Unit '' in association with NSS Unit WP:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/22",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 40.56,
+              "t": 727.4039995078125,
+              "r": 547.2960839999998,
+              "b": 686.8782403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              601
+            ]
+          }
+        ],
+        "orig": "On 01/10/2019 the Faculty members, supporting staffs and the students of Women's Polytechnic, Hapania participated in India Plogging Run & ''Swacchata Hi Seva'' activities which was done students collected polythene and plastics from the the Faculty members, supporting staffs and the students of Women's Polytechnic, Hapania participated in activities which was done in association with NSS Unit lastics from their households to dump safely. the Faculty members, supporting staffs and the students of Women's Polytechnic, Hapania participated in Fit in association with NSS Unit of the institute. The",
+        "text": "On 01/10/2019 the Faculty members, supporting staffs and the students of Women's Polytechnic, Hapania participated in India Plogging Run & ''Swacchata Hi Seva'' activities which was done students collected polythene and plastics from the the Faculty members, supporting staffs and the students of Women's Polytechnic, Hapania participated in activities which was done in association with NSS Unit lastics from their households to dump safely. the Faculty members, supporting staffs and the students of Women's Polytechnic, Hapania participated in Fit in association with NSS Unit of the institute. The"
+      },
+      {
+        "self_ref": "#/texts/23",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 47.80219004188481,
+              "t": 384.75215950781245,
+              "r": 169.221208,
+              "b": 376.0874212879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              22
+            ]
+          }
+        ],
+        "orig": "2. One Hour Sramdaan :",
+        "text": "2. One Hour Sramdaan :",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/24",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 48.36,
+              "t": 369.0839995078125,
+              "r": 552.8049959999997,
+              "b": 347.27824034550883,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              350
+            ]
+          }
+        ],
+        "orig": "On  the  birth  anniversary  of  Mahatma  Gandhi  i.e 'Sramdaan' from 8AM to 9 AM in the institute premises by cleaning the drains and passages On  the  birth  anniversary  of  Mahatma  Gandhi  i.e.  02/10/2019  the  faculty  members  voluntarily in the institute premises by cleaning the drains and passages. voluntarily  participated  in  one  hour",
+        "text": "On  the  birth  anniversary  of  Mahatma  Gandhi  i.e 'Sramdaan' from 8AM to 9 AM in the institute premises by cleaning the drains and passages On  the  birth  anniversary  of  Mahatma  Gandhi  i.e.  02/10/2019  the  faculty  members  voluntarily in the institute premises by cleaning the drains and passages. voluntarily  participated  in  one  hour"
+      },
+      {
+        "self_ref": "#/texts/25",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 503.6447999999999,
+              "t": 22.04687950781249,
+              "r": 553.0487999999999,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 2 of 4",
+        "text": "Page 2 of 4"
+      },
+      {
+        "self_ref": "#/texts/26",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 32.093096041884806,
+              "t": 799.1146795078124,
+              "r": 507.769394,
+              "b": 790.4499412879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              191
+            ]
+          }
+        ],
+        "orig": "3. Introduction of e procurement system and publication of first tender on e Introduction of e procurement system and publication of first tender on e procurement website procurement website:",
+        "text": "3. Introduction of e procurement system and publication of first tender on e Introduction of e procurement system and publication of first tender on e procurement website procurement website:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/27",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 32.64,
+              "t": 786.9873595078124,
+              "r": 571.884,
+              "b": 761.638240345509,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              304
+            ]
+          }
+        ],
+        "orig": "On the 4 th October2019 e-procurement system was introduced in WP and the first e tender was uploaded of government of Tripura. procurement system was introduced in WP and the first e tender was uploaded procurement system was introduced in WP and the first e tender was uploaded in e-procurement website",
+        "text": "On the 4 th October2019 e-procurement system was introduced in WP and the first e tender was uploaded of government of Tripura. procurement system was introduced in WP and the first e tender was uploaded procurement system was introduced in WP and the first e tender was uploaded in e-procurement website"
+      },
+      {
+        "self_ref": "#/texts/28",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 27.41147204188481,
+              "t": 660.5117995078125,
+              "r": 249.39900999999998,
+              "b": 651.8470612879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              56
+            ]
+          }
+        ],
+        "orig": "4. \"Clean your Own Classroom\"  by NSS Unit by NSS Unit :",
+        "text": "4. \"Clean your Own Classroom\"  by NSS Unit by NSS Unit :",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/29",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 27.96,
+              "t": 644.8439995078126,
+              "r": 575.4055440000002,
+              "b": 608.638240345509,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              615
+            ]
+          }
+        ],
+        "orig": "As a part of Swaccha Bharat Abhiyan, and also keeping in mind the occasion of birth anniversary of Mahatma Gandhi, the took part in clean your own classroom activity Unit, WP. s a part of Swaccha Bharat Abhiyan, and also keeping in mind the occasion of birth anniversary of Mahatma Gandhi, the took part in clean your own classroom activity on 02/11/2019 under the supervision of Dr. Surajit Debnath, Program Officer, NSS s a part of Swaccha Bharat Abhiyan, and also keeping in mind the occasion of birth anniversary of Mahatma Gandhi, the students under the supervision of Dr. Surajit Debnath, Program Officer, NSS",
+        "text": "As a part of Swaccha Bharat Abhiyan, and also keeping in mind the occasion of birth anniversary of Mahatma Gandhi, the took part in clean your own classroom activity Unit, WP. s a part of Swaccha Bharat Abhiyan, and also keeping in mind the occasion of birth anniversary of Mahatma Gandhi, the took part in clean your own classroom activity on 02/11/2019 under the supervision of Dr. Surajit Debnath, Program Officer, NSS s a part of Swaccha Bharat Abhiyan, and also keeping in mind the occasion of birth anniversary of Mahatma Gandhi, the students under the supervision of Dr. Surajit Debnath, Program Officer, NSS"
+      },
+      {
+        "self_ref": "#/texts/30",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 27.406880041884815,
+              "t": 232.34795950781245,
+              "r": 215.41761799999998,
+              "b": 223.68322128791715,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              39
+            ]
+          }
+        ],
+        "orig": "5. Celebration of The Constitution Day:",
+        "text": "5. Celebration of The Constitution Day:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/31",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 27.96,
+              "t": 216.68399950781247,
+              "r": 571.764,
+              "b": 194.87824034550886,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              152
+            ]
+          }
+        ],
+        "orig": "On 26/11/2019, along with the whole nation, th befitting manner. he Constitution Day was celebrated by the faculty mem mbers and the students of WP in a",
+        "text": "On 26/11/2019, along with the whole nation, th befitting manner. he Constitution Day was celebrated by the faculty mem mbers and the students of WP in a"
+      },
+      {
+        "self_ref": "#/texts/32",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 503.6447999999999,
+              "t": 22.04687950781249,
+              "r": 553.0487999999999,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 3 of 4",
+        "text": "Page 3 of 4"
+      },
+      {
+        "self_ref": "#/texts/33",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 25.135198041884838,
+              "t": 812.1859195078124,
+              "r": 234.99217599999997,
+              "b": 803.5211812879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              83
+            ]
+          }
+        ],
+        "orig": "6.  Motivational Speech by Eminent Person .  Motivational Speech by Eminent Person:",
+        "text": "6.  Motivational Speech by Eminent Person .  Motivational Speech by Eminent Person:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/34",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 25.68,
+              "t": 796.4039995078125,
+              "r": 288.792,
+              "b": 745.9182403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              208
+            ]
+          }
+        ],
+        "orig": "On 30/10/2019 the eminent education Bhattacharya,  Former  Director  of  NITTTR, motivational speech delivered in front of the and students of the institute. nist, Prof. S.K Kolkata  had  his faculty  members",
+        "text": "On 30/10/2019 the eminent education Bhattacharya,  Former  Director  of  NITTTR, motivational speech delivered in front of the and students of the institute. nist, Prof. S.K Kolkata  had  his faculty  members"
+      },
+      {
+        "self_ref": "#/texts/35",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 25.60697604188481,
+              "t": 543.8674795078125,
+              "r": 259.107314,
+              "b": 535.2027412879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              60
+            ]
+          }
+        ],
+        "orig": "8. Internal Exhibition of Creativity by FT Branch FT Branch:",
+        "text": "8. Internal Exhibition of Creativity by FT Branch FT Branch:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/36",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 26.160000000000004,
+              "t": 531.6289195078125,
+              "r": 539.244,
+              "b": 520.6782403455088,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              134
+            ]
+          }
+        ],
+        "orig": "The 3 rd year students of Fashion Technology br ranch showcased their artistic materials which they prepared prepared as project work.",
+        "text": "The 3 rd year students of Fashion Technology br ranch showcased their artistic materials which they prepared prepared as project work."
+      },
+      {
+        "self_ref": "#/texts/37",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 25.1309580418848,
+              "t": 281.1931195078125,
+              "r": 462.506136,
+              "b": 272.5283812879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              107
+            ]
+          }
+        ],
+        "orig": "9. Participation of Faculty Members in O One Week FDP on Student Induction at SMIT, Sikkim at SMIT, Sikkim:",
+        "text": "9. Participation of Faculty Members in O One Week FDP on Student Induction at SMIT, Sikkim at SMIT, Sikkim:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/38",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 25.68,
+              "t": 265.4039995078125,
+              "r": 571.644,
+              "b": 243.59824034550888,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              158
+            ]
+          }
+        ],
+        "orig": "Two of the faculty members had participated 16 th - 22 nd December 2019. in one week FDP on Student Induction at Sikkim Man nipal Institute of Technology from",
+        "text": "Two of the faculty members had participated 16 th - 22 nd December 2019. in one week FDP on Student Induction at Sikkim Man nipal Institute of Technology from"
+      },
+      {
+        "self_ref": "#/texts/39",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 306.4265980418848,
+              "t": 812.1859195078124,
+              "r": 503.914336,
+              "b": 803.5211812879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              51
+            ]
+          }
+        ],
+        "orig": "7.  Conduction of Semester of Semester Examination:",
+        "text": "7.  Conduction of Semester of Semester Examination:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/40",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 306.972,
+              "t": 796.4039995078125,
+              "r": 571.6445519999999,
+              "b": 760.1982403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              137
+            ]
+          }
+        ],
+        "orig": "During  the  month  of  December appeared in the semester University. December  2019,  the  students  of  WP examinations held by Tripura",
+        "text": "During  the  month  of  December appeared in the semester University. December  2019,  the  students  of  WP examinations held by Tripura"
+      },
+      {
+        "self_ref": "#/texts/41",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 503.6447999999999,
+              "t": 22.04687950781249,
+              "r": 553.0487999999999,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 4 of 4",
+        "text": "Page 4 of 4"
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 23.504533767700195,
+              "t": 819.2043704986572,
+              "r": 86.38065338134766,
+              "b": 758.8585586547852,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 27.968381881713867,
+              "t": 695.543701171875,
+              "r": 569.26806640625,
+              "b": 522.4967956542969,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 32.63546371459961,
+              "t": 470.05206298828125,
+              "r": 264.9650573730469,
+              "b": 258.6058349609375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 511.0431213378906,
+              "t": 821.4451541900635,
+              "r": 571.86376953125,
+              "b": 760.0769195556641,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 139.70962524414062,
+              "t": 823.7842636108398,
+              "r": 176.44342041015625,
+              "b": 790.9888038635254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 426.434814453125,
+              "t": 825.3071212768555,
+              "r": 463.6866455078125,
+              "b": 791.7904739379883,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 506.2911376953125,
+              "t": 786.8417510986328,
+              "r": 575.4169311523438,
+              "b": 732.0392837524414,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/7",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 42.06651306152344,
+              "t": 680.2857513427734,
+              "r": 546.1190795898438,
+              "b": 456.3916320800781,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/8",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 50.62908935546875,
+              "t": 340.0116271972656,
+              "r": 543.8126220703125,
+              "b": 82.54571533203125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/9",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 46.699344635009766,
+              "t": 745.5998992919922,
+              "r": 83.83052062988281,
+              "b": 694.9288787841797,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/10",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 45.49273681640625,
+              "t": 605.4760589599609,
+              "r": 251.19883728027344,
+              "b": 450.6166076660156,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/11",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 397.3154602050781,
+              "t": 608.57373046875,
+              "r": 556.046630859375,
+              "b": 450.47772216796875,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/12",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 251.87823486328125,
+              "t": 606.8845062255859,
+              "r": 396.6629943847656,
+              "b": 450.62994384765625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/13",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 94.08403015136719,
+              "t": 439.93267822265625,
+              "r": 507.6551208496094,
+              "b": 280.6126708984375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/14",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 54.01933288574219,
+              "t": 185.14447021484375,
+              "r": 260.58612060546875,
+              "b": 57.7720947265625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/15",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 299.9679870605469,
+              "t": 186.0181884765625,
+              "r": 529.04541015625,
+              "b": 58.81787109375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/16",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 25.03721046447754,
+              "t": 746.3164825439453,
+              "r": 287.5177917480469,
+              "b": 578.1861267089844,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/17",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 144.9737091064453,
+              "t": 503.4349670410156,
+              "r": 448.7582092285156,
+              "b": 313.906982421875,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/18",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 41.43083190917969,
+              "t": 243.56915283203125,
+              "r": 319.4360656738281,
+              "b": 74.684814453125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/19",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 306.1578063964844,
+              "t": 747.4953231811523,
+              "r": 564.4989013671875,
+              "b": 578.2671203613281,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 1
+      },
+      "2": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 2
+      },
+      "3": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 3
+      },
+      "4": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 4
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+collection:
+  name: west_tripura_pages
+  vectors:
+    size: 1024
+    distance: Cosine
+  sparse_vectors:
+    bm25:
+      index:
+        full_scan_threshold: 10000
+
+payload_indexes:
+  - field_name: url
+    type: text
+    tokenizer: word
+  - field_name: domain
+    type: keyword
+  - field_name: category
+    type: keyword
+  - field_name: language
+    type: keyword
+  - field_name: section
+    type: text
+    tokenizer: word
+  - field_name: depth
+    type: integer
+  - field_name: chunk_index
+    type: integer
+
+optimizers:
+  memmap_threshold: 20000
+  indexing_threshold: 10000

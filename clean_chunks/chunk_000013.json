@@ -1,0 +1,27 @@
+{
+  "chunk_id": "accommodation_af4c951f__755c5ea0ad1a__chunk_0000",
+  "document_id": "accommodation_af4c951f__755c5ea0ad1a",
+  "parent_document": "accommodation_af4c951f__755c5ea0ad1a",
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "previous_chunk_id": "",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/accommodation/",
+  "heading_chain": [
+    "Accommodation(Hotel/Resort/Dharamsala)"
+  ],
+  "heading": "Accommodation(Hotel/Resort/Dharamsala)",
+  "section": "Accommodation(Hotel/Resort/Dharamsala)",
+  "sub_section": "",
+  "text": "# Accommodation(Hotel/Resort/Dharamsala)\n\nGitanjali Guest House, Yatrika, Bhagat Singh Youth Hostel and Private Hotels",
+  "content": "# Accommodation(Hotel/Resort/Dharamsala)\n\nGitanjali Guest House, Yatrika, Bhagat Singh Youth Hostel and Private Hotels",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 35,
+  "character_count": 118,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:31:01.030410Z",
+  "sha256": "1479b9ca2ddccd0ad9f7b2db1cbabc6a998dd8586970f0da854f51081a20fd05"
+}

@@ -1,0 +1,29 @@
+{
+  "chunk_id": "bn_e0_a6_b8_e0_a6_b9_e0_a6_be_e0_a7_9f_e0_a6_a4_e0_a6_be_8376ec67__8bb4ba519abf__chunk_0003",
+  "document_id": "bn_e0_a6_b8_e0_a6_b9_e0_a6_be_e0_a7_9f_e0_a6_a4_e0_a6_be_8376ec67__8bb4ba519abf",
+  "parent_document": "bn_e0_a6_b8_e0_a6_b9_e0_a6_be_e0_a7_9f_e0_a6_a4_e0_a6_be_8376ec67__8bb4ba519abf",
+  "chunk_index": 3,
+  "total_chunks": 6,
+  "previous_chunk_id": "bn_e0_a6_b8_e0_a6_b9_e0_a6_be_e0_a7_9f_e0_a6_a4_e0_a6_be_8376ec67__8bb4ba519abf__chunk_0002",
+  "next_chunk_id": "bn_e0_a6_b8_e0_a6_b9_e0_a6_be_e0_a7_9f_e0_a6_a4_e0_a6_be_8376ec67__8bb4ba519abf__chunk_0004",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/bn/%e0%a6%b8%e0%a6%b9%e0%a6%be%e0%a7%9f%e0%a6%a4%e0%a6%be/",
+  "heading_chain": [
+    "সহায়তা",
+    "বিভিন্ন ফাইল ফরম্যাটে তথ্য দেখা",
+    "**ফাইল ফরম্যাটের জন্য বিকল্প প্লাগইন**"
+  ],
+  "heading": "সহায়তা",
+  "section": "সহায়তা",
+  "sub_section": "**ফাইল ফরম্যাটের জন্য বিকল্প প্লাগইন**",
+  "text": "## বিভিন্ন ফাইল ফরম্যাটে তথ্য দেখা",
+  "content": "## বিভিন্ন ফাইল ফরম্যাটে তথ্য দেখা",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 37,
+  "character_count": 34,
+  "has_table": true,
+  "has_list": false,
+  "created_at": "2026-07-11T20:33:21.449156Z",
+  "sha256": "647ee97f3af65f2b4536f107c967821f4fc46531d8e7a5328a6c7c0fdd4f3d08"
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "images_EVEN_20Sementer_20On_20line_20Class_202021_pdf_e567498b_743549d147f9_md",
+  "source_path": "images_EVEN_20Sementer_20On_20line_20Class_202021_pdf_e567498b__743549d147f9.md",
+  "title": "Server Error",
+  "metadata": {
+    "document_id": "images_EVEN_20Sementer_20On_20line_20Class_202021_pdf_e567498b__743549d147f9",
+    "source_path": "images__EVEN_20Sementer_20On_20line_20Class_202021.pdf__e567498b.md",
+    "url": "https://wptripura.nic.in/images/EVEN%20Sementer%20On%20line%20Class%202021.pdf",
+    "depth": "5",
+    "crawled_at": "2026-07-11T20:40:26.087269Z",
+    "title": "Server Error",
+    "content": "---\nurl: https://wptripura.nic.in/images/EVEN%20Sementer%20On%20line%20Class%202021.pdf\ndepth: 5\nscore: 0\ncrawled_at: 2026-07-11T20:40:26.087269Z\n---\n# Server Error\n## 404 - File or directory not found.\n### The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "language": "en",
+    "content_hash": "2946ab79f464f67a8bde7fa7bc97f134aa1add417a22eec8b373bf470686da1c",
+    "metadata": {
+      "source_path": "images__EVEN_20Sementer_20On_20line_20Class_202021.pdf__e567498b.md",
+      "url": "https://wptripura.nic.in/images/EVEN%20Sementer%20On%20line%20Class%202021.pdf",
+      "depth": 5,
+      "crawled_at": "2026-07-11T20:40:26.087269Z",
+      "language": "en",
+      "content_hash": "2946ab79f464f67a8bde7fa7bc97f134aa1add417a22eec8b373bf470686da1c"
+    },
+    "score": "0"
+  },
+  "tree": {
+    "type": "document",
+    "title": "Document",
+    "level": 0,
+    "text": "",
+    "metadata": {
+      "source_path": "images_EVEN_20Sementer_20On_20line_20Class_202021_pdf_e567498b__743549d147f9.md"
+    },
+    "children": [
+      {
+        "type": "heading",
+        "title": "Server Error",
+        "level": 1,
+        "text": "Server Error",
+        "metadata": {
+          "heading_chain": [
+            "Server Error"
+          ]
+        },
+        "children": [
+          {
+            "type": "heading",
+            "title": "404 - File or directory not found.",
+            "level": 2,
+            "text": "404 - File or directory not found.",
+            "metadata": {
+              "heading_chain": [
+                "Server Error",
+                "404 - File or directory not found."
+              ]
+            },
+            "children": [
+              {
+                "type": "heading",
+                "title": "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+                "level": 3,
+                "text": "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+                "metadata": {
+                  "heading_chain": [
+                    "Server Error",
+                    "404 - File or directory not found.",
+                    "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+                  ]
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

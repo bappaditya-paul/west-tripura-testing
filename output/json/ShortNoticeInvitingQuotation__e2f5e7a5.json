@@ -1,0 +1,536 @@
+{
+  "metadata": {
+    "id": "ShortNoticeInvitingQuotation__e2f5e7a5",
+    "url": "http://wptripura.nic.in/ShortNoticeInvitingQuotation.pdf",
+    "file_name": "ShortNoticeInvitingQuotation__e2f5e7a5.pdf",
+    "title": "Shortnoticeinvitingquotation",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T21:26:13.462830+00:00",
+    "page_count": 1,
+    "tables": 0,
+    "images": 0,
+    "word_count": 48,
+    "sha256": "7ae1c4298e8a8f8919d11095d84496abbde9e174aab92eb103a184b13e3cc3b7",
+    "file_size_bytes": 47319,
+    "processing_status": "success",
+    "parser_used": "docling+ocr",
+    "extraction_time_s": 29.727,
+    "local_path": "output/documents/pdf/ShortNoticeInvitingQuotation__e2f5e7a5.pdf",
+    "markdown_path": "output/markdown/ShortNoticeInvitingQuotation__e2f5e7a5.md",
+    "json_path": "output/json/ShortNoticeInvitingQuotation__e2f5e7a5.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "ShortNoticeInvitingQuotation__e2f5e7a5",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 261636150152446903,
+      "filename": "ShortNoticeInvitingQuotation__e2f5e7a5.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/pictures/0"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/4"
+          },
+          {
+            "$ref": "#/texts/5"
+          },
+          {
+            "$ref": "#/texts/6"
+          },
+          {
+            "$ref": "#/texts/7"
+          },
+          {
+            "$ref": "#/texts/8"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 219.5390625,
+              "t": 687.0120951334635,
+              "r": 385.6875,
+              "b": 675.8346761067709,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              28
+            ]
+          }
+        ],
+        "orig": "ShortNoticeInvitingQuotation",
+        "text": "ShortNoticeInvitingQuotation",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 91.640625,
+              "t": 660.6653137207031,
+              "r": 514.3828125,
+              "b": 616.3548380533854,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              181
+            ]
+          }
+        ],
+        "orig": "The undersigned hereby invites \"Short Notice Inviting Quotationfrom the experienced suppliers/manufacturesfor supply of several OfficeStationery itemsfor Women'sPolytechnic,Hapania.",
+        "text": "The undersigned hereby invites \"Short Notice Inviting Quotationfrom the experienced suppliers/manufacturesfor supply of several OfficeStationery itemsfor Women'sPolytechnic,Hapania."
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 91.640625,
+              "t": 602.7822469075521,
+              "r": 515.1796875,
+              "b": 577.633056640625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              161
+            ]
+          }
+        ],
+        "orig": "Last dateof droppingquotations is11/03/2024 upto2.00pm.Details of these items are availablein the officeof theundersigned orvisit thewebsitewww.wptripura.nic.in.",
+        "text": "Last dateof droppingquotations is11/03/2024 upto2.00pm.Details of these items are availablein the officeof theundersigned orvisit thewebsitewww.wptripura.nic.in."
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 389.671875,
+              "t": 549.6895141601562,
+              "r": 506.015625,
+              "b": 503.78224690755206,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              52
+            ]
+          }
+        ],
+        "orig": "(Dr.Tirtharaj Sen,FIE) Principal Women's Polytechnic",
+        "text": "(Dr.Tirtharaj Sen,FIE) Principal Women's Polytechnic"
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 506.015625,
+              "t": 451.48789469401044,
+              "r": 544.265625,
+              "b": 440.3104654947917,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              4
+            ]
+          }
+        ],
+        "orig": "2024",
+        "text": "2024"
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 409.59375,
+              "t": 411.5685221354167,
+              "r": 517.171875,
+              "b": 405.5806477864583,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              18
+            ]
+          }
+        ],
+        "orig": "(Dr.Tirtharaj Sen)",
+        "text": "(Dr.Tirtharaj Sen)"
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 437.8828125,
+              "t": 400.39111328125,
+              "r": 496.0546875,
+              "b": 391.6088460286458,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              9
+            ]
+          }
+        ],
+        "orig": "Principal",
+        "text": "Principal"
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 413.9765625,
+              "t": 386.4193522135417,
+              "r": 521.5546875,
+              "b": 382.4274088541667,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              18
+            ]
+          }
+        ],
+        "orig": "Women'sPolytochnin",
+        "text": "Women'sPolytochnin"
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 413.9765625,
+              "t": 375.64111328125,
+              "r": 499.2421875,
+              "b": 368.4556477864583,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              14
+            ]
+          }
+        ],
+        "orig": "Hepania,Tnpura",
+        "text": "Hepania,Tnpura"
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 506.015625,
+              "t": 451.48789469401044,
+              "r": 544.265625,
+              "b": 440.3104654947917,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              4
+            ]
+          }
+        ],
+        "orig": "2024",
+        "text": "2024"
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 409.59375,
+              "t": 411.5685221354167,
+              "r": 517.171875,
+              "b": 405.5806477864583,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              18
+            ]
+          }
+        ],
+        "orig": "(Dr.Tirtharaj Sen)",
+        "text": "(Dr.Tirtharaj Sen)"
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 437.8828125,
+              "t": 400.39111328125,
+              "r": 496.0546875,
+              "b": 391.6088460286458,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              9
+            ]
+          }
+        ],
+        "orig": "Principal",
+        "text": "Principal"
+      },
+      {
+        "self_ref": "#/texts/12",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 413.9765625,
+              "t": 386.4193522135417,
+              "r": 521.5546875,
+              "b": 382.4274088541667,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              18
+            ]
+          }
+        ],
+        "orig": "Women'sPolytochnin",
+        "text": "Women'sPolytochnin"
+      },
+      {
+        "self_ref": "#/texts/13",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 413.9765625,
+              "t": 375.64111328125,
+              "r": 499.2421875,
+              "b": 368.4556477864583,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              14
+            ]
+          }
+        ],
+        "orig": "Hepania,Tnpura",
+        "text": "Hepania,Tnpura"
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/9"
+          },
+          {
+            "$ref": "#/texts/10"
+          },
+          {
+            "$ref": "#/texts/11"
+          },
+          {
+            "$ref": "#/texts/12"
+          },
+          {
+            "$ref": "#/texts/13"
+          }
+        ],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 407.9772033691406,
+              "t": 456.9526672363281,
+              "r": 545.416015625,
+              "b": 364.72314453125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 612.0,
+          "height": 792.0
+        },
+        "page_no": 1
+      }
+    }
+  }
+}

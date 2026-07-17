@@ -1,0 +1,27 @@
+{
+  "chunk_id": "bn_e0_a6_aa_e0_a7_81_e0_a6_b2_e0_a6_bf_e0_a6_b6_b45d1e22__9d4453a72194__chunk_0000",
+  "document_id": "bn_e0_a6_aa_e0_a7_81_e0_a6_b2_e0_a6_bf_e0_a6_b6_b45d1e22__9d4453a72194",
+  "parent_document": "bn_e0_a6_aa_e0_a7_81_e0_a6_b2_e0_a6_bf_e0_a6_b6_b45d1e22__9d4453a72194",
+  "chunk_index": 0,
+  "total_chunks": 3,
+  "previous_chunk_id": "",
+  "next_chunk_id": "bn_e0_a6_aa_e0_a7_81_e0_a6_b2_e0_a6_bf_e0_a6_b6_b45d1e22__9d4453a72194__chunk_0001",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/bn/%e0%a6%aa%e0%a7%81%e0%a6%b2%e0%a6%bf%e0%a6%b6/",
+  "heading_chain": [
+    "পুলিশ"
+  ],
+  "heading": "পুলিশ",
+  "section": "পুলিশ",
+  "sub_section": "",
+  "text": "# পুলিশ\n\nপুলিশ স্টেশনের বিবরণ",
+  "content": "# পুলিশ\n\nপুলিশ স্টেশনের বিবরণ",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 35,
+  "character_count": 29,
+  "has_table": true,
+  "has_list": false,
+  "created_at": "2026-07-11T20:33:10.388361Z",
+  "sha256": "e33f85eae543d842e2abb76e8c9b57dbaaa60ed18d0403c362134a091f92f414"
+}

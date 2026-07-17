@@ -1,0 +1,28 @@
+{
+  "chunk_id": "public_utility_category_postal_070efd23__9be27b82bdaf__chunk_0003",
+  "document_id": "public_utility_category_postal_070efd23__9be27b82bdaf",
+  "parent_document": "public_utility_category_postal_070efd23__9be27b82bdaf",
+  "chunk_index": 3,
+  "total_chunks": 10,
+  "previous_chunk_id": "public_utility_category_postal_070efd23__9be27b82bdaf__chunk_0002",
+  "next_chunk_id": "public_utility_category_postal_070efd23__9be27b82bdaf__chunk_0004",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/public-utility-category/postal/",
+  "heading_chain": [
+    "Postal",
+    "Agartala Postal HO"
+  ],
+  "heading": "Postal",
+  "section": "Postal",
+  "sub_section": "Agartala Postal HO",
+  "text": "## Agartala Postal HO\n\n* **Phone :** 232-5489\n* **Website Link :**\n* **Category/Type:** postal",
+  "content": "## Agartala Postal HO\n\n* **Phone :** 232-5489\n* **Website Link :**\n* **Category/Type:** postal",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 31,
+  "character_count": 94,
+  "has_table": false,
+  "has_list": true,
+  "created_at": "2026-07-11T20:32:10.337902Z",
+  "sha256": "a197d09d6c514dd7e7c8cfeeafb8ddcd00be5a9cd5ab455d5389a0bc8b80cca0"
+}

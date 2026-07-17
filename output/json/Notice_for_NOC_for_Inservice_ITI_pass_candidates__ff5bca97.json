@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "id": "Notice_for_NOC_for_Inservice_ITI_pass_candidates__ff5bca97",
+    "url": "https://www.wptripura.nic.in/images/Notice%20for%20NOC%20for%20Inservice%20ITI%20pass%20candidates.pdf",
+    "file_name": "Notice_for_NOC_for_Inservice_ITI_pass_candidates__ff5bca97.pdf",
+    "title": "Notice%20For%20Noc%20For%20Inservice%20Iti%20Pass%20Candidates",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T22:35:52.478982+00:00",
+    "page_count": 1,
+    "tables": 0,
+    "images": 0,
+    "word_count": 163,
+    "sha256": "267830d30a303fd29e52f87d31d62d5ffa83dcb34a1213616a78b94354de83e6",
+    "file_size_bytes": 461931,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 2.826,
+    "local_path": "output/documents/pdf/Notice_for_NOC_for_Inservice_ITI_pass_candidates__ff5bca97.pdf",
+    "markdown_path": "output/markdown/Notice_for_NOC_for_Inservice_ITI_pass_candidates__ff5bca97.md",
+    "json_path": "output/json/Notice_for_NOC_for_Inservice_ITI_pass_candidates__ff5bca97.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "Notice_for_NOC_for_Inservice_ITI_pass_candidates__ff5bca97",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 7672085664063456230,
+      "filename": "Notice_for_NOC_for_Inservice_ITI_pass_candidates__ff5bca97.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/groups/0"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/5"
+          },
+          {
+            "$ref": "#/texts/6"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 176.88,
+              "t": 744.2139926757812,
+              "r": 419.48400000000004,
+              "b": 732.1889926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              35
+            ]
+          }
+        ],
+        "orig": "EENTn.*L SEIIEEflON COMMITTEE.2O2 1",
+        "text": "EENTn.*L SEIIEEflON COMMITTEE.2O2 1",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 98.88,
+              "t": 725.8549926757813,
+              "r": 498.403,
+              "b": 694.8524926757814,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              87
+            ]
+          }
+        ],
+        "orig": "Educational Notification for Admission in Diploma Eneineering through lTl Lateral Entrv",
+        "text": "Educational Notification for Admission in Diploma Eneineering through lTl Lateral Entrv",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 91.44,
+              "t": 669.2169926757813,
+              "r": 508.835,
+              "b": 537.5864926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              580
+            ]
+          }
+        ],
+        "orig": "Diploma in Engineering under Lateral Entry scheme from ITIs, is a regular course, hence all In-service candidates have to submit 'No Objection Certificate' fiom their present employer to the office of the Central Selection Committee (CSC) at Birchandra State Central Library on 4th and 5'h October 2A21 from 11.00 A.M to 4.00 PM. Further, such candidates also have to produce  their 'Release Order' fiom their employer at the time of admission in respective  Polytechnic  Institutes. Otherwise, their candidature will not be considered  and their admission  will not be confirmed.",
+        "text": "Diploma in Engineering under Lateral Entry scheme from ITIs, is a regular course, hence all In-service candidates have to submit 'No Objection Certificate' fiom their present employer to the office of the Central Selection Committee (CSC) at Birchandra State Central Library on 4th and 5'h October 2A21 from 11.00 A.M to 4.00 PM. Further, such candidates also have to produce  their 'Release Order' fiom their employer at the time of admission in respective  Polytechnic  Institutes. Otherwise, their candidature will not be considered  and their admission  will not be confirmed."
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 91.68,
+              "t": 528.3349926757813,
+              "r": 509.625,
+              "b": 458.0099926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              287
+            ]
+          }
+        ],
+        "orig": "Fufthermore,  if any candidate  suppresses their status of employment at the time of admission and do not produce  any NOC & Release  Order from their employer and the matter  comes into fbcus in later date. in such cases  admission of those candidates wili be cancelled  then and there.",
+        "text": "Fufthermore,  if any candidate  suppresses their status of employment at the time of admission and do not produce  any NOC & Release  Order from their employer and the matter  comes into fbcus in later date. in such cases  admission of those candidates wili be cancelled  then and there."
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 487.2,
+              "t": 457.61399267578133,
+              "r": 560.559,
+              "b": 427.0889926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              6
+            ]
+          }
+        ],
+        "orig": ",z\\'!P",
+        "text": ",z\\'!P"
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 487.2,
+              "t": 457.61399267578133,
+              "r": 560.559,
+              "b": 427.0889926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              6
+            ]
+          }
+        ],
+        "orig": ",z\\'!P",
+        "text": ",z\\'!P"
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "caption",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 394.32,
+              "t": 460.3389926757813,
+              "r": 517.043,
+              "b": 399.5534926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              41
+            ]
+          }
+        ],
+        "orig": "f.# Chairman Central  Selection Committee",
+        "text": "f.# Chairman Central  Selection Committee"
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/4"
+          }
+        ],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 426.1987609863281,
+              "t": 462.1673889160156,
+              "r": 560.47900390625,
+              "b": 424.425537109375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 595.2000122070312,
+          "height": 841.6799926757812
+        },
+        "page_no": 1
+      }
+    }
+  }
+}

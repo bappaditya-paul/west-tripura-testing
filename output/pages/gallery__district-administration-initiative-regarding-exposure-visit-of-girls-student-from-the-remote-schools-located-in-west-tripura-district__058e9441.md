@@ -1,0 +1,179 @@
+---
+url: https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/
+depth: 2
+score: 0
+crawled_at: 2026-07-11T20:33:56.342121Z
+---
+
+  * [ ](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/#SkipContent "Skip to main content")
+  * Search Search
+  * [ Social Media Links ](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/# "Social Media Links")
+    * [![Facebook, External Link that opens in a new window](https://westtripura.nic.in/wp-content/themes/district-theme-11/images/ico-facebook.png)](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/#)
+    * [![X | External site that opens in a new window](https://westtripura.nic.in/wp-content/themes/district-theme-11/images/ico-twitter.png)](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/#)
+    * [![Youtube | External site that opens in a new window](https://westtripura.nic.in/wp-content/themes/district-theme-11/images/ico-youtube.png)](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/#)
+  * [ Site Map ](https://westtripura.nic.in/site-map/ "Sitemap")
+  * Accessibility Tools
+Color Contrast
+    * High Contrast High Contrast
+    * Normal Contrast Normal Contrast - Selected
+    * Highlight Links Highlight Links - Selected
+    * Invert Invert page colors
+    * Saturation Apply saturation
+Text Size
+    * Font Size Increase Font Size Increase
+    * Normal Font Normal Font - Selected
+    * Font Size Decrease Font Size Decrease
+    * Text Spacing Text Spacing
+    * Line Height Line Height
+Other Controls
+    * Big Cursor Big Cursor
+    * Hide Image Hide Image
+  *     * [বাংলা](https://westtripura.nic.in/bn/gallery/%e0%a6%aa%e0%a6%b6%e0%a7%8d%e0%a6%9a%e0%a6%bf%e0%a6%ae-%e0%a6%a4%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%be-%e0%a6%9c%e0%a7%87%e0%a6%b2%e0%a6%be%e0%a6%af%e0%a6%bc-%e0%a6%85-2/ "বাংলা")
+    * [हिन्दी](https://westtripura.nic.in/hi/ "हिन्दी")
+
+
+  * [ Government of State Name Regional ](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/ "Government of State Name Regional  - External Regional Language Site that opens in a new window")
+  * [Government of State Name English ](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/#)
+
+
+[ ![State Emblem of India](https://westtripura.nic.in/wp-content/themes/district-theme-11/images/emblem-dark.png) **पश्चिम त्रिपुरा जिला** West Tripura District ](https://westtripura.nic.in/ "Go to home")
+  * [Home](https://westtripura.nic.in/)
+  * [About District](https://westtripura.nic.in/about-district/)
+    * [Who’s Who](https://westtripura.nic.in/whos-who/)
+      * [DM & Collector Office West Tripura](https://westtripura.nic.in/dm-collector-office-west-tripura/)
+      * [SDM Sadar Office](https://westtripura.nic.in/employee-list-under-sdm-sadar/)
+      * [SDM Mohanpur Office](https://westtripura.nic.in/staff-details-of-the-sdms-office-mohanpur/)
+      * [BAMUTIA R.D.BLOCK](https://westtripura.nic.in/staff-details-of-the-bamutia-r-d-block/)
+      * [Jirania RD Block](https://westtripura.nic.in/staff-details-of-the-jirania-rd-block/)
+      * [Belbari RD Block](https://westtripura.nic.in/staff-details-of-the-belbari-rd-block/)
+        * [Belbari Village Committee](https://westtripura.nic.in/staff-details-of-the-belbari-village-committee/)
+      * [DISTRICT EDUCATION OFFICE](https://westtripura.nic.in/staff-list-of-district-education-office/)
+      * [District Inspector of Social education(DISE)](https://westtripura.nic.in/staff-details-of-district-inspector-of-social-educationdise/)
+    * [Map of District](https://westtripura.nic.in/map-of-district/)
+    * [Organisation Chart](https://westtripura.nic.in/organisation-chart/)
+    * [Administrative Setup](https://westtripura.nic.in/administrative-setup/)
+      * [District Magistrate & Collector Office](https://westtripura.nic.in/district-magistrate-collector-office/)
+      * [Tehsil](https://westtripura.nic.in/tehsil/)
+      * [Subdivision & Blocks](https://westtripura.nic.in/subdivision-blocks/)
+      * [Village & Panchayats](https://westtripura.nic.in/village-panchayats/)
+      * [Police](https://westtripura.nic.in/police/)
+      * [Courts](https://westtripura.nic.in/courts/)
+      * [Constituencies](https://westtripura.nic.in/constituencies/)
+    * [Demography](https://westtripura.nic.in/demography/)
+    * [Economy](https://westtripura.nic.in/economy/)
+  * [Directory](https://westtripura.nic.in/directory/)
+    * [Disaster Management](https://westtripura.nic.in/disaster-management/)
+    * [Helpline](https://westtripura.nic.in/helpline/)
+    * [STD & PIN Codes](https://westtripura.nic.in/std-pin-codes/)
+    * [Public Utilities](https://westtripura.nic.in/public-utilities/)
+      * [Banks](https://westtripura.nic.in/public-utility-category/banks/)
+      * [Colleges/Universities](https://westtripura.nic.in/public-utility-category/colleges/)
+      * [Electricity](https://westtripura.nic.in/public-utility-category/electricity/)
+      * [Hospitals](https://westtripura.nic.in/public-utility-category/hospitals/)
+      * [Municipalities](https://westtripura.nic.in/public-utility-category/municipality/)
+      * [NGOs](https://westtripura.nic.in/public-utility-category/ngos/)
+      * [Postal](https://westtripura.nic.in/public-utility-category/postal/)
+      * [Schools](https://westtripura.nic.in/public-utility-category/schools/)
+  * [Departments](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/#)
+    * [Health](https://westtripura.nic.in/health/)
+    * [Education](https://westtripura.nic.in/education/)
+    * [Handicraft](https://westtripura.nic.in/handicraft/)
+    * [Animal Husbandry](https://westtripura.nic.in/animal-husbandry/)
+    * [Industries & Commerce](https://westtripura.nic.in/industries-commerce/)
+  * [Tourism](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/#)
+    * [How to Reach](https://westtripura.nic.in/how-to-reach/)
+    * [Places of Interest](https://westtripura.nic.in/places-of-interest/)
+    * [Culture & Heritage](https://westtripura.nic.in/culture-heritage/)
+    * [Accommodation (Hotel/Resort/Dharamsala)](https://westtripura.nic.in/accommodation/)
+    * [Tourist Packages](https://westtripura.nic.in/tourist-packages/)
+    * [Tourist Places](https://westtripura.nic.in/tourist-places/)
+    * [Newsletter – Swadesh Darshan 2.0](https://westtripura.nic.in/swadesh-darshan/)
+    * [Logo and Tagline Competition](https://westtripura.nic.in/logo-and-tagline-competition/)
+  * [ELECTION](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/#)
+    * [District Election Officer](https://westtripura.nic.in/deo/)
+    * [Contact Details of DEO,Dy.DEO](https://westtripura.nic.in/contact-details-of-deody-deo/)
+    * [List of Civil Sector Officers](https://westtripura.nic.in/list-of-sector-officers/)
+    * [Know Your BLO](https://westtripura.nic.in/know-your-blo/)
+    * [Assembly Contituencies](https://westtripura.nic.in/assembly-contituencies-under-west-tripura/)
+    * [AC Wise Candidate Affidavit for 2023](https://westtripura.nic.in/ac-wise-candidate-affidavit-for-2023/)
+    * [Polling Stations](https://westtripura.nic.in/polling-stations/)
+    * [Claims and Objections in Form-9,10,11,11A, 11B i.c.w. SSR-2024](https://westtripura.nic.in/claims-and-objections-in-form-9101111a-11b-i-c-w-ssr-2024/)
+    * [Election Expenditure Registers of Candidates](https://westtripura.nic.in/election-expenditure-registers-of-candidates/)
+    * [Maps](https://westtripura.nic.in/maps/)
+  * [Notice](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/#)
+    * [Events](https://westtripura.nic.in/events/)
+    * [Upcoming Events](https://westtripura.nic.in/upcoming-events/)
+    * [Announcements](https://westtripura.nic.in/notice_category/announcements/)
+    * [Tenders](https://westtripura.nic.in/notice_category/tenders/)
+    * [Recruitment](https://westtripura.nic.in/notice_category/recruitment/)
+  * [Documents](https://westtripura.nic.in/documents/)
+    * [Covid -19 Guidelines](https://westtripura.nic.in/documents/covid-19-guidlines-2019-20/)
+  * [Forms](https://westtripura.nic.in/forms/)
+  * [More](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/# "More Menu")
+
+
+## More Menu
+  * [E-Governance](https://westtripura.nic.in/e-governance/)
+  * [RTI](https://westtripura.nic.in/rti/)
+  * [Media Gallery](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/#)
+    * [Photo Gallery](https://westtripura.nic.in/photo-gallery/)
+  * [Awards](https://westtripura.nic.in/awards/)
+  * [DBRAP-2020](https://westtripura.nic.in/dbrap1-2020)
+  * [Citizen Services](https://westtripura.nic.in/services/)
+  * [Schemes](https://westtripura.nic.in/schemes/)
+  * [নিউজলেটার – স্বদেশ দর্শন 2.0](https://westtripura.nic.in/bn/%e0%a6%b8%e0%a7%8d%e0%a6%ac%e0%a6%a6%e0%a7%87%e0%a6%b6-%e0%a6%a6%e0%a6%b0%e0%a7%8d%e0%a6%b6%e0%a6%a8/)
+  * [শিল্প ও বাণিজ্য](https://westtripura.nic.in/bn/%e0%a6%b6%e0%a6%bf%e0%a6%b2%e0%a7%8d%e0%a6%aa-%e0%a6%93-%e0%a6%ac%e0%a6%be%e0%a6%a3%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%af/)
+  * [কোভিড -19 নির্দেশিকা 2019-20](https://westtripura.nic.in/bn/%e0%a6%95%e0%a7%8b%e0%a6%ad%e0%a6%bf%e0%a6%a1-19-%e0%a6%a8%e0%a6%bf%e0%a6%b0%e0%a7%8d%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a6%be-2019-20/)
+  * [ডিবিআরপি -2020](https://westtripura.nic.in/bn/%e0%a6%a1%e0%a6%bf%e0%a6%ac%e0%a6%bf%e0%a6%86%e0%a6%b0%e0%a6%aa%e0%a6%bf-2020-2/)
+  * [লোকসভা 2019 এর হলফনামা](https://westtripura.nic.in/bn/%e0%a6%b2%e0%a7%8b%e0%a6%95%e0%a6%b8%e0%a6%ad%e0%a6%be-2019-%e0%a6%8f%e0%a6%b0-%e0%a6%b9%e0%a6%b2%e0%a6%ab%e0%a6%a8%e0%a6%be%e0%a6%ae%e0%a6%be/)
+  * [ভোটকেন্দ্র](https://westtripura.nic.in/bn/%e0%a6%ad%e0%a7%8b%e0%a6%9f%e0%a6%95%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a7%8d%e0%a6%b0/)
+  * [মানচিত্র](https://westtripura.nic.in/bn/%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%9a%e0%a6%bf%e0%a6%a4%e0%a7%8d%e0%a6%b0/)
+  * [জেলা নির্বাচন আধিকারিক](https://westtripura.nic.in/bn/%e0%a6%9c%e0%a7%87%e0%a6%b2%e0%a6%be-%e0%a6%a8%e0%a6%bf%e0%a6%b0%e0%a7%8d%e0%a6%ac%e0%a6%be%e0%a6%9a%e0%a6%a8-%e0%a6%86%e0%a6%a7%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%95/)
+  * [নির্বাচন](https://westtripura.nic.in/bn/%e0%a6%a8%e0%a6%bf%e0%a6%b0%e0%a7%8d%e0%a6%ac%e0%a6%be%e0%a6%9a%e0%a6%a8/)
+  * [ই-গভর্নেন্স](https://westtripura.nic.in/bn/%e0%a6%87-%e0%a6%97%e0%a6%ad%e0%a6%b0%e0%a7%8d%e0%a6%a8%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%b8/)
+  * [মিডিয়া গ্যালারী](https://westtripura.nic.in/bn/%e0%a6%ae%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be-%e0%a6%97%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%b0%e0%a7%80/)
+  * [লগ আউট ওয়াউথ](https://westtripura.nic.in/bn/%e0%a6%b2%e0%a6%97-%e0%a6%86%e0%a6%89%e0%a6%9f-%e0%a6%93%e0%a7%9f%e0%a6%be%e0%a6%89%e0%a6%a5/)
+  * [লগ ইন](https://westtripura.nic.in/bn/%e0%a6%b2%e0%a6%97-%e0%a6%87%e0%a6%a8/)
+  * [ঘটনা তালিকা](https://westtripura.nic.in/bn/%e0%a6%98%e0%a6%9f%e0%a6%a8%e0%a6%be-%e0%a6%a4%e0%a6%be%e0%a6%b2%e0%a6%bf%e0%a6%95%e0%a6%be/)
+  * [কোভিড -19 গাইডলাইন 2019-20](https://westtripura.nic.in/bn/%e0%a6%95%e0%a6%be%e0%a6%97%e0%a6%9c%e0%a6%aa%e0%a6%a4%e0%a7%8d%e0%a6%b0/%e0%a6%95%e0%a7%8b%e0%a6%ad%e0%a6%bf%e0%a6%a1-19-%e0%a6%97%e0%a6%be%e0%a6%87%e0%a6%a1%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%a8-2019-20/)
+
+
+![](https://westtripura.nic.in/wp-content/themes/district-theme-11/images/innerBanner.jpg)
+  * [Home](https://westtripura.nic.in/)
+  * [Media Gallery](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/#)
+  * [Photo Gallery](https://westtripura.nic.in/photo-gallery/)
+  * District Administration initiative regarding exposure visit of Girls student from the remote schools located in West Tripura district.
+
+
+
+
+# District Administration initiative regarding exposure visit of Girls student from the remote schools located in West Tripura district.
+[](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/# "Grid View") [](https://westtripura.nic.in/gallery/district-administration-initiative-regarding-exposure-visit-of-girls-student-from-the-remote-schools-located-in-west-tripura-district/# "List View")
+![](https://cdn.s3waas.gov.in/s3185c29dc24325934ee377cfda20e414c/uploads/bfi_thumb/2022082494-1-1024x768-ptqbwsl5zb0qnow2hs81r97ixwjpdisdohng1vgiqm.jpeg)
+## 1
+![](https://cdn.s3waas.gov.in/s3185c29dc24325934ee377cfda20e414c/uploads/bfi_thumb/2022082430-1-1024x768-ptqbwugucz3bawtc6t1aw8qg4oafswzucqyf0fdqe6.jpeg)
+## 2
+![](https://cdn.s3waas.gov.in/s3185c29dc24325934ee377cfda20e414c/uploads/bfi_thumb/2022082441-1-1024x768-ptqbwveojt4lmirz1bfxgqhwq25t0m3kovlwhpcc7y.jpeg)
+## 3
+![](https://cdn.s3waas.gov.in/s3185c29dc24325934ee377cfda20e414c/uploads/bfi_thumb/2022082423-1024x768-ptqbwxacxh769qp8qc96lq0twtwjg0b1d4wvg99jvi.jpeg)
+## 4
+![](https://cdn.s3waas.gov.in/s3185c29dc24325934ee377cfda20e414c/uploads/bfi_thumb/2022082460-1024x768-ptqbwy874b8glcnvkunt67sai7rwnperp9kcxj85pa.jpeg)
+## 5
+![](https://cdn.s3waas.gov.in/s3185c29dc24325934ee377cfda20e414c/uploads/bfi_thumb/2022082474-1-768x1024-ptqbx03vhzb18kl59vh2b7b7ozin33m8divbw35dcu.jpeg)
+## 6
+![](https://cdn.s3waas.gov.in/s3185c29dc24325934ee377cfda20e414c/uploads/bfi_thumb/2022082455-2-1024x768-ptqbx11potcbk6js4dvovp2oade0aspypnitdd3z6m.jpeg)
+## 7
+![](https://cdn.s3waas.gov.in/s3185c29dc24325934ee377cfda20e414c/uploads/bfi_thumb/2022082483-1024x768-ptqbx2xe2hew7eh1teoy0ollh54qq6xfdwtsbx16u6.jpeg)
+## 8
+![](https://cdn.s3waas.gov.in/s3185c29dc24325934ee377cfda20e414c/uploads/bfi_thumb/2022082476-1-1024x576-ptqbx3v89bg6j0fonx3kl6d22j03xw15q1h9t6zsny.jpeg)
+## 9
+![District Administration initiative regarding exposure visit of Girls student](https://cdn.s3waas.gov.in/s3185c29dc24325934ee377cfda20e414c/uploads/bfi_thumb/2022082461-2-1024x576-ptqc07q0ulpawlx7irg6bw4wrdosdvd7tf41x4dy3i.jpeg)
+## Visit of Girls student
+District Administration initiative regarding exposure visit of Girls student
+Content Owned by District Administration
+Developed and hosted by [National Informatics Centre](http://www.nic.in/),  
+
+Last Updated: **Jul 07, 2026**
+  * [ ![National Informatics Center,  opens in a new window](https://westtripura.nic.in/wp-content/themes/district-theme-11/images/nicLogo.png) ](http://www.nic.in/)
+
+

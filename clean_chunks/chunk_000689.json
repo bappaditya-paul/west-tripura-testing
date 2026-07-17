@@ -1,0 +1,28 @@
+{
+  "chunk_id": "public_utility_category_postal_070efd23__9be27b82bdaf__chunk_0009",
+  "document_id": "public_utility_category_postal_070efd23__9be27b82bdaf",
+  "parent_document": "public_utility_category_postal_070efd23__9be27b82bdaf",
+  "chunk_index": 9,
+  "total_chunks": 10,
+  "previous_chunk_id": "public_utility_category_postal_070efd23__9be27b82bdaf__chunk_0008",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/public-utility-category/postal/",
+  "heading_chain": [
+    "Postal",
+    "Jogendranagar Post Office"
+  ],
+  "heading": "Postal",
+  "section": "Postal",
+  "sub_section": "Jogendranagar Post Office",
+  "text": "## Jogendranagar Post Office\n\n* **Category/Type:** postal\n* Page - 1 of 2\n* **[Next]**",
+  "content": "## Jogendranagar Post Office\n\n* **Category/Type:** postal\n* Page - 1 of 2\n* **[Next]**",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 30,
+  "character_count": 86,
+  "has_table": false,
+  "has_list": true,
+  "created_at": "2026-07-11T20:32:10.337902Z",
+  "sha256": "21811827fc81d886bf22f76f91c9effd808f550a5270918ad9636eed2d8504b0"
+}

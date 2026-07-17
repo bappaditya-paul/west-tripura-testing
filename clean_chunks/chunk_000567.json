@@ -1,0 +1,28 @@
+{
+  "chunk_id": "past_events_22a96f21__234650c6e26d__chunk_0000",
+  "document_id": "past_events_22a96f21__234650c6e26d",
+  "parent_document": "past_events_22a96f21__234650c6e26d",
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "previous_chunk_id": "",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/past-events/",
+  "heading_chain": [
+    "Past Events",
+    "[Visit of The President of India]"
+  ],
+  "heading": "Past Events",
+  "section": "Past Events",
+  "sub_section": "[Visit of The President of India]",
+  "text": "# Past Events\n\n## [Visit of The President of India]\n\n**Start: 08/06/2018 | End: 10/06/2018**\nAgartala",
+  "content": "# Past Events\n\n## [Visit of The President of India]\n\n**Start: 08/06/2018 | End: 10/06/2018**\nAgartala",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 37,
+  "character_count": 101,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:34:06.069959Z",
+  "sha256": "eb50395d05fcc8cdbe1020d1b36ebd2bee52918e88c362899c870688d27d8833"
+}

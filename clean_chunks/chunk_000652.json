@@ -1,0 +1,28 @@
+{
+  "chunk_id": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502__chunk_0002",
+  "document_id": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502",
+  "parent_document": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502",
+  "chunk_index": 2,
+  "total_chunks": 3,
+  "previous_chunk_id": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502__chunk_0001",
+  "next_chunk_id": "",
+  "title": "Parichay Authenticator",
+  "url": "https://parichay.nic.in/pnv1/assets/about-parichay-authenticator",
+  "heading_chain": [
+    "Parichay Authenticator",
+    "Stepwise Guide to enable tap/token authentication on Parichay Authenticator"
+  ],
+  "heading": "Parichay Authenticator",
+  "section": "Parichay Authenticator",
+  "sub_section": "Stepwise Guide to enable tap/token authentication on Parichay Authenticator",
+  "text": "## Stepwise Guide to enable tap/token authentication on Parichay Authenticator\n\n[Click Here] to Download the User Manual\n\n* **Step 1:** Go to parichay.nic.in\n* **Step 2:** Enter your username and password in the required fields and click on the “Next” button.\n* **Step 3:** Select either “OTP on Mobile” or “Backup Code” and click on the “Next” button to proceed.\n* **Step 4:** Enter the “OTP” in the required field and click on “Next” button to complete the two-step verification process.\n* **Step 5:** Click on the top-right “button” to see the “Settings” option.\n* **Step 6:** Click on the “Settings” option to proceed.\n* **Step 7:** Click on the “OFF” button to turn ‘’ON’’ the Multi-factor Authentication in Account Settings tab.\n* **Step 8:** Now, you have to scan the QR using the Scanner of Parichay Authenticator app on your mobile.\n* **Step 9:** Open the Parichay Authenticator app on your smartphone. Click on the “Skip” button to proceed.\n* **Step 10:** Choose any one of the “Screen lock type”\n* **Step 11:** Click on the “Scan QR Code” Button.\n* **Step 12:** Scan the QR using your smartphone camera.\n\nNow, you will be able to see the token, use this to configure your account.\n\n* **Step 13:** Enter the six-digit token number in the required field below the QR Code.\n\nNow, you have successfully configured your account with Parichay Authenticator for multi-factor authentication.",
+  "content": "## Stepwise Guide to enable tap/token authentication on Parichay Authenticator\n\n[Click Here] to Download the User Manual\n\n* **Step 1:** Go to parichay.nic.in\n* **Step 2:** Enter your username and password in the required fields and click on the “Next” button.\n* **Step 3:** Select either “OTP on Mobile” or “Backup Code” and click on the “Next” button to proceed.\n* **Step 4:** Enter the “OTP” in the required field and click on “Next” button to complete the two-step verification process.\n* **Step 5:** Click on the top-right “button” to see the “Settings” option.\n* **Step 6:** Click on the “Settings” option to proceed.\n* **Step 7:** Click on the “OFF” button to turn ‘’ON’’ the Multi-factor Authentication in Account Settings tab.\n* **Step 8:** Now, you have to scan the QR using the Scanner of Parichay Authenticator app on your mobile.\n* **Step 9:** Open the Parichay Authenticator app on your smartphone. Click on the “Skip” button to proceed.\n* **Step 10:** Choose any one of the “Screen lock type”\n* **Step 11:** Click on the “Scan QR Code” Button.\n* **Step 12:** Scan the QR using your smartphone camera.\n\nNow, you will be able to see the token, use this to configure your account.\n\n* **Step 13:** Enter the six-digit token number in the required field below the QR Code.\n\nNow, you have successfully configured your account with Parichay Authenticator for multi-factor authentication.",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 351,
+  "character_count": 1394,
+  "has_table": false,
+  "has_list": true,
+  "created_at": "2026-07-11T20:36:34.595358Z",
+  "sha256": "9b0ca2ab343d583a067d9409ff8d1d9b3f5638f8389297f55dba7bff239c651d"
+}

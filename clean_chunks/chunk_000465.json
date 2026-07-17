@@ -1,0 +1,27 @@
+{
+  "chunk_id": "demography_b0502711__540ac885306d__chunk_0000",
+  "document_id": "demography_b0502711__540ac885306d",
+  "parent_document": "demography_b0502711__540ac885306d",
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "previous_chunk_id": "",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/demography/",
+  "heading_chain": [
+    "Demography"
+  ],
+  "heading": "Demography",
+  "section": "Demography",
+  "sub_section": "",
+  "text": "# Demography\n\nAs per Provisional population figures of 2011 Census, the total no of Mandals are 64.\nDemography of West District\n\n| Sl.No. | Demographic Indicator | Demographic Value |\n| 1 | Area | 12,805 Sq Km |\n| 2 | No. of Erstwhile Taluks | 19 |\n| 3 | No. of Mandal Praja Parishads | 62 |\n| 4 | No. of Municipalities | 7 |\n| 5 | No. of Census | 14 |\n| 6 | No. of Revenue Divisions | 7 |\n| 7 | No. of Revenue Mandals | 64 (62 Rural + 2 Urban) |\n| 8 | No. of Gram Panchayats | 1069 |\n| 9 | No. of Municipal Corporations | 2 |\n| 10 | No. of Villages | 1681 |",
+  "content": "# Demography\n\nAs per Provisional population figures of 2011 Census, the total no of Mandals are 64.\nDemography of West District\n\n| Sl.No. | Demographic Indicator | Demographic Value |\n| 1 | Area | 12,805 Sq Km |\n| 2 | No. of Erstwhile Taluks | 19 |\n| 3 | No. of Mandal Praja Parishads | 62 |\n| 4 | No. of Municipalities | 7 |\n| 5 | No. of Census | 14 |\n| 6 | No. of Revenue Divisions | 7 |\n| 7 | No. of Revenue Mandals | 64 (62 Rural + 2 Urban) |\n| 8 | No. of Gram Panchayats | 1069 |\n| 9 | No. of Municipal Corporations | 2 |\n| 10 | No. of Villages | 1681 |",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 197,
+  "character_count": 558,
+  "has_table": true,
+  "has_list": false,
+  "created_at": "2026-07-11T20:31:24.645060Z",
+  "sha256": "ca9c1a0bb9cf0150f3c95cf31a570b16014c36666a36ae288e7f68033cf43fad"
+}

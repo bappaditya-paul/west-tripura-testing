@@ -1,0 +1,28 @@
+{
+  "chunk_id": "service_land_records_340601f3__1ff9ca0746b3__chunk_0000",
+  "document_id": "service_land_records_340601f3__1ff9ca0746b3",
+  "parent_document": "service_land_records_340601f3__1ff9ca0746b3",
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "previous_chunk_id": "",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/service/land-records/",
+  "heading_chain": [
+    "Land Records",
+    "DLRS HQ Agartala"
+  ],
+  "heading": "Land Records",
+  "section": "Land Records",
+  "sub_section": "DLRS HQ Agartala",
+  "text": "# Land Records\n\nOnline Land Records Management System\n**Visit** :\n\n## DLRS HQ Agartala\n\nNorth Gate, Agartala\n**Location** : DCM Office East and West, Agartala | **City** : Agartala | **PIN Code** : 799001\n**Phone** : 0381-2416043 | **Email** : dmwest[dot]trp[at]nic[dot]in",
+  "content": "# Land Records\n\nOnline Land Records Management System\n**Visit** :\n\n## DLRS HQ Agartala\n\nNorth Gate, Agartala\n**Location** : DCM Office East and West, Agartala | **City** : Agartala | **PIN Code** : 799001\n**Phone** : 0381-2416043 | **Email** : dmwest[dot]trp[at]nic[dot]in",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 91,
+  "character_count": 272,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:34:20.727381Z",
+  "sha256": "a73852a4537e0de3eed1adb05a3730630c63ae2288abbc5c1009da39f593df67"
+}

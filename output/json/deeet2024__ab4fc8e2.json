@@ -1,0 +1,1516 @@
+{
+  "metadata": {
+    "id": "deeet2024__ab4fc8e2",
+    "url": "http://wptripura.nic.in/deeet2024.pdf",
+    "file_name": "deeet2024__ab4fc8e2.pdf",
+    "title": "Deeet2024",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T21:27:43.895724+00:00",
+    "page_count": 1,
+    "tables": 11,
+    "images": 0,
+    "word_count": 318,
+    "sha256": "b4855273de97fc3b3e594dc0edb8ca2a34c7fd9b0fd4e9deb236baa9c8d56f8b",
+    "file_size_bytes": 744558,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 5.562,
+    "local_path": "output/documents/pdf/deeet2024__ab4fc8e2.pdf",
+    "markdown_path": "output/markdown/deeet2024__ab4fc8e2.md",
+    "json_path": "output/json/deeet2024__ab4fc8e2.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "deeet2024__ab4fc8e2",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 12841656625875218315,
+      "filename": "deeet2024__ab4fc8e2.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/tables/0"
+        },
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/5"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 61.44,
+              "t": 121.06499267578135,
+              "r": 105.98999999999998,
+              "b": 114.12749267578135,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              14
+            ]
+          },
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 128.4,
+              "t": 119.6249926757813,
+              "r": 146.4225,
+              "b": 112.6874926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              15,
+              24
+            ]
+          }
+        ],
+        "orig": "\"d-q!-..i:nR=- ri  :':fr",
+        "text": "\"d-q!-..i:nR=- ri  :':fr"
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 161.28,
+              "t": 122.26499267578129,
+              "r": 197.34,
+              "b": 115.32749267578129,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              12
+            ]
+          }
+        ],
+        "orig": ".a.otw=..*r:",
+        "text": ".a.otw=..*r:"
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 233.76,
+              "t": 768.3409926757813,
+              "r": 380.71349999999995,
+              "b": 758.8334926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              32
+            ]
+          }
+        ],
+        "orig": "No. F. I,/DE Admission/CSCIZOZ4I",
+        "text": "No. F. I,/DE Admission/CSCIZOZ4I",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 192.0,
+              "t": 757.0569926757812,
+              "r": 422.54599999999994,
+              "b": 745.3934926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              34
+            ]
+          }
+        ],
+        "orig": "CENT\"RAI SI.ECTION COMMITTM* 2C.24",
+        "text": "CENT\"RAI SI.ECTION COMMITTM* 2C.24",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 225.84,
+              "t": 741.7029926757813,
+              "r": 387.20099999999996,
+              "b": 720.0569926757812,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              47
+            ]
+          }
+        ],
+        "orig": "EDUCATTON  {H|CHER}  DEPARTMENT GOVT. OFTRIPURA",
+        "text": "EDUCATTON  {H|CHER}  DEPARTMENT GOVT. OFTRIPURA",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 339.36,
+              "t": 698.1399926757813,
+              "r": 533.5195,
+              "b": 687.5534926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              42
+            ]
+          }
+        ],
+        "orig": "Dated, Agartala  the L6th Februa  ry, ZO24",
+        "text": "Dated, Agartala  the L6th Februa  ry, ZO24"
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 89.76,
+              "t": 668.3779926757813,
+              "r": 522.158,
+              "b": 639.7229926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              124
+            ]
+          }
+        ],
+        "orig": "Notification  for DEEET  202{ Examination  for admission  in Diploma  Eneineerins courses in Vafious Pglytechnics oJ Tripura",
+        "text": "Notification  for DEEET  202{ Examination  for admission  in Diploma  Eneineerins courses in Vafious Pglytechnics oJ Tripura",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 76.8,
+              "t": 623.9659926757813,
+              "r": 533.1125000000002,
+              "b": 559.3889926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              286
+            ]
+          }
+        ],
+        "orig": ".{sEKr rrdryqtBrfi(  wtflfu  q$ ErFilffi  qr[E  c{ <trsilir  Rffi erFfttrefi-+.  .g{ E,[ff[Tr rort'.q tsfta \"rfrs'r DEEET 2024  q;rcilArr  qrE?rrFr qE[ T.#f  ?Firr*  ffiTr  rrte,  s  t c+TFsliil 2s2a fitfis' {eir  qrrrq I  srr<erq ftl Til\"r qqrFis q,tryTF  urRqefr  firx €rs?r +<IEFII:-",
+        "text": ".{sEKr rrdryqtBrfi(  wtflfu  q$ ErFilffi  qr[E  c{ <trsilir  Rffi erFfttrefi-+.  .g{ E,[ff[Tr rort'.q tsfta \"rfrs'r DEEET 2024  q;rcilArr  qrE?rrFr qE[ T.#f  ?Firr*  ffiTr  rrte,  s  t c+TFsliil 2s2a fitfis' {eir  qrrrq I  srr<erq ftl Til\"r qqrFis q,tryTF  urRqefr  firx €rs?r +<IEFII:-"
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 73.92,
+              "t": 215.49199267578126,
+              "r": 503.143,
+              "b": 183.7934926757813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              113
+            ]
+          }
+        ],
+        "orig": "R-eTksqi{rc https://highereducation.tripura.gov.inl  g[TI-{fi?E.ffi  f,{TFf CqiFrr{  rq-r[(u wTtr{r{<rflErwt sd/_",
+        "text": "R-eTksqi{rc https://highereducation.tripura.gov.inl  g[TI-{fi?E.ffi  f,{TFf CqiFrr{  rq-r[(u wTtr{r{<rflErwt sd/_"
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 364.56,
+              "t": 178.06399267578126,
+              "r": 481.28,
+              "b": 129.28049267578126,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              66
+            ]
+          }
+        ],
+        "orig": "Dr. Tirtharij Sery  FIE) Chairman fcmralSelection Comm ittee. 2AZ4",
+        "text": "Dr. Tirtharij Sery  FIE) Chairman fcmralSelection Comm ittee. 2AZ4"
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 273.84,
+              "t": 119.39099267578126,
+              "r": 283.0919999999999,
+              "b": 115.22849267578135,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              4
+            ]
+          }
+        ],
+        "orig": "-,F#",
+        "text": "-,F#"
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 293.28,
+              "t": 122.27099267578126,
+              "r": 319.78049999999985,
+              "b": 118.10849267578135,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              15
+            ]
+          }
+        ],
+        "orig": "-\\4--q-'#-h-!a-",
+        "text": "-\\4--q-'#-h-!a-"
+      },
+      {
+        "self_ref": "#/texts/12",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 522.0,
+              "t": 121.4279926757813,
+              "r": 541.6740000000001,
+              "b": 115.87799267578134,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              7
+            ]
+          }
+        ],
+        "orig": "4a'kr_#",
+        "text": "4a'kr_#"
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 413.971435546875,
+              "t": 196.5482177734375,
+              "r": 433.923828125,
+              "b": 184.335693359375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [
+      {
+        "self_ref": "#/tables/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 56.48612976074219,
+              "t": 557.7269897460938,
+              "r": 551.0230712890625,
+              "b": 225.0828857421875,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [
+            {
+              "bbox": {
+                "l": 77.04,
+                "t": 288.14099999999996,
+                "r": 171.01950000000002,
+                "b": 297.88649999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Registration process",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 191.04,
+                "t": 289.341,
+                "r": 533.8185000000003,
+                "b": 300.4934999999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Online Registration from the website : www.highereducation.tripura.gov.in",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 78.24,
+                "t": 303.02099999999996,
+                "r": 168.5775,
+                "b": 312.97349999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 2,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Online Registration",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 221.52,
+                "t": 317.663,
+                "r": 295.51000000000005,
+                "b": 328.47,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Bebruary 2A24",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 412.32,
+                "t": 319.9419999999999,
+                "r": 472.63200000000006,
+                "b": 330.1169999999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "M:arch 2024",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 69.84,
+                "t": 344.90199999999993,
+                "r": 171.37,
+                "b": 355.10999999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Download Admit card",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 316.8,
+                "t": 341.07599999999996,
+                "r": 417.69,
+                "b": 357.72599999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "AprilZaza (f{ Week)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 61.44,
+                "t": 371.181,
+                "r": 178.0495,
+                "b": 409.5899999999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Tentative Date of DEEET- 2024 Examination",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 304.32,
+                "t": 373.46599999999995,
+                "r": 427.0560000000001,
+                "b": 385.52399999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "lgth April 2024(Friday)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 72.48,
+                "t": 414.26199999999994,
+                "r": 168.95100000000002,
+                "b": 438.86999999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Date of uploading of ModelAnswer key",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 299.04,
+                "t": 416.42599999999993,
+                "r": 432.0360000000002,
+                "b": 428.72399999999993,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "20th April 2024(Evening)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 70.08,
+                "t": 443.7819999999999,
+                "r": 170.89049999999995,
+                "b": 467.77349999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Last Date of receiving feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 323.04,
+                "t": 445.4679999999999,
+                "r": 410.736,
+                "b": 458.41799999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "23th April2024",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 64.56,
+                "t": 472.941,
+                "r": 174.4725,
+                "b": 496.33349999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Tentative date of result pubIication",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 325.2,
+                "t": 474.86699999999996,
+                "r": 408.6600000000001,
+                "b": 487.52399999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "30th April 2A24",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 70.32,
+                "t": 502.46099999999996,
+                "r": 167.94299999999996,
+                "b": 512.6534999999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Examination location",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 183.12,
+                "t": 503.3019999999999,
+                "r": 547.7999999999998,
+                "b": 558.0464999999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 3,
+              "text": "Agartala, Udaipur, Belonia, Ambassa and Dharmanagar. Applicants have to choose any two of the examination location as first and second choice. Allotment of exam centrers will he done by csc 2024 depending on the concentration of candidates in a location and the candidate,s choice.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 79.2,
+                "t": 559.8209999999999,
+                "r": 159.20699999999997,
+                "b": 569.703,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Registration Fees",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          "num_rows": 10,
+          "num_cols": 3,
+          "orientation": "rot_0",
+          "grid": [
+            [
+              {
+                "bbox": {
+                  "l": 77.04,
+                  "t": 288.14099999999996,
+                  "r": 171.01950000000002,
+                  "b": 297.88649999999996,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Registration process",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 191.04,
+                  "t": 289.341,
+                  "r": 533.8185000000003,
+                  "b": 300.4934999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "Online Registration from the website : www.highereducation.tripura.gov.in",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 191.04,
+                  "t": 289.341,
+                  "r": 533.8185000000003,
+                  "b": 300.4934999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "Online Registration from the website : www.highereducation.tripura.gov.in",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 78.24,
+                  "t": 303.02099999999996,
+                  "r": 168.5775,
+                  "b": 312.97349999999994,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 2,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Online Registration",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 78.24,
+                  "t": 303.02099999999996,
+                  "r": 168.5775,
+                  "b": 312.97349999999994,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 2,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Online Registration",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 221.52,
+                  "t": 317.663,
+                  "r": 295.51000000000005,
+                  "b": 328.47,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "Bebruary 2A24",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 412.32,
+                  "t": 319.9419999999999,
+                  "r": 472.63200000000006,
+                  "b": 330.1169999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "M:arch 2024",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 69.84,
+                  "t": 344.90199999999993,
+                  "r": 171.37,
+                  "b": 355.10999999999996,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Download Admit card",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 316.8,
+                  "t": 341.07599999999996,
+                  "r": 417.69,
+                  "b": 357.72599999999994,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "AprilZaza (f{ Week)",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 316.8,
+                  "t": 341.07599999999996,
+                  "r": 417.69,
+                  "b": 357.72599999999994,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "AprilZaza (f{ Week)",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 61.44,
+                  "t": 371.181,
+                  "r": 178.0495,
+                  "b": 409.5899999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Tentative Date of DEEET- 2024 Examination",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 304.32,
+                  "t": 373.46599999999995,
+                  "r": 427.0560000000001,
+                  "b": 385.52399999999994,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "lgth April 2024(Friday)",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 304.32,
+                  "t": 373.46599999999995,
+                  "r": 427.0560000000001,
+                  "b": 385.52399999999994,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "lgth April 2024(Friday)",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 72.48,
+                  "t": 414.26199999999994,
+                  "r": 168.95100000000002,
+                  "b": 438.86999999999995,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 5,
+                "end_row_offset_idx": 6,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Date of uploading of ModelAnswer key",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 299.04,
+                  "t": 416.42599999999993,
+                  "r": 432.0360000000002,
+                  "b": 428.72399999999993,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 5,
+                "end_row_offset_idx": 6,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "20th April 2024(Evening)",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 299.04,
+                  "t": 416.42599999999993,
+                  "r": 432.0360000000002,
+                  "b": 428.72399999999993,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 5,
+                "end_row_offset_idx": 6,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "20th April 2024(Evening)",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 70.08,
+                  "t": 443.7819999999999,
+                  "r": 170.89049999999995,
+                  "b": 467.77349999999996,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 6,
+                "end_row_offset_idx": 7,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Last Date of receiving feedback",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 323.04,
+                  "t": 445.4679999999999,
+                  "r": 410.736,
+                  "b": 458.41799999999995,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 6,
+                "end_row_offset_idx": 7,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "23th April2024",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 323.04,
+                  "t": 445.4679999999999,
+                  "r": 410.736,
+                  "b": 458.41799999999995,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 6,
+                "end_row_offset_idx": 7,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "23th April2024",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 64.56,
+                  "t": 472.941,
+                  "r": 174.4725,
+                  "b": 496.33349999999996,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 7,
+                "end_row_offset_idx": 8,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Tentative date of result pubIication",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 325.2,
+                  "t": 474.86699999999996,
+                  "r": 408.6600000000001,
+                  "b": 487.52399999999994,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 7,
+                "end_row_offset_idx": 8,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "30th April 2A24",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 325.2,
+                  "t": 474.86699999999996,
+                  "r": 408.6600000000001,
+                  "b": 487.52399999999994,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 7,
+                "end_row_offset_idx": 8,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "30th April 2A24",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 70.32,
+                  "t": 502.46099999999996,
+                  "r": 167.94299999999996,
+                  "b": 512.6534999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 8,
+                "end_row_offset_idx": 9,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Examination location",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 183.12,
+                  "t": 503.3019999999999,
+                  "r": 547.7999999999998,
+                  "b": 558.0464999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 8,
+                "end_row_offset_idx": 9,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "Agartala, Udaipur, Belonia, Ambassa and Dharmanagar. Applicants have to choose any two of the examination location as first and second choice. Allotment of exam centrers will he done by csc 2024 depending on the concentration of candidates in a location and the candidate,s choice.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 183.12,
+                  "t": 503.3019999999999,
+                  "r": 547.7999999999998,
+                  "b": 558.0464999999999,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 2,
+                "start_row_offset_idx": 8,
+                "end_row_offset_idx": 9,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 3,
+                "text": "Agartala, Udaipur, Belonia, Ambassa and Dharmanagar. Applicants have to choose any two of the examination location as first and second choice. Allotment of exam centrers will he done by csc 2024 depending on the concentration of candidates in a location and the candidate,s choice.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 79.2,
+                  "t": 559.8209999999999,
+                  "r": 159.20699999999997,
+                  "b": 569.703,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 9,
+                "end_row_offset_idx": 10,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Registration Fees",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 9,
+                "end_row_offset_idx": 10,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 9,
+                "end_row_offset_idx": 10,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ]
+          ]
+        },
+        "annotations": []
+      }
+    ],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 595.2000122070312,
+          "height": 841.6799926757812
+        },
+        "page_no": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "chunk_id": "village_panchayats_8a9e5b18__1cec154c711d__chunk_0002",
+  "document_id": "village_panchayats_8a9e5b18__1cec154c711d",
+  "parent_document": "village_panchayats_8a9e5b18__1cec154c711d",
+  "chunk_index": 2,
+  "total_chunks": 9,
+  "previous_chunk_id": "village_panchayats_8a9e5b18__1cec154c711d__chunk_0001",
+  "next_chunk_id": "village_panchayats_8a9e5b18__1cec154c711d__chunk_0003",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/village-panchayats/",
+  "heading_chain": [
+    "Village & Panchayats",
+    "GP/VC under Belabari"
+  ],
+  "heading": "Village & Panchayats",
+  "section": "Village & Panchayats",
+  "sub_section": "GP/VC under Belabari",
+  "text": "## GP/VC under Belabari\n\n1. Belbari VC\n2. Champaknagar VC\n3. Champabri VC\n4. Dakshin Radhapur VC\n5. East Belbari VC\n6. Janmejoyagar VC\n7. Jiraniakhola VC\n8. Paschim Jiraniakhola\n9. Purba Janmejoynagar\n10. Radhapur VC\n11. Shantinagar VC",
+  "content": "## GP/VC under Belabari\n\n1. Belbari VC\n2. Champaknagar VC\n3. Champabri VC\n4. Dakshin Radhapur VC\n5. East Belbari VC\n6. Janmejoyagar VC\n7. Jiraniakhola VC\n8. Paschim Jiraniakhola\n9. Purba Janmejoynagar\n10. Radhapur VC\n11. Shantinagar VC",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 101,
+  "character_count": 235,
+  "has_table": false,
+  "has_list": true,
+  "created_at": "2026-07-11T20:32:30.631790Z",
+  "sha256": "c38091b2679f5c081d192c7ccfd8b2709753f57ffddcb6beb5c5cbd69886acb7"
+}

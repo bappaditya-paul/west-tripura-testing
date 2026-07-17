@@ -1,0 +1,27 @@
+{
+  "chunk_id": "login_d03de300__6c53c603758f__chunk_0000",
+  "document_id": "login_d03de300__6c53c603758f",
+  "parent_document": "login_d03de300__6c53c603758f",
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "previous_chunk_id": "",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/login/",
+  "heading_chain": [
+    "LOGIN WITH"
+  ],
+  "heading": "LOGIN WITH",
+  "section": "LOGIN WITH",
+  "sub_section": "",
+  "text": "# LOGIN WITH\n\nLogin with your official @nic.in or @gov.in email account.\nIf you do not have official @nic.in or @gov.in email id, login/register through",
+  "content": "# LOGIN WITH\n\nLogin with your official @nic.in or @gov.in email account.\nIf you do not have official @nic.in or @gov.in email id, login/register through",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 37,
+  "character_count": 152,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:34:02.394724Z",
+  "sha256": "5eafcfae405d206d0e2262719d85bf5ba499ab00070941cd69fe105d47ec4d45"
+}

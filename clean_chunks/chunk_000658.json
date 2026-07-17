@@ -1,0 +1,27 @@
+{
+  "chunk_id": "police_fd423acd__f5ee0457085f__chunk_0000",
+  "document_id": "police_fd423acd__f5ee0457085f",
+  "parent_document": "police_fd423acd__f5ee0457085f",
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "previous_chunk_id": "",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/police/",
+  "heading_chain": [
+    "Police"
+  ],
+  "heading": "Police",
+  "section": "Police",
+  "sub_section": "",
+  "text": "# Police\n\nDetails of the Police Stations\n\n| Name of the Police Station | Contact Number |\n| Airport Police Station | +91381-234-22582 |\n| Amtali Police Station | +91381-237-03853 |\n| Budhjung Nagar Police Station | +91381-239-11044 |\n| East Agartala Police Station | +91381-232-57745 |\n| East Agartala Women PS Agartala | +91381-232-49186 |\n| Jirania Police Station | +91381-234-62227 |\n| Lefunga Police Station | +91381-286-52838 |\n| Mandai Police Station | +91381-234-64829 |\n| Radhapur Police Station | +91381-253-003510 |\n| Ranirbazar Police Station | +91381-239-678711 |\n| Sidhai Police Station | +91381-234-322212 |\n| Srinagar Police Station | +91381-286-132213 |\n| West Agartala Police Station | +91381-232-576514 |\n| West Agartala Women PS Agartala | +91381-232-545415 |\n| New Capital Complex | +91381-235-004816 |\n| A.D.Nagar Police Station | +91381-237-002117 |",
+  "content": "# Police\n\nDetails of the Police Stations\n\n| Name of the Police Station | Contact Number |\n| Airport Police Station | +91381-234-22582 |\n| Amtali Police Station | +91381-237-03853 |\n| Budhjung Nagar Police Station | +91381-239-11044 |\n| East Agartala Police Station | +91381-232-57745 |\n| East Agartala Women PS Agartala | +91381-232-49186 |\n| Jirania Police Station | +91381-234-62227 |\n| Lefunga Police Station | +91381-286-52838 |\n| Mandai Police Station | +91381-234-64829 |\n| Radhapur Police Station | +91381-253-003510 |\n| Ranirbazar Police Station | +91381-239-678711 |\n| Sidhai Police Station | +91381-234-322212 |\n| Srinagar Police Station | +91381-286-132213 |\n| West Agartala Police Station | +91381-232-576514 |\n| West Agartala Women PS Agartala | +91381-232-545415 |\n| New Capital Complex | +91381-235-004816 |\n| A.D.Nagar Police Station | +91381-237-002117 |",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 283,
+  "character_count": 871,
+  "has_table": true,
+  "has_list": false,
+  "created_at": "2026-07-11T20:31:59.365320Z",
+  "sha256": "bf0876bb1dedb7cd7b3f88f04431ee70084661399ad7550e9e7d600396cd9f3a"
+}

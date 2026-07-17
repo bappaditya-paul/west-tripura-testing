@@ -1,0 +1,27 @@
+{
+  "chunk_id": "health_84a44738__5dc4fdd984db__chunk_0000",
+  "document_id": "health_84a44738__5dc4fdd984db",
+  "parent_document": "health_84a44738__5dc4fdd984db",
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "previous_chunk_id": "",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/health/",
+  "heading_chain": [
+    "Health"
+  ],
+  "heading": "Health",
+  "section": "Health",
+  "sub_section": "",
+  "text": "# Health\n\nThe health care infrastructure is divided into three tiers – the primary health care network, a secondary care system comprising district and sub-divisional hospitals and tertiary hospitals providing specialty and super specialty care. As on 2013–14, there are 84 Primary Health Centers, 18 Community Health Centers, 13 Sub Divisional Hospitals, 3 District Hospitals, 6 State Hospitals.\nAs per SRS 2012, the state’s performance in major public health care indices, such as Birth Rate (13.9) , Infant Mortality Rate (28) and Total Fertility Rate (1.7) is better than the National Average.",
+  "content": "# Health\n\nThe health care infrastructure is divided into three tiers – the primary health care network, a secondary care system comprising district and sub-divisional hospitals and tertiary hospitals providing specialty and super specialty care. As on 2013–14, there are 84 Primary Health Centers, 18 Community Health Centers, 13 Sub Divisional Hospitals, 3 District Hospitals, 6 State Hospitals.\nAs per SRS 2012, the state’s performance in major public health care indices, such as Birth Rate (13.9) , Infant Mortality Rate (28) and Total Fertility Rate (1.7) is better than the National Average.",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 133,
+  "character_count": 597,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:31:38.945254Z",
+  "sha256": "b9464c75a55276fe8be9beed89717bbd9db9b4f9bea095bdd7ab7bafe6bc0cef"
+}

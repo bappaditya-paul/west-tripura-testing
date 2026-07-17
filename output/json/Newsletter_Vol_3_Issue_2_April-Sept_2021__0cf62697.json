@@ -1,0 +1,2578 @@
+{
+  "metadata": {
+    "id": "Newsletter_Vol_3_Issue_2_April-Sept_2021__0cf62697",
+    "url": "https://www.wptripura.nic.in/images/Newsletter_Vol_3_Issue_2_April-Sept_2021.pdf",
+    "file_name": "Newsletter_Vol_3_Issue_2_April-Sept_2021__0cf62697.pdf",
+    "title": "Newsletter Vol 3 Issue 2 April Sept 2021",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T22:31:02.016648+00:00",
+    "page_count": 4,
+    "tables": 0,
+    "images": 0,
+    "word_count": 1183,
+    "sha256": "c71c7143b0dce76c28db3a9e503b6446104de9d97eced546b9b5d90980e47030",
+    "file_size_bytes": 1128533,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 8.958,
+    "local_path": "output/documents/pdf/Newsletter_Vol_3_Issue_2_April-Sept_2021__0cf62697.pdf",
+    "markdown_path": "output/markdown/Newsletter_Vol_3_Issue_2_April-Sept_2021__0cf62697.md",
+    "json_path": "output/json/Newsletter_Vol_3_Issue_2_April-Sept_2021__0cf62697.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "Newsletter_Vol_3_Issue_2_April-Sept_2021__0cf62697",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 13381840502641684528,
+      "filename": "Newsletter_Vol_3_Issue_2_April-Sept_2021__0cf62697.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/pictures/4"
+        },
+        {
+          "$ref": "#/pictures/5"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/pictures/6"
+        },
+        {
+          "$ref": "#/pictures/7"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/pictures/8"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/pictures/9"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/pictures/10"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/pictures/11"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/pictures/12"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/pictures/13"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/pictures/14"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/pictures/15"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/pictures/16"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/pictures/17"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/pictures/18"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/pictures/19"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/pictures/20"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/pictures/21"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/pictures/22"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/pictures/23"
+        },
+        {
+          "$ref": "#/pictures/24"
+        },
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/8"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 190.44,
+              "t": 812.8439995078126,
+              "r": 423.54,
+              "b": 800.9858015757594,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              39
+            ]
+          }
+        ],
+        "orig": "WOMEN'S POLYTECHNIC WOMEN'S POLYTECHNIC",
+        "text": "WOMEN'S POLYTECHNIC WOMEN'S POLYTECHNIC",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 212.28744000000003,
+              "t": 795.6346795078125,
+              "r": 399.69480000000004,
+              "b": 777.5494233187432,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              81
+            ]
+          }
+        ],
+        "orig": "EDUCATION (HIGHER) DEPARTMENT EDUCATION (HIGHER) DEPARTMENT GOVERNMENT OF TRIPURA",
+        "text": "EDUCATION (HIGHER) DEPARTMENT EDUCATION (HIGHER) DEPARTMENT GOVERNMENT OF TRIPURA"
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 246.48012000000003,
+              "t": 772.5872395078126,
+              "r": 365.37264,
+              "b": 766.0257033187431,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              20
+            ]
+          }
+        ],
+        "orig": "HAPANIA, TRIPURA (W)",
+        "text": "HAPANIA, TRIPURA (W)"
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 201.36599999999999,
+              "t": 761.5529995078125,
+              "r": 410.0158799999999,
+              "b": 755.6239005417859,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              57
+            ]
+          }
+        ],
+        "orig": "PHONE 0381 PHONE 0381-2376814, email: wpoly2003@gmail.com",
+        "text": "PHONE 0381 PHONE 0381-2376814, email: wpoly2003@gmail.com"
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 255.36599999999999,
+              "t": 741.0959995078125,
+              "r": 358.074,
+              "b": 729.1079995078125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              10
+            ]
+          }
+        ],
+        "orig": "NEWSLETTER",
+        "text": "NEWSLETTER",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 208.5642,
+              "t": 720.9961195078124,
+              "r": 403.98695999999995,
+              "b": 711.6454795078124,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              41
+            ]
+          }
+        ],
+        "orig": "VOL: 3 VOL: 3, ISSUE: 2 (Apr- Sept, 2021)",
+        "text": "VOL: 3 VOL: 3, ISSUE: 2 (Apr- Sept, 2021)"
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 117.7254,
+              "t": 537.1563595078125,
+              "r": 314.45387999999997,
+              "b": 527.6148901200573,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              51
+            ]
+          }
+        ],
+        "orig": "FROM THE PRINCIPAL'S DESK FROM THE PRINCIPAL'S DESK",
+        "text": "FROM THE PRINCIPAL'S DESK FROM THE PRINCIPAL'S DESK",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 179.88576,
+              "t": 496.5350395078124,
+              "r": 398.2538908800002,
+              "b": 379.09177257371505,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              733
+            ]
+          }
+        ],
+        "orig": "the Pandemic hit back with its 2 severely  than  before,  when  the  nation  was returning back to track. The academic activities  were  hampered  as  all  of  us  had  to stay at home  for safety. However, online activities  wer issue of newsletter brings forward some of the activities performed during the hard times. It is very disheartening for all of us as the Pandemic hit back with its 2 nd  wave more severely  than  before,  when  the  nation  was returning back to track. The academic activities  were  hampered  as  all  of  us  had  to stay at home  for safety. However, online activities  were  going  on  in  full  swing.  This issue of newsletter brings forward some of the activities performed during the hard times.",
+        "text": "the Pandemic hit back with its 2 severely  than  before,  when  the  nation  was returning back to track. The academic activities  were  hampered  as  all  of  us  had  to stay at home  for safety. However, online activities  wer issue of newsletter brings forward some of the activities performed during the hard times. It is very disheartening for all of us as the Pandemic hit back with its 2 nd  wave more severely  than  before,  when  the  nation  was returning back to track. The academic activities  were  hampered  as  all  of  us  had  to stay at home  for safety. However, online activities  were  going  on  in  full  swing.  This issue of newsletter brings forward some of the activities performed during the hard times."
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 215.88300000000004,
+              "t": 360.99023950781253,
+              "r": 382.35679056000015,
+              "b": 354.4287033187431,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              38
+            ]
+          }
+        ],
+        "orig": "-Dr. Tirtharaj Sen, FIE; Principal, WP",
+        "text": "-Dr. Tirtharaj Sen, FIE; Principal, WP"
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 194.76288,
+              "t": 322.5830395078124,
+              "r": 404.01503999999994,
+              "b": 313.3864473290415,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              47
+            ]
+          }
+        ],
+        "orig": "SNAPSHOTS OF ACTIVITIES SNAPSHOTS OF ACTIVITIES",
+        "text": "SNAPSHOTS OF ACTIVITIES SNAPSHOTS OF ACTIVITIES",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 24.836759999999998,
+              "t": 286.34579950781244,
+              "r": 195.01559999999998,
+              "b": 277.68106128791715,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              35
+            ]
+          }
+        ],
+        "orig": "1. Unnat Bharat Abhiyan Activities:",
+        "text": "1. Unnat Bharat Abhiyan Activities:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 24.839999999999996,
+              "t": 268.1639995078125,
+              "r": 285.000636,
+              "b": 194.63824034550885,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              398
+            ]
+          }
+        ],
+        "orig": "Students of Women's  Polytechnic ,  UBA Unit guidance of Dr. Surajit Debnath, MLT Department, p in  Startup  Ideation  for  the  Northeast  -  All  India  Competition and got selected for the 2nd Round by the Panel of Expert IIT Delhi in April 2021. Women's  Polytechnic ,  UBA Unit under the guidance of Dr. Surajit Debnath, MLT Department, participated All  India  Competition Panel of Experts of",
+        "text": "Students of Women's  Polytechnic ,  UBA Unit guidance of Dr. Surajit Debnath, MLT Department, p in  Startup  Ideation  for  the  Northeast  -  All  India  Competition and got selected for the 2nd Round by the Panel of Expert IIT Delhi in April 2021. Women's  Polytechnic ,  UBA Unit under the guidance of Dr. Surajit Debnath, MLT Department, participated All  India  Competition Panel of Experts of"
+      },
+      {
+        "self_ref": "#/texts/12",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 302.40756,
+              "t": 286.34579950781244,
+              "r": 525.50316,
+              "b": 277.68106128791715,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              89
+            ]
+          }
+        ],
+        "orig": "2. Participation in Poster Making Competition Participation in Poster Making Competition:",
+        "text": "2. Participation in Poster Making Competition Participation in Poster Making Competition:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/13",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 302.41200000000003,
+              "t": 268.1639995078125,
+              "r": 544.2524039999996,
+              "b": 244.1982403455088,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              143
+            ]
+          }
+        ],
+        "orig": "WP, NSS Volunteers participated in National Poster Making Contest 2021- in online mode. , NSS Volunteers participated in National Poster Making",
+        "text": "WP, NSS Volunteers participated in National Poster Making Contest 2021- in online mode. , NSS Volunteers participated in National Poster Making"
+      },
+      {
+        "self_ref": "#/texts/14",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 531.97344,
+              "t": 22.04687950781249,
+              "r": 581.3663999999999,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 1 of 4",
+        "text": "Page 1 of 4"
+      },
+      {
+        "self_ref": "#/texts/15",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 25.67916,
+              "t": 812.1859195078124,
+              "r": 250.17058871999984,
+              "b": 784.2021412879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              108
+            ]
+          }
+        ],
+        "orig": "3. AICTE-ISTE Sponsored Induction/ Refresher Programme (PHASE II & III): ISTE Sponsored Induction/ Refresher",
+        "text": "3. AICTE-ISTE Sponsored Induction/ Refresher Programme (PHASE II & III): ISTE Sponsored Induction/ Refresher",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/16",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 25.68,
+              "t": 774.5639995078125,
+              "r": 284.28483600000004,
+              "b": 651.4782403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              761
+            ]
+          }
+        ],
+        "orig": "Phase-II  &  III  of  AICTE-ISTE  sponsored  Induction/Refresher programme  on  NBA  Accreditation  :  It's  Opportunities  and Challenges  for  Polytechnic,  were  held  in  online  mode  by Women's Polytechnic, Hapania during 7-13 April, 2021 and 5 May, 2021 respectively. Several resource persons from reputed organisations across the country delivered lectures in  various  sessions  ushering  all  the  participants  t successful accreditation of courses. ISTE  sponsored  Induction/Refresher :  It's  Opportunities  and were  held  in  online  mode  by 13 April, 2021 and 5-11 May, 2021 respectively. Several resource persons from reputed organisations across the country delivered lectures in  various  sessions  ushering  all  the  participants  towards",
+        "text": "Phase-II  &  III  of  AICTE-ISTE  sponsored  Induction/Refresher programme  on  NBA  Accreditation  :  It's  Opportunities  and Challenges  for  Polytechnic,  were  held  in  online  mode  by Women's Polytechnic, Hapania during 7-13 April, 2021 and 5 May, 2021 respectively. Several resource persons from reputed organisations across the country delivered lectures in  various  sessions  ushering  all  the  participants  t successful accreditation of courses. ISTE  sponsored  Induction/Refresher :  It's  Opportunities  and were  held  in  online  mode  by 13 April, 2021 and 5-11 May, 2021 respectively. Several resource persons from reputed organisations across the country delivered lectures in  various  sessions  ushering  all  the  participants  towards"
+      },
+      {
+        "self_ref": "#/texts/17",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 25.67916,
+              "t": 258.6308395078124,
+              "r": 265.93164,
+              "b": 249.96610128791713,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              90
+            ]
+          }
+        ],
+        "orig": "6. Van-Mahotsav/Tree Plantation by the Students: Mahotsav/Tree Plantation by the Students:",
+        "text": "6. Van-Mahotsav/Tree Plantation by the Students: Mahotsav/Tree Plantation by the Students:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/18",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 25.68,
+              "t": 240.44399950781246,
+              "r": 244.39237200000002,
+              "b": 199.91824034550882,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              160
+            ]
+          }
+        ],
+        "orig": "In the month of June 2021, the Students of WP were encouraged to plant a tree in their yards as a p observing Van-Mahotsav-2021. the Students of WP were part of",
+        "text": "In the month of June 2021, the Students of WP were encouraged to plant a tree in their yards as a p observing Van-Mahotsav-2021. the Students of WP were part of"
+      },
+      {
+        "self_ref": "#/texts/19",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 312.2496,
+              "t": 812.1859195078124,
+              "r": 550.836016,
+              "b": 803.5211812879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              91
+            ]
+          }
+        ],
+        "orig": "4.  Online Academic Activities During LOCKDOWN: Online Academic Activities During LOCKDOWN:",
+        "text": "4.  Online Academic Activities During LOCKDOWN: Online Academic Activities During LOCKDOWN:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/20",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 312.252,
+              "t": 783.9239995078125,
+              "r": 572.4892559999995,
+              "b": 726.9582403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              371
+            ]
+          }
+        ],
+        "orig": "Online teaching learning process members,  using platforms like Zoom, Google Classroom, YouTube,  WhatsApp  etc.  due  to  rise  of Pandemic throughout the country Online teaching learning process was resumed by the faculty members,  using platforms like Zoom, Google Classroom, YouTube,  WhatsApp  etc.  due  to  rise  of  2 nd wave  of  COVID-19 throughout the country.",
+        "text": "Online teaching learning process members,  using platforms like Zoom, Google Classroom, YouTube,  WhatsApp  etc.  due  to  rise  of Pandemic throughout the country Online teaching learning process was resumed by the faculty members,  using platforms like Zoom, Google Classroom, YouTube,  WhatsApp  etc.  due  to  rise  of  2 nd wave  of  COVID-19 throughout the country."
+      },
+      {
+        "self_ref": "#/texts/21",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 312.2496,
+              "t": 536.9036395078125,
+              "r": 412.044,
+              "b": 528.2389012879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              21
+            ]
+          }
+        ],
+        "orig": "5. Mask Distribution:",
+        "text": "5. Mask Distribution:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/22",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 312.252,
+              "t": 518.6039995078125,
+              "r": 572.4892559999993,
+              "b": 478.0782403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              328
+            ]
+          }
+        ],
+        "orig": "The faculty members of WP distributed facemasks to the and street vendors in an humble attempt to spread awareness of putting on mask to prevent spread of COVID faculty members of WP distributed facemasks to the locals and street vendors in an humble attempt to spread awareness of putting on mask to prevent spread of COVID-19.",
+        "text": "The faculty members of WP distributed facemasks to the and street vendors in an humble attempt to spread awareness of putting on mask to prevent spread of COVID faculty members of WP distributed facemasks to the locals and street vendors in an humble attempt to spread awareness of putting on mask to prevent spread of COVID-19."
+      },
+      {
+        "self_ref": "#/texts/23",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 312.2496,
+              "t": 263.06747950781244,
+              "r": 506.4839999999999,
+              "b": 254.40274128791714,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              83
+            ]
+          }
+        ],
+        "orig": "7. Celebration of International Yoga Day: 7. Celebration of International Yoga Day:",
+        "text": "7. Celebration of International Yoga Day: 7. Celebration of International Yoga Day:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/24",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 312.252,
+              "t": 244.7639995078125,
+              "r": 573.2049119999997,
+              "b": 187.79824034550882,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              295
+            ]
+          }
+        ],
+        "orig": "International Yoga Day was celebr members from their homes due to COVID theme  of  this  year's  International  Yoga  Day wellness', International Yoga Day was celebrated by the staff and faculty members from their homes due to COVID-9 restrictions.  The International  Yoga  Day  is  'Yoga  for",
+        "text": "International Yoga Day was celebr members from their homes due to COVID theme  of  this  year's  International  Yoga  Day wellness', International Yoga Day was celebrated by the staff and faculty members from their homes due to COVID-9 restrictions.  The International  Yoga  Day  is  'Yoga  for"
+      },
+      {
+        "self_ref": "#/texts/25",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 531.97344,
+              "t": 22.04687950781249,
+              "r": 581.3663999999999,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 2 of 4",
+        "text": "Page 2 of 4"
+      },
+      {
+        "self_ref": "#/texts/26",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 27.95364,
+              "t": 812.1859195078124,
+              "r": 150.01739999999998,
+              "b": 803.5211812879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              24
+            ]
+          }
+        ],
+        "orig": "8.Tripura Start-up Week:",
+        "text": "8.Tripura Start-up Week:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/27",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 27.96,
+              "t": 793.8839995078125,
+              "r": 285.08476799999994,
+              "b": 769.9182403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              102
+            ]
+          }
+        ],
+        "orig": "The students and faculty members of WP took part in Tripura Start-up Week programme on 5 th July 2021.",
+        "text": "The students and faculty members of WP took part in Tripura Start-up Week programme on 5 th July 2021."
+      },
+      {
+        "self_ref": "#/texts/28",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.68372,
+              "t": 584.9063995078124,
+              "r": 246.85128,
+              "b": 576.241661287917,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              43
+            ]
+          }
+        ],
+        "orig": "10. Celebration of AKAM through Rastragaan:",
+        "text": "10. Celebration of AKAM through Rastragaan:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/29",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.681919999999995,
+              "t": 566.9702395078125,
+              "r": 285.60133343999996,
+              "b": 529.918381078493,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              166
+            ]
+          }
+        ],
+        "orig": "On the auspicious occasion of Azadi ka Amrit Mahotsav (AKAM), the faculty and staff participated in Rastragaan, organised by Ministry of Culture, Government of India.",
+        "text": "On the auspicious occasion of Azadi ka Amrit Mahotsav (AKAM), the faculty and staff participated in Rastragaan, organised by Ministry of Culture, Government of India."
+      },
+      {
+        "self_ref": "#/texts/30",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.68372,
+              "t": 365.19443950781243,
+              "r": 172.57967999999997,
+              "b": 356.5297012879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              28
+            ]
+          }
+        ],
+        "orig": "12. Conduction of JRBT Exam:",
+        "text": "12. Conduction of JRBT Exam:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/31",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.68,
+              "t": 346.8839995078125,
+              "r": 285.79720800000007,
+              "b": 306.3582403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              152
+            ]
+          }
+        ],
+        "orig": "The  recruitment  exam  for  Group  C  posts  is  conducted  on 22/08/2021  in  Women's  Polytechnic  centre,  organised  by JRBT, Government of Tripura",
+        "text": "The  recruitment  exam  for  Group  C  posts  is  conducted  on 22/08/2021  in  Women's  Polytechnic  centre,  organised  by JRBT, Government of Tripura"
+      },
+      {
+        "self_ref": "#/texts/32",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.68372,
+              "t": 214.5869995078125,
+              "r": 229.3434,
+              "b": 201.96334128791727,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              42
+            ]
+          }
+        ],
+        "orig": "14. Celebration of 75 th Independence Day:",
+        "text": "14. Celebration of 75 th Independence Day:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/33",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.68,
+              "t": 198.38699950781256,
+              "r": 285.7950720000001,
+              "b": 170.87824034550886,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              113
+            ]
+          }
+        ],
+        "orig": "The  75 th Independence  Day  is  celebrated  in  WP  Campus  by hoisting the National Flag on 15 th august 2021.",
+        "text": "The  75 th Independence  Day  is  celebrated  in  WP  Campus  by hoisting the National Flag on 15 th august 2021."
+      },
+      {
+        "self_ref": "#/texts/34",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 306.97056,
+              "t": 812.1859195078124,
+              "r": 522.02124,
+              "b": 803.5211812879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              44
+            ]
+          }
+        ],
+        "orig": "9.AICTE Interaction with PRAGATI Recipients:",
+        "text": "9.AICTE Interaction with PRAGATI Recipients:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/35",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 306.972,
+              "t": 783.9239995078125,
+              "r": 567.1445999999999,
+              "b": 726.9582403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              188
+            ]
+          }
+        ],
+        "orig": "AICTE Officials interacted with the 32 students of WP who got selected for Pragati Diploma Scholarship Scheme 2020-21, in presence of the Director DHE, Government of Tripura in online mode",
+        "text": "AICTE Officials interacted with the 32 students of WP who got selected for Pragati Diploma Scholarship Scheme 2020-21, in presence of the Director DHE, Government of Tripura in online mode"
+      },
+      {
+        "self_ref": "#/texts/36",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 306.97056,
+              "t": 588.8699995078126,
+              "r": 500.30135999999993,
+              "b": 576.241661287917,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              42
+            ]
+          }
+        ],
+        "orig": "11. Partipation in 7 th Regional Workshop:",
+        "text": "11. Partipation in 7 th Regional Workshop:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/37",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 306.9672,
+              "t": 569.9683195078125,
+              "r": 566.8873627199999,
+              "b": 529.918381078493,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              145
+            ]
+          }
+        ],
+        "orig": "The Principal and other faculty members participated in 7 th Regional Workshop on Technical Education, organised by NITTTR, Kolkata on 16/09/2021",
+        "text": "The Principal and other faculty members participated in 7 th Regional Workshop on Technical Education, organised by NITTTR, Kolkata on 16/09/2021"
+      },
+      {
+        "self_ref": "#/texts/38",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 306.97056,
+              "t": 365.19443950781243,
+              "r": 493.09884,
+              "b": 356.5297012879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              37
+            ]
+          }
+        ],
+        "orig": "13. Celebrating One year of NEP 2020:",
+        "text": "13. Celebrating One year of NEP 2020:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/39",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 306.972,
+              "t": 346.8839995078125,
+              "r": 567.135384,
+              "b": 306.4782403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              154
+            ]
+          }
+        ],
+        "orig": "The  programme  of  celebration  of  one  year  of  NEP  2020, organised by AICTE on  28/07/2021,  is attended by the Principal and other faculty members.",
+        "text": "The  programme  of  celebration  of  one  year  of  NEP  2020, organised by AICTE on  28/07/2021,  is attended by the Principal and other faculty members."
+      },
+      {
+        "self_ref": "#/texts/40",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 306.97056,
+              "t": 210.62807950781257,
+              "r": 452.1239999999999,
+              "b": 201.96334128791727,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              28
+            ]
+          }
+        ],
+        "orig": "15. Conducting DEEET- 2021 :",
+        "text": "15. Conducting DEEET- 2021 :",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/41",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 306.972,
+              "t": 192.32399950781246,
+              "r": 570.8311559999996,
+              "b": 135.23824034550887,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              217
+            ]
+          }
+        ],
+        "orig": "Many  of  the  Faculty  members  who  are  the  part  of  Central Selection Committee-2021, successfully organised Diploma Engineering Entrance Examination Tripura 2021 on 08/09/2021 in eight centres across the state.",
+        "text": "Many  of  the  Faculty  members  who  are  the  part  of  Central Selection Committee-2021, successfully organised Diploma Engineering Entrance Examination Tripura 2021 on 08/09/2021 in eight centres across the state."
+      },
+      {
+        "self_ref": "#/texts/42",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 531.852,
+              "t": 22.04687950781249,
+              "r": 581.24496,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 3 of 4",
+        "text": "Page 3 of 4"
+      },
+      {
+        "self_ref": "#/texts/43",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.674239999999994,
+              "t": 809.9114395078125,
+              "r": 209.89799999999997,
+              "b": 801.2467012879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              35
+            ]
+          }
+        ],
+        "orig": "16. Best Polytechnic Award 2020-21:",
+        "text": "16. Best Polytechnic Award 2020-21:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/44",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.68,
+              "t": 791.6039995078125,
+              "r": 288.7928160000001,
+              "b": 751.1982403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              334
+            ]
+          }
+        ],
+        "orig": "Women's Polytechnic Hapania is awarded with the title of The Best  Polytechnic  in  the  State  for  the  Year  2020 Department of Education, Government of Tripura Women's Polytechnic Hapania is awarded with the title of The Polytechnic  in  the  State  for  the  Year  2020-21  by  the Department of Education, Government of Tripura.",
+        "text": "Women's Polytechnic Hapania is awarded with the title of The Best  Polytechnic  in  the  State  for  the  Year  2020 Department of Education, Government of Tripura Women's Polytechnic Hapania is awarded with the title of The Polytechnic  in  the  State  for  the  Year  2020-21  by  the Department of Education, Government of Tripura."
+      },
+      {
+        "self_ref": "#/texts/45",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.674239999999994,
+              "t": 561.6280795078125,
+              "r": 284.12418059999993,
+              "b": 552.9633412879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              74
+            ]
+          }
+        ],
+        "orig": "18.  Newly Upgraded Syllabus for Diploma Engineeing for Diploma Engineeing",
+        "text": "18.  Newly Upgraded Syllabus for Diploma Engineeing for Diploma Engineeing",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/46",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.674239999999994,
+              "t": 542.3090395078124,
+              "r": 99.37512,
+              "b": 533.6443012879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Programmes:",
+        "text": "Programmes:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/47",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.68,
+              "t": 524.1239995078125,
+              "r": 284.5355160000002,
+              "b": 487.9182403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              245
+            ]
+          }
+        ],
+        "orig": "The final draft of upgraded syllabus for Diploma Engineering Programmes is submitted to the Director, Education (Higher) Department, Government of Tripura upgraded syllabus for Diploma Engineering is submitted to the Director, Education (Higher)",
+        "text": "The final draft of upgraded syllabus for Diploma Engineering Programmes is submitted to the Director, Education (Higher) Department, Government of Tripura upgraded syllabus for Diploma Engineering is submitted to the Director, Education (Higher)"
+      },
+      {
+        "self_ref": "#/texts/48",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.674239999999994,
+              "t": 302.18291950781247,
+              "r": 276.02976959999995,
+              "b": 274.1991412879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              84
+            ]
+          }
+        ],
+        "orig": "20.  Admission of New Students for Academic Year 2021-22: Students for Academic Year",
+        "text": "20.  Admission of New Students for Academic Year 2021-22: Students for Academic Year",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/49",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.68,
+              "t": 264.56399950781247,
+              "r": 291.84477600000014,
+              "b": 224.03824034550883,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              275
+            ]
+          }
+        ],
+        "orig": "The  DEEET  qualified  candidates  took  admission  in  first  year diploma  courses  in  the  various  Diploma  courses  available  in the institute for the academic year 2021-22. DEEET  qualified  candidates  took  admission  in  first  year Diploma  courses  available  in",
+        "text": "The  DEEET  qualified  candidates  took  admission  in  first  year diploma  courses  in  the  various  Diploma  courses  available  in the institute for the academic year 2021-22. DEEET  qualified  candidates  took  admission  in  first  year Diploma  courses  available  in"
+      },
+      {
+        "self_ref": "#/texts/50",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 308.40264,
+              "t": 809.9114395078125,
+              "r": 560.77906716,
+              "b": 781.9276612879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              76
+            ]
+          }
+        ],
+        "orig": "17.  Acceptance of Project AICTE, New Delhi.: roject Proposal for MODROBS by",
+        "text": "17.  Acceptance of Project AICTE, New Delhi.: roject Proposal for MODROBS by",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/51",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 308.41200000000003,
+              "t": 772.4039995078125,
+              "r": 558.4248359999993,
+              "b": 731.8782403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              245
+            ]
+          }
+        ],
+        "orig": "The MODROB Project Proposal for MLT Department prepared by Dr. Manash Ch. Das is accepted and fund is sanctioned AICTE, New Delhi The MODROB Project Proposal for MLT Department prepared by Dr. Manash Ch. Das is accepted and fund is sanctioned by",
+        "text": "The MODROB Project Proposal for MLT Department prepared by Dr. Manash Ch. Das is accepted and fund is sanctioned AICTE, New Delhi The MODROB Project Proposal for MLT Department prepared by Dr. Manash Ch. Das is accepted and fund is sanctioned by"
+      },
+      {
+        "self_ref": "#/texts/52",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 313.68168,
+              "t": 561.6280795078125,
+              "r": 532.7056799999999,
+              "b": 552.9633412879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              63
+            ]
+          }
+        ],
+        "orig": "19.  Webinr on Industry-Academia Handshake: Academia Handshake:",
+        "text": "19.  Webinr on Industry-Academia Handshake: Academia Handshake:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/53",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 313.692,
+              "t": 543.3239995078126,
+              "r": 570.9270119999996,
+              "b": 519.4782403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              168
+            ]
+          }
+        ],
+        "orig": "One day webinar on Industry Academia Handshake is organised by the NSS unit of WP 24/09/2021. Industry Academia Handshake is organised by the NSS unit of WP 24/09/2021.",
+        "text": "One day webinar on Industry Academia Handshake is organised by the NSS unit of WP 24/09/2021. Industry Academia Handshake is organised by the NSS unit of WP 24/09/2021."
+      },
+      {
+        "self_ref": "#/texts/54",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 531.97344,
+              "t": 22.04687950781249,
+              "r": 581.3663999999999,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 4 of 4",
+        "text": "Page 4 of 4"
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 23.32254409790039,
+              "t": 819.5628604888916,
+              "r": 86.23139190673828,
+              "b": 759.0091857910156,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 17.045482635498047,
+              "t": 702.8034973144531,
+              "r": 579.003662109375,
+              "b": 550.4350891113281,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 29.73953628540039,
+              "t": 503.98504638671875,
+              "r": 151.613525390625,
+              "b": 356.68023681640625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 141.77841186523438,
+              "t": 335.7489929199219,
+              "r": 178.61151123046875,
+              "b": 305.13665771484375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 24.45512580871582,
+              "t": 193.1865234375,
+              "r": 260.657470703125,
+              "b": 27.86175537109375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 415.027099609375,
+              "t": 337.73980712890625,
+              "r": 452.0419006347656,
+              "b": 304.807861328125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 325.2474670410156,
+              "t": 241.1619873046875,
+              "r": 546.3252563476562,
+              "b": 29.6844482421875,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/7",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 511.0823669433594,
+              "t": 821.2397937774658,
+              "r": 571.8086547851562,
+              "b": 760.3572540283203,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/8",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 29.63092613220215,
+              "t": 476.9319152832031,
+              "r": 140.60433959960938,
+              "b": 383.7287292480469,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/9",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 25.12928581237793,
+              "t": 187.34149169921875,
+              "r": 282.53466796875,
+              "b": 42.37750244140625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/10",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 310.2400817871094,
+              "t": 723.9714050292969,
+              "r": 564.0398559570312,
+              "b": 558.3482971191406,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/11",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 310.62835693359375,
+              "t": 466.881103515625,
+              "r": 571.0213012695312,
+              "b": 285.4215087890625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/12",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 311.56121826171875,
+              "t": 186.6646728515625,
+              "r": 563.9060668945312,
+              "b": 31.66827392578125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/13",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 25.36238670349121,
+              "t": 768.7759628295898,
+              "r": 282.0167236328125,
+              "b": 602.6166534423828,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/14",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.010807037353516,
+              "t": 530.1460876464844,
+              "r": 284.0749206542969,
+              "b": 384.6299743652344,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/15",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 27.064889907836914,
+              "t": 295.61309814453125,
+              "r": 280.7127990722656,
+              "b": 227.04034423828125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/16",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 27.860151290893555,
+              "t": 135.43878173828125,
+              "r": 282.4153747558594,
+              "b": 33.8701171875,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/17",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 315.8692626953125,
+              "t": 725.0102615356445,
+              "r": 555.2869873046875,
+              "b": 603.8688201904297,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/18",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 308.5081787109375,
+              "t": 529.1567077636719,
+              "r": 563.0181884765625,
+              "b": 386.4227600097656,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/19",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 337.707763671875,
+              "t": 304.94818115234375,
+              "r": 535.0405883789062,
+              "b": 229.8995361328125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/20",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.39189338684082,
+              "t": 749.3811798095703,
+              "r": 276.9862976074219,
+              "b": 586.4053344726562,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/21",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.35688018798828,
+              "t": 487.3483581542969,
+              "r": 289.4498291015625,
+              "b": 340.149658203125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/22",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 305.3134460449219,
+              "t": 730.9982147216797,
+              "r": 568.1270751953125,
+              "b": 582.282470703125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/23",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 335.3544616699219,
+              "t": 518.7254333496094,
+              "r": 548.1661376953125,
+              "b": 339.0511169433594,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/24",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 313.22357177734375,
+              "t": 312.57708740234375,
+              "r": 572.8934936523438,
+              "b": 32.798095703125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 1
+      },
+      "2": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 2
+      },
+      "3": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 3
+      },
+      "4": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 4
+      }
+    }
+  }
+}

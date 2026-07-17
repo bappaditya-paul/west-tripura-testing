@@ -1,0 +1,28 @@
+{
+  "chunk_id": "village_panchayats_8a9e5b18__1cec154c711d__chunk_0003",
+  "document_id": "village_panchayats_8a9e5b18__1cec154c711d",
+  "parent_document": "village_panchayats_8a9e5b18__1cec154c711d",
+  "chunk_index": 3,
+  "total_chunks": 9,
+  "previous_chunk_id": "village_panchayats_8a9e5b18__1cec154c711d__chunk_0002",
+  "next_chunk_id": "village_panchayats_8a9e5b18__1cec154c711d__chunk_0004",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/village-panchayats/",
+  "heading_chain": [
+    "Village & Panchayats",
+    "GP/VC under Mohanpur"
+  ],
+  "heading": "Village & Panchayats",
+  "section": "Village & Panchayats",
+  "sub_section": "GP/VC under Mohanpur",
+  "text": "## GP/VC under Mohanpur\n\n1. Simna GP\n2. Brahmakunda GP\n3. Vidyasagar GP\n4. Ishanpur GP\n5. Mantala GP\n6. Kalacherra GP\n7. Bijoynagar GP\n8. Mohinipur GP\n9. Rangacherra GP\n10. South Taranagar GP\n11. Kalkalia GP\n12. Fatikcherra GP\n13. Paschim Fatikcherra GP\n14. Gajaria GP\n15. Satdubia GP\n16. Harinakhola GP\n17. Kamalghat GP\n18. Paschim Kamalghat GP",
+  "content": "## GP/VC under Mohanpur\n\n1. Simna GP\n2. Brahmakunda GP\n3. Vidyasagar GP\n4. Ishanpur GP\n5. Mantala GP\n6. Kalacherra GP\n7. Bijoynagar GP\n8. Mohinipur GP\n9. Rangacherra GP\n10. South Taranagar GP\n11. Kalkalia GP\n12. Fatikcherra GP\n13. Paschim Fatikcherra GP\n14. Gajaria GP\n15. Satdubia GP\n16. Harinakhola GP\n17. Kamalghat GP\n18. Paschim Kamalghat GP",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 149,
+  "character_count": 345,
+  "has_table": false,
+  "has_list": true,
+  "created_at": "2026-07-11T20:32:30.631790Z",
+  "sha256": "e57afb1044632c3897439f6b2c6f7c6b09f1899fadd22fa535cdd08676c33dc7"
+}

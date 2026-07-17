@@ -1,0 +1,28 @@
+{
+  "chunk_id": "tourist_place_jagannath_temple_bd24a135__2f1cca38ab9a__chunk_0000",
+  "document_id": "tourist_place_jagannath_temple_bd24a135__2f1cca38ab9a",
+  "parent_document": "tourist_place_jagannath_temple_bd24a135__2f1cca38ab9a",
+  "chunk_index": 0,
+  "total_chunks": 2,
+  "previous_chunk_id": "",
+  "next_chunk_id": "tourist_place_jagannath_temple_bd24a135__2f1cca38ab9a__chunk_0001",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/tourist-place/jagannath-temple/",
+  "heading_chain": [
+    "Jagannath Temple",
+    "Photo Gallery"
+  ],
+  "heading": "Jagannath Temple",
+  "section": "Jagannath Temple",
+  "sub_section": "Photo Gallery",
+  "text": "# Jagannath Temple\n\nFamous not only from the pilgrims point of view, this temple is also a remarkable architectual feat with its octagonal baseand its impression pradhkshin patha round the sanctum. The pillars are crowned by square and pyramidal cones\n\n## Photo Gallery",
+  "content": "# Jagannath Temple\n\nFamous not only from the pilgrims point of view, this temple is also a remarkable architectual feat with its octagonal baseand its impression pradhkshin patha round the sanctum. The pillars are crowned by square and pyramidal cones\n\n## Photo Gallery",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 62,
+  "character_count": 269,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:34:25.179216Z",
+  "sha256": "8cfaf8b2896b92085d6d3609dfe625b5e25867feaed558b10a616e9a7d5ae01a"
+}

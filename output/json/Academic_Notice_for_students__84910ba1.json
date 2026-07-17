@@ -1,0 +1,969 @@
+{
+  "metadata": {
+    "id": "Academic_Notice_for_students__84910ba1",
+    "url": "https://www.wptripura.nic.in/images/Academic%20Notice%20for%20students..pdf",
+    "file_name": "Academic_Notice_for_students__84910ba1.pdf",
+    "title": "Academic%20Notice%20For%20Students.",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T22:10:35.241976+00:00",
+    "page_count": 1,
+    "tables": 4,
+    "images": 0,
+    "word_count": 347,
+    "sha256": "880a02fc925ee3906fdd7510f49f40da351da7d15a6c1580c9ce0aa425adaa3d",
+    "file_size_bytes": 385413,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 4.032,
+    "local_path": "output/documents/pdf/Academic_Notice_for_students__84910ba1.pdf",
+    "markdown_path": "output/markdown/Academic_Notice_for_students__84910ba1.md",
+    "json_path": "output/json/Academic_Notice_for_students__84910ba1.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "Academic_Notice_for_students__84910ba1",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 14541571946948962877,
+      "filename": "Academic_Notice_for_students__84910ba1.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/groups/1"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/tables/0"
+        },
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/groups/2"
+        },
+        {
+          "$ref": "#/groups/3"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/groups/4"
+        },
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/groups/5"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      },
+      {
+        "self_ref": "#/groups/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      },
+      {
+        "self_ref": "#/groups/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/7"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      },
+      {
+        "self_ref": "#/groups/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      },
+      {
+        "self_ref": "#/groups/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/9"
+          },
+          {
+            "$ref": "#/texts/10"
+          },
+          {
+            "$ref": "#/texts/11"
+          },
+          {
+            "$ref": "#/texts/12"
+          },
+          {
+            "$ref": "#/texts/13"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      },
+      {
+        "self_ref": "#/groups/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/14"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 240.58,
+              "t": 814.6439829101563,
+              "r": 483.73,
+              "b": 804.0989117237157,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              21
+            ]
+          }
+        ],
+        "orig": "Government of Tripura",
+        "text": "Government of Tripura",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 225.46,
+              "t": 790.3422229101564,
+              "r": 500.10999999999996,
+              "b": 777.4069355881225,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              19
+            ]
+          }
+        ],
+        "orig": "Women's Polytechnic",
+        "text": "Women's Polytechnic",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 256.15116166378306,
+              "t": 765.2411029101563,
+              "r": 468.736827296,
+              "b": 730.6934592491393,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              80
+            ]
+          }
+        ],
+        "orig": "P.O: AmtaliViaSekerkote Hapania, Tripura (W), PIN- 799130 Phone: (0381) 237-6814",
+        "text": "P.O: AmtaliViaSekerkote Hapania, Tripura (W), PIN- 799130 Phone: (0381) 237-6814"
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.024,
+              "t": 712.3040629101563,
+              "r": 580.9,
+              "b": 703.0180847283382,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              106
+            ]
+          }
+        ],
+        "orig": "Ref No.:   F.1(28)/WP/Principal/Vol-XIII/2018/                                            Date: 24/09/2020",
+        "text": "Ref No.:   F.1(28)/WP/Principal/Vol-XIII/2018/                                            Date: 24/09/2020"
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 229.06,
+              "t": 672.4938229101564,
+              "r": 369.86,
+              "b": 660.7854156374291,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              15
+            ]
+          }
+        ],
+        "orig": "ACADEMIC NOTICE",
+        "text": "ACADEMIC NOTICE",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.024,
+              "t": 646.4785429101563,
+              "r": 526.366,
+              "b": 510.0905283647017,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              851
+            ]
+          }
+        ],
+        "orig": "All students of 2 nd , 4 th & 6 th Semester Diploma Engineering of Women's Polytechnic, Hapania  now  attending  online  classes  of  next  higher  Semester  respectively,  are  hereby directed  to  deposit  their  respective  dues  of  Government  fees  for  previous  Semester on  or before  8 th October  2020  positively to  any  branch  of Tripura  Gramin  Bank of  their convenience through prescribed 'FEE CHALLAN FORM' by downloading the same from Institute's  website 'wptripura.nic.in'. The detailed  break  -up  of  fee  structure  is  also available  in  the  said  website  of  the  Institute.  After  deposition  of  fees  'Institute's  copy'  of particular challan are to be submitted to the CASH SECTION of Women's Polytechnic by 9 th October 2020 between 12:00 noon to 3:00 p.m. of all working days. NO DRAFTS / CASH WILL BE ACCEPTED.",
+        "text": "All students of 2 nd , 4 th & 6 th Semester Diploma Engineering of Women's Polytechnic, Hapania  now  attending  online  classes  of  next  higher  Semester  respectively,  are  hereby directed  to  deposit  their  respective  dues  of  Government  fees  for  previous  Semester on  or before  8 th October  2020  positively to  any  branch  of Tripura  Gramin  Bank of  their convenience through prescribed 'FEE CHALLAN FORM' by downloading the same from Institute's  website 'wptripura.nic.in'. The detailed  break  -up  of  fee  structure  is  also available  in  the  said  website  of  the  Institute.  After  deposition  of  fees  'Institute's  copy'  of particular challan are to be submitted to the CASH SECTION of Women's Polytechnic by 9 th October 2020 between 12:00 noon to 3:00 p.m. of all working days. NO DRAFTS / CASH WILL BE ACCEPTED."
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.024,
+              "t": 493.01598291015625,
+              "r": 526.2199999999999,
+              "b": 455.06398291015626,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              207
+            ]
+          }
+        ],
+        "orig": "All  the  students  of  Diploma  Engineering  are  advised  to  maintain  strictly  social distancing and other prevailing Government guidelines to COVID -19 situations during the submission of challan copy.",
+        "text": "All  the  students  of  Diploma  Engineering  are  advised  to  maintain  strictly  social distancing and other prevailing Government guidelines to COVID -19 situations during the submission of challan copy."
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/groups/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "caption",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 364.94,
+              "t": 344.4159829101563,
+              "r": 485.59,
+              "b": 292.5339829101563,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              78
+            ]
+          }
+        ],
+        "orig": "(Dr. Tirtharaj Sen, FIE) Principal Women's Polytechnic Hapania, Tripura (West)",
+        "text": "(Dr. Tirtharaj Sen, FIE) Principal Women's Polytechnic Hapania, Tripura (West)"
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 112.61,
+              "t": 284.38598291015626,
+              "r": 157.37,
+              "b": 274.05398291015626,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              8
+            ]
+          }
+        ],
+        "orig": "Copy to;",
+        "text": "Copy to;"
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/groups/4"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 112.61,
+              "t": 254.92070291015625,
+              "r": 526.0815199999998,
+              "b": 230.77526291015624,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              118
+            ]
+          }
+        ],
+        "orig": "1. All  Departmental HOD's &  request  to  circulate  in  all  Whatsapp  groups  of  respective Semester and Branches.",
+        "text": "All  Departmental HOD's &  request  to  circulate  in  all  Whatsapp  groups  of  respective Semester and Branches.",
+        "enumerated": true,
+        "marker": "1."
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/groups/4"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 112.61,
+              "t": 225.8807029101563,
+              "r": 525.9262399999998,
+              "b": 187.0752629101563,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              192
+            ]
+          }
+        ],
+        "orig": "2. Sri Partha Pratim Das, Lecturer (CST) & D.D.O, WP  with a request to upload the same into the Institute's website and collect the Challan copies with the active support of the Cash Section.",
+        "text": "Sri Partha Pratim Das, Lecturer (CST) & D.D.O, WP  with a request to upload the same into the Institute's website and collect the Challan copies with the active support of the Cash Section.",
+        "enumerated": true,
+        "marker": "2."
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/groups/4"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 112.61,
+              "t": 182.18070291015624,
+              "r": 526.15,
+              "b": 143.63526291015637,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              216
+            ]
+          }
+        ],
+        "orig": "3. The Manager, TGB, Badharghat Branch, with a request to intimate all TGB Branches in the  State  to  the  Challan  Report  collect  and  keep  in  their  respective  branches  due  to prevailing Covid-19 situation.",
+        "text": "The Manager, TGB, Badharghat Branch, with a request to intimate all TGB Branches in the  State  to  the  Challan  Report  collect  and  keep  in  their  respective  branches  due  to prevailing Covid-19 situation.",
+        "enumerated": true,
+        "marker": "3."
+      },
+      {
+        "self_ref": "#/texts/12",
+        "parent": {
+          "$ref": "#/groups/4"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 112.61,
+              "t": 138.5007029101563,
+              "r": 294.71999999999997,
+              "b": 128.99526291015627,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              40
+            ]
+          }
+        ],
+        "orig": "4. Institute's Notice Board for display.",
+        "text": "Institute's Notice Board for display.",
+        "enumerated": true,
+        "marker": "4."
+      },
+      {
+        "self_ref": "#/texts/13",
+        "parent": {
+          "$ref": "#/groups/4"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 112.61,
+              "t": 123.83070291015633,
+              "r": 406.82,
+              "b": 114.32526291015631,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              61
+            ]
+          }
+        ],
+        "orig": "5. Guard File of Establishment Section of Women' Polytechnic.",
+        "text": "Guard File of Establishment Section of Women' Polytechnic.",
+        "enumerated": true,
+        "marker": "5."
+      },
+      {
+        "self_ref": "#/texts/14",
+        "parent": {
+          "$ref": "#/groups/5"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "caption",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 364.94,
+              "t": 80.57998291015633,
+              "r": 485.59,
+              "b": 28.703982910156242,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              78
+            ]
+          }
+        ],
+        "orig": "(Dr. Tirtharaj Sen, FIE) Principal Women's Polytechnic Hapania, Tripura (West)",
+        "text": "(Dr. Tirtharaj Sen, FIE) Principal Women's Polytechnic Hapania, Tripura (West)"
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 81.23877716064453,
+              "t": 822.315896987915,
+              "r": 177.89854431152344,
+              "b": 728.5322189331055,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 405.891845703125,
+              "t": 370.04486083984375,
+              "r": 437.745361328125,
+              "b": 349.4010925292969,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 402.2919006347656,
+              "t": 112.24267578125,
+              "r": 443.5726623535156,
+              "b": 85.28125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [
+      {
+        "self_ref": "#/tables/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 71.3221435546875,
+              "t": 441.10919189453125,
+              "r": 513.185302734375,
+              "b": 379.31402587890625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [
+            {
+              "bbox": {
+                "l": 129.89,
+                "t": 405.03599999999994,
+                "r": 190.19000000000003,
+                "b": 415.1294545454545,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Tuition fees",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 151.97,
+                "t": 432.6359999999999,
+                "r": 168.17,
+                "b": 442.7294545454545,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Rs.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 269.86,
+                "t": 405.03599999999994,
+                "r": 490.862,
+                "b": 429.0494545454545,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Last Date for submission of challan copy at Women's Polytechnic",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 144.29,
+                "t": 449.24399999999997,
+                "r": 175.666,
+                "b": 459.57599999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "3000/-",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 269.86,
+                "t": 447.87816,
+                "r": 491.14599999999996,
+                "b": 459.7694545454545,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "12 th October 2020 (12:00 noon to 3:00 P.M)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          "num_rows": 3,
+          "num_cols": 2,
+          "orientation": "rot_0",
+          "grid": [
+            [
+              {
+                "bbox": {
+                  "l": 129.89,
+                  "t": 405.03599999999994,
+                  "r": 190.19000000000003,
+                  "b": 415.1294545454545,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Tuition fees",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 269.86,
+                  "t": 405.03599999999994,
+                  "r": 490.862,
+                  "b": 429.0494545454545,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "Last Date for submission of challan copy at Women's Polytechnic",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 151.97,
+                  "t": 432.6359999999999,
+                  "r": 168.17,
+                  "b": 442.7294545454545,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Rs.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 144.29,
+                  "t": 449.24399999999997,
+                  "r": 175.666,
+                  "b": 459.57599999999996,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "3000/-",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 269.86,
+                  "t": 447.87816,
+                  "r": 491.14599999999996,
+                  "b": 459.7694545454545,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "12 th October 2020 (12:00 noon to 3:00 P.M)",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ]
+          ]
+        },
+        "annotations": []
+      }
+    ],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 595.2000122070312,
+          "height": 841.9199829101562
+        },
+        "page_no": 1
+      }
+    }
+  }
+}

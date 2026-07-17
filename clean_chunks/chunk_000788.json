@@ -1,0 +1,28 @@
+{
+  "chunk_id": "tourist_places_c3596e0f__0ffd4933e9d7__chunk_0000",
+  "document_id": "tourist_places_c3596e0f__0ffd4933e9d7",
+  "parent_document": "tourist_places_c3596e0f__0ffd4933e9d7",
+  "chunk_index": 0,
+  "total_chunks": 3,
+  "previous_chunk_id": "",
+  "next_chunk_id": "tourist_places_c3596e0f__0ffd4933e9d7__chunk_0001",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/tourist-places/",
+  "heading_chain": [
+    "Tourist Places",
+    "[Jagannath Temple]"
+  ],
+  "heading": "Tourist Places",
+  "section": "Tourist Places",
+  "sub_section": "[Jagannath Temple]",
+  "text": "# Tourist Places\n\nFilter: All Adventure Historic Natural / Scenic beauty Others Recreational Religious\n\n## [Jagannath Temple]\n\nFamous not only from the pilgrims point of view, this temple is also a remarkable…",
+  "content": "# Tourist Places\n\nFilter: All Adventure Historic Natural / Scenic beauty Others Recreational Religious\n\n## [Jagannath Temple]\n\nFamous not only from the pilgrims point of view, this temple is also a remarkable…",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 48,
+  "character_count": 209,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:32:31.985158Z",
+  "sha256": "5c0156762f2ee1e0258a1c0a1f56d0f08c16e083cc74f44aaeedd4208efd20a3"
+}

@@ -1,0 +1,476 @@
+{
+  "metadata": {
+    "id": "Doc_retention_policy__a5f11531",
+    "url": "http://wptripura.nic.in/Doc retention policy.pdf",
+    "file_name": "Doc_retention_policy__a5f11531.pdf",
+    "title": "Doc Retention Policy",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T21:47:57.848329+00:00",
+    "page_count": 1,
+    "tables": 0,
+    "images": 0,
+    "word_count": 47,
+    "sha256": "84f48605c69e49988cbf2d762096e5e5bc7b65d85ecd67a39d038495b32124e3",
+    "file_size_bytes": 53587,
+    "processing_status": "success",
+    "parser_used": "docling+ocr",
+    "extraction_time_s": 18.222,
+    "local_path": "output/documents/pdf/Doc_retention_policy__a5f11531.pdf",
+    "markdown_path": "output/markdown/Doc_retention_policy__a5f11531.md",
+    "json_path": "output/json/Doc_retention_policy__a5f11531.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "Doc_retention_policy__a5f11531",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 11314032467375105251,
+      "filename": "Doc_retention_policy__a5f11531.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/groups/0"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/7"
+          },
+          {
+            "$ref": "#/texts/8"
+          },
+          {
+            "$ref": "#/texts/9"
+          },
+          {
+            "$ref": "#/texts/10"
+          },
+          {
+            "$ref": "#/texts/11"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 134.66666666666666,
+              "t": 223.0,
+              "r": 319.3333333333333,
+              "b": 206.0,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              24
+            ]
+          }
+        ],
+        "orig": "DocumentRetention Policy",
+        "text": "DocumentRetention Policy",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 34.333333333333336,
+              "t": 193.33333333333334,
+              "r": 420.3333333333333,
+              "b": 127.0,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              184
+            ]
+          }
+        ],
+        "orig": "The academic documents are being pre-reserved for a minimum period of 05 (five) years and official records are being retained for a period of minimum 10 (Ten) years/ as per applicable.",
+        "text": "The academic documents are being pre-reserved for a minimum period of 05 (five) years and official records are being retained for a period of minimum 10 (Ten) years/ as per applicable."
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 351.0,
+              "t": 85.0,
+              "r": 444.3333333333333,
+              "b": 75.0,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              8
+            ]
+          }
+        ],
+        "orig": "26112418",
+        "text": "26112418"
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 329.3333333333333,
+              "t": 63.66666666666666,
+              "r": 429.6666666666667,
+              "b": 47.66666666666666,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              19
+            ]
+          }
+        ],
+        "orig": "(Dr. T:rtharaj Sen)",
+        "text": "(Dr. T:rtharaj Sen)"
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 352.0,
+              "t": 50.0,
+              "r": 407.0,
+              "b": 36.66666666666666,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              9
+            ]
+          }
+        ],
+        "orig": "Principal",
+        "text": "Principal"
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 326.3333333333333,
+              "t": 39.0,
+              "r": 431.3333333333333,
+              "b": 24.666666666666657,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              19
+            ]
+          }
+        ],
+        "orig": "Womon's Polytechnic",
+        "text": "Womon's Polytechnic"
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 325.6666666666667,
+              "t": 28.0,
+              "r": 431.0,
+              "b": 12.333333333333343,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              21
+            ]
+          }
+        ],
+        "orig": "Hapania, Tripura (W).",
+        "text": "Hapania, Tripura (W)."
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 351.0,
+              "t": 85.0,
+              "r": 444.3333333333333,
+              "b": 75.0,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              8
+            ]
+          }
+        ],
+        "orig": "26112418",
+        "text": "26112418"
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 329.3333333333333,
+              "t": 63.66666666666666,
+              "r": 429.6666666666667,
+              "b": 47.66666666666666,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              19
+            ]
+          }
+        ],
+        "orig": "(Dr. T:rtharaj Sen)",
+        "text": "(Dr. T:rtharaj Sen)"
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 352.0,
+              "t": 50.0,
+              "r": 407.0,
+              "b": 36.66666666666666,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              9
+            ]
+          }
+        ],
+        "orig": "Principal",
+        "text": "Principal"
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 326.3333333333333,
+              "t": 39.0,
+              "r": 431.3333333333333,
+              "b": 24.666666666666657,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              19
+            ]
+          }
+        ],
+        "orig": "Womon's Polytechnic",
+        "text": "Womon's Polytechnic"
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 325.6666666666667,
+              "t": 28.0,
+              "r": 431.0,
+              "b": 12.333333333333343,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              21
+            ]
+          }
+        ],
+        "orig": "Hapania, Tripura (W).",
+        "text": "Hapania, Tripura (W)."
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/2"
+          },
+          {
+            "$ref": "#/texts/3"
+          },
+          {
+            "$ref": "#/texts/4"
+          },
+          {
+            "$ref": "#/texts/5"
+          },
+          {
+            "$ref": "#/texts/6"
+          }
+        ],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 321.48895263671875,
+              "t": 96.79380798339844,
+              "r": 457.9224853515625,
+              "b": 13.427566528320312,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 485.0,
+          "height": 250.0
+        },
+        "page_no": 1
+      }
+    }
+  }
+}

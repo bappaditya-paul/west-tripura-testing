@@ -1,0 +1,500 @@
+[
+  {
+    "file": "output/json/1st_Semester_Final_2020__69b68147.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.352113+00:00"
+  },
+  {
+    "file": "output/json/2nd_semester_2020_1__f134cf46.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.359234+00:00"
+  },
+  {
+    "file": "output/json/2nd_semester_2020__b539ac19.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.366270+00:00"
+  },
+  {
+    "file": "output/json/ADMISSIONFORM24__ba3267d1.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.368741+00:00"
+  },
+  {
+    "file": "output/json/AICTE_brochure__6e89649b.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.369524+00:00"
+  },
+  {
+    "file": "output/json/Academic_Calendar_EVEN_2020__365027ee.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.370711+00:00"
+  },
+  {
+    "file": "output/json/Academic_Calender_Even_2022__a60800cd.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.371565+00:00"
+  },
+  {
+    "file": "output/json/Academic_Notice_for_students__84910ba1.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.372130+00:00"
+  },
+  {
+    "file": "output/json/Ad_Spot24__e72ac0a6.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.373430+00:00"
+  },
+  {
+    "file": "output/json/AdmissionNotification_24__85657746.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.374099+00:00"
+  },
+  {
+    "file": "output/json/Annexure_I_II_Syllabus__080ab050.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.388982+00:00"
+  },
+  {
+    "file": "output/json/Anti-Ragging_Committee__687ee759.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.390236+00:00"
+  },
+  {
+    "file": "output/json/Brochure_P-III__8897fd69.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.390694+00:00"
+  },
+  {
+    "file": "output/json/CST-detailed-scurriculum-02-04-2022__4c1148cf.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.421819+00:00"
+  },
+  {
+    "file": "output/json/DEEET2024NotificationinBengali_script__f2d2de78.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.423835+00:00"
+  },
+  {
+    "file": "output/json/Date_extension_for_DEEET_on_line_application_for_three_days__bc34d850.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.424188+00:00"
+  },
+  {
+    "file": "output/json/Doc_retention_policy__a5f11531.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.424449+00:00"
+  },
+  {
+    "file": "output/json/DrSURAJITDEBNATH__faecfab6.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.425460+00:00"
+  },
+  {
+    "file": "output/json/EOAReport2024-25__1104ec07.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.426704+00:00"
+  },
+  {
+    "file": "output/json/Electronics_Telecommunication_Engineering_DETCE_2020__bfefe0fc.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.453712+00:00"
+  },
+  {
+    "file": "output/json/ExtensionDEEET2024inBangla__151b0567.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.456667+00:00"
+  },
+  {
+    "file": "output/json/ExtensionDEEET2024inEnglish__9971b9d9.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.457149+00:00"
+  },
+  {
+    "file": "output/json/FTAdvertisement__418bf844.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.457538+00:00"
+  },
+  {
+    "file": "output/json/FTAdvertisement__56de939c.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.457913+00:00"
+  },
+  {
+    "file": "output/json/Fashion_Technology_DFT_2020__c1c93552.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.477441+00:00"
+  },
+  {
+    "file": "output/json/Fee_Structure__b35d2812.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.479182+00:00"
+  },
+  {
+    "file": "output/json/FinalMeritListSpotRound_2024__162b2014.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.485552+00:00"
+  },
+  {
+    "file": "output/json/ITI_Lateral_Entry_Provisional_Rejection_List__0629fcf1.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.487593+00:00"
+  },
+  {
+    "file": "output/json/ITI_Lateral_Prospectus_2021__8fe07bf7.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.489771+00:00"
+  },
+  {
+    "file": "output/json/Industry_Institute_Interaction_Cell__1d472931.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.490960+00:00"
+  },
+  {
+    "file": "output/json/Internal_Complain_Committee__6719df21.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.491401+00:00"
+  },
+  {
+    "file": "output/json/Media_Cell_Intec_Pro_Right_Startup_Cell__735c4b37.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.492054+00:00"
+  },
+  {
+    "file": "output/json/Medical_Laboratory_Technology_DMLT_2020__d52b5542.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.515703+00:00"
+  },
+  {
+    "file": "output/json/MeritListSpotRound2024_SC__97dccfbd.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.518329+00:00"
+  },
+  {
+    "file": "output/json/MeritListSpotRound2024_ST__44e0ab18.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.519737+00:00"
+  },
+  {
+    "file": "output/json/NOTICE_for_Stipend_schemes__b16c4d04.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.520411+00:00"
+  },
+  {
+    "file": "output/json/NOTICE_spot24__1f34d0d4.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.520660+00:00"
+  },
+  {
+    "file": "output/json/NSSNewsletter1__bff33b06.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.521551+00:00"
+  },
+  {
+    "file": "output/json/Newletter_3_issue_3_C_Oct-Dec_2021__fd954ee0.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.522232+00:00"
+  },
+  {
+    "file": "output/json/Newsletter_Vol_3_Issue_2_April-Sept_2021__0cf62697.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.522964+00:00"
+  },
+  {
+    "file": "output/json/Newsletter_Vol_4_Issue_2_April_to_June_2022__eb0ea517.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.523762+00:00"
+  },
+  {
+    "file": "output/json/Notice_for_NOC_for_Inservice_ITI_pass_candidates__ff5bca97.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.524158+00:00"
+  },
+  {
+    "file": "output/json/Notification_for_2nd_Round_Counselling_Admisstion_2020_1__ac943702.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.524658+00:00"
+  },
+  {
+    "file": "output/json/Notification_for_Spot_Counselling__7f7e4bab.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.524987+00:00"
+  },
+  {
+    "file": "output/json/Parichay_Authenticator_Manual_v4_1_516e9edd3b706e5681b0__b4b8a63e.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.527247+00:00"
+  },
+  {
+    "file": "output/json/Placement_Brochure_2019_WP__2a5c4417.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.532330+00:00"
+  },
+  {
+    "file": "output/json/Post_Matric_other_Scholarship_scheme_2021-22__0a8d29e3.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.533648+00:00"
+  },
+  {
+    "file": "output/json/Quotation_book__82b98d95.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.542372+00:00"
+  },
+  {
+    "file": "output/json/Reopening_of_DEEET_2020__bb90502a.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.543026+00:00"
+  },
+  {
+    "file": "output/json/Reservation_Policy_1992__f6234429.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.547421+00:00"
+  },
+  {
+    "file": "output/json/SNIQOffice_item__123b80a6.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.549126+00:00"
+  },
+  {
+    "file": "output/json/SNIQWindowpanelglass__433aa0b2.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.549618+00:00"
+  },
+  {
+    "file": "output/json/SNIQforMODROBproject__5b7386b6.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.551537+00:00"
+  },
+  {
+    "file": "output/json/SNIT_Inverter_Battery__ac3d52f1.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.552281+00:00"
+  },
+  {
+    "file": "output/json/SNIT_Inverter_Battery__ee9a465c.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.552874+00:00"
+  },
+  {
+    "file": "output/json/SYLLABI_OF_DIPLOMA_CST__7762a76b.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.561092+00:00"
+  },
+  {
+    "file": "output/json/SYLLABI_OF_DIPLOMA_FASHIONTECH__9a08bcba.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.569036+00:00"
+  },
+  {
+    "file": "output/json/SYLLABI_OF_DIPLOMA_IT__a8781938.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.582164+00:00"
+  },
+  {
+    "file": "output/json/SYLLABI_OF_DIPLOMA_MLT__515cb9d5.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.591391+00:00"
+  },
+  {
+    "file": "output/json/Scholarship23__9608edbd.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.592490+00:00"
+  },
+  {
+    "file": "output/json/Scholarship_22__c6518ff5.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.594435+00:00"
+  },
+  {
+    "file": "output/json/ShortNoticeInvitingQuotation__e2f5e7a5.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.595021+00:00"
+  },
+  {
+    "file": "output/json/Spotroundform24__ac714099.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.595951+00:00"
+  },
+  {
+    "file": "output/json/Student_Counilor__851c080a.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.597405+00:00"
+  },
+  {
+    "file": "output/json/Vol_1_Issue_1_Newsletter__d118a8e5.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.598815+00:00"
+  },
+  {
+    "file": "output/json/Vol_1_Issue_2_Newsletter__141d1dcd.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.599573+00:00"
+  },
+  {
+    "file": "output/json/Vol_1_Issue_3_Newsletter__159b669c.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.600560+00:00"
+  },
+  {
+    "file": "output/json/Vol_1_Issue_4_Newsletter__918af4e3.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.601431+00:00"
+  },
+  {
+    "file": "output/json/Vol_2_Issue_1_Newsletter__93fa6e98.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.601904+00:00"
+  },
+  {
+    "file": "output/json/WEBINAR_SPACE_TECHNOLOGY__f8defca7.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.602359+00:00"
+  },
+  {
+    "file": "output/json/Webinar_Poster__bfbeaa30.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.602827+00:00"
+  },
+  {
+    "file": "output/json/anti_ragging_circular__2e550971.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.603467+00:00"
+  },
+  {
+    "file": "output/json/book24__e8135b04.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.609810+00:00"
+  },
+  {
+    "file": "output/json/brochure_P-II__1672bef9.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.611085+00:00"
+  },
+  {
+    "file": "output/json/canteen__ee0b1d5d.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.612692+00:00"
+  },
+  {
+    "file": "output/json/deeet2024__ab4fc8e2.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.614065+00:00"
+  },
+  {
+    "file": "output/json/e-workshop__7a94beaa.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.615549+00:00"
+  },
+  {
+    "file": "output/json/last06__90016b99.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.616601+00:00"
+  },
+  {
+    "file": "output/json/syllabus_dip_etce__adb9086b.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.628870+00:00"
+  },
+  {
+    "file": "output/json/tp__b43228fd.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.630284+00:00"
+  },
+  {
+    "file": "output/json/vol_2_issue_2__0d944147.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.631309+00:00"
+  },
+  {
+    "file": "output/json/vol_2_issue_3__57be548c.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.632199+00:00"
+  },
+  {
+    "file": "output/json/vol_3_issue_1__f7b155c7.json",
+    "stage": "json_build",
+    "error": "'str' object has no attribute 'get'",
+    "ts": "2026-07-11T23:04:54.632842+00:00"
+  }
+]

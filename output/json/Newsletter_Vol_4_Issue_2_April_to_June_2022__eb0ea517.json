@@ -1,0 +1,2527 @@
+{
+  "metadata": {
+    "id": "Newsletter_Vol_4_Issue_2_April_to_June_2022__eb0ea517",
+    "url": "http://wptripura.nic.in/Newsletter_Vol_4_Issue_2_April_to_June_2022.pdf",
+    "file_name": "Newsletter_Vol_4_Issue_2_April_to_June_2022__eb0ea517.pdf",
+    "title": "Newsletter Vol 4 Issue 2 April To June 2022",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T21:31:09.102784+00:00",
+    "page_count": 4,
+    "tables": 0,
+    "images": 0,
+    "word_count": 1259,
+    "sha256": "e881211bfedcef5f56f78231d0cb5b8b47a5b2ac27cb7d9a6b1877f908f7cdac",
+    "file_size_bytes": 1271488,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 9.94,
+    "local_path": "output/documents/pdf/Newsletter_Vol_4_Issue_2_April_to_June_2022__eb0ea517.pdf",
+    "markdown_path": "output/markdown/Newsletter_Vol_4_Issue_2_April_to_June_2022__eb0ea517.md",
+    "json_path": "output/json/Newsletter_Vol_4_Issue_2_April_to_June_2022__eb0ea517.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "Newsletter_Vol_4_Issue_2_April_to_June_2022__eb0ea517",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 7717049872980364716,
+      "filename": "Newsletter_Vol_4_Issue_2_April_to_June_2022__eb0ea517.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/tables/0"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/pictures/4"
+        },
+        {
+          "$ref": "#/pictures/5"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/pictures/6"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/pictures/7"
+        },
+        {
+          "$ref": "#/pictures/8"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/pictures/9"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/pictures/10"
+        },
+        {
+          "$ref": "#/pictures/11"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/pictures/12"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/pictures/13"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/pictures/14"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/pictures/15"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/pictures/16"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/pictures/17"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/pictures/18"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/pictures/19"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/pictures/20"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/pictures/21"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/pictures/22"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/pictures/23"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/pictures/24"
+        },
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/8"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 190.44,
+              "t": 812.8439995078126,
+              "r": 423.54,
+              "b": 800.9858015757594,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              39
+            ]
+          }
+        ],
+        "orig": "WOMEN'S POLYTECHNIC WOMEN'S POLYTECHNIC",
+        "text": "WOMEN'S POLYTECHNIC WOMEN'S POLYTECHNIC",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 212.28744000000003,
+              "t": 795.6346795078125,
+              "r": 399.69480000000004,
+              "b": 777.5494233187432,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              81
+            ]
+          }
+        ],
+        "orig": "EDUCATION (HIGHER) DEPARTMENT EDUCATION (HIGHER) DEPARTMENT GOVERNMENT OF TRIPURA",
+        "text": "EDUCATION (HIGHER) DEPARTMENT EDUCATION (HIGHER) DEPARTMENT GOVERNMENT OF TRIPURA"
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 246.48012000000003,
+              "t": 772.5872395078126,
+              "r": 365.37264,
+              "b": 766.0257033187431,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              20
+            ]
+          }
+        ],
+        "orig": "HAPANIA, TRIPURA (W)",
+        "text": "HAPANIA, TRIPURA (W)"
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 201.36599999999999,
+              "t": 761.5529995078125,
+              "r": 410.0158799999999,
+              "b": 755.6239005417859,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              57
+            ]
+          }
+        ],
+        "orig": "PHONE 0381 PHONE 0381-2376814, email: wpoly2003@gmail.com",
+        "text": "PHONE 0381 PHONE 0381-2376814, email: wpoly2003@gmail.com"
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 255.36599999999999,
+              "t": 741.0959995078125,
+              "r": 358.074,
+              "b": 729.1079995078125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              10
+            ]
+          }
+        ],
+        "orig": "NEWSLETTER",
+        "text": "NEWSLETTER",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 211.68107999999998,
+              "t": 720.9961195078124,
+              "r": 400.85604,
+              "b": 711.6454795078124,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              40
+            ]
+          }
+        ],
+        "orig": "VOL: 4 VOL: 4, ISSUE: 2 (Apr- Jun, 2022)",
+        "text": "VOL: 4 VOL: 4, ISSUE: 2 (Apr- Jun, 2022)"
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 106.80228,
+              "t": 540.9892795078124,
+              "r": 303.53075999999993,
+              "b": 531.4478101200573,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              51
+            ]
+          }
+        ],
+        "orig": "FROM THE PRINCIPAL'S DESK FROM THE PRINCIPAL'S DESK",
+        "text": "FROM THE PRINCIPAL'S DESK FROM THE PRINCIPAL'S DESK",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 171.95904,
+              "t": 513.0950395078124,
+              "r": 388.1671286400001,
+              "b": 381.97321257371505,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              946
+            ]
+          }
+        ],
+        "orig": "I  am very pleased to see that the most of  academic  activities  are  right  back  in  the track.  The  teaching  learning  activities  have resumed in full swing. The family of WP is taking  part  in  many  activities  as  before. Hope,  in  near  future  we  will  forget  about  the scars  of  the  global  pandemic  and  engage ourselves in our works with full dedication.  I thank the team of our institute Newsletter for their works to bring out the Issue in time. I  am very pleased to see that the most of  academic  activities  are  right  back  in  the track.  The  teaching  learning  activities  have resumed in full swing. The family of WP is taking  part  in  many  activities  as  before.  I Hope,  in  near  future  we  will  forget  about  the scars  of  the  global  pandemic  and  engage ourselves in our works with full dedication.  I thank the team of our institute Newsletter for their works to bring out the Issue in time.",
+        "text": "I  am very pleased to see that the most of  academic  activities  are  right  back  in  the track.  The  teaching  learning  activities  have resumed in full swing. The family of WP is taking  part  in  many  activities  as  before. Hope,  in  near  future  we  will  forget  about  the scars  of  the  global  pandemic  and  engage ourselves in our works with full dedication.  I thank the team of our institute Newsletter for their works to bring out the Issue in time. I  am very pleased to see that the most of  academic  activities  are  right  back  in  the track.  The  teaching  learning  activities  have resumed in full swing. The family of WP is taking  part  in  many  activities  as  before.  I Hope,  in  near  future  we  will  forget  about  the scars  of  the  global  pandemic  and  engage ourselves in our works with full dedication.  I thank the team of our institute Newsletter for their works to bring out the Issue in time."
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 207.9648,
+              "t": 363.86867950781254,
+              "r": 374.49147816000004,
+              "b": 357.3071433187431,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              66
+            ]
+          }
+        ],
+        "orig": "-Dr. Tirtharaj Sen, FIE; Pri Dr. Tirtharaj Sen, FIE; Principal, WP",
+        "text": "-Dr. Tirtharaj Sen, FIE; Pri Dr. Tirtharaj Sen, FIE; Principal, WP"
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 194.76288,
+              "t": 327.1460395078125,
+              "r": 404.01503999999994,
+              "b": 317.9494473290415,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              47
+            ]
+          }
+        ],
+        "orig": "SNAPSHOTS OF ACTIVITIES SNAPSHOTS OF ACTIVITIES",
+        "text": "SNAPSHOTS OF ACTIVITIES SNAPSHOTS OF ACTIVITIES",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/pictures/3"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 24.836759999999998,
+              "t": 288.6343195078125,
+              "r": 277.82352000000003,
+              "b": 279.9695812879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              106
+            ]
+          }
+        ],
+        "orig": "1. Deliverance of invited lecture by the Principal WP: Deliverance of invited lecture by the Principal WP:",
+        "text": "1. Deliverance of invited lecture by the Principal WP: Deliverance of invited lecture by the Principal WP:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/pictures/3"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 24.839999999999996,
+              "t": 276.3910795078125,
+              "r": 298.5157920000001,
+              "b": 236.75824034550885,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              289
+            ]
+          }
+        ],
+        "orig": "On  the  4 th April  2022,  Dr.  Tirtharaj  Sen,  FIE,  Principal Women's Polytechnic, Hapania delivered a lecture as a panellist in a technical webinar organised by IEI. April  2022,  Dr.  Tirtharaj  Sen,  FIE,  Principal Women's Polytechnic, Hapania delivered a lecture as a panellist in",
+        "text": "On  the  4 th April  2022,  Dr.  Tirtharaj  Sen,  FIE,  Principal Women's Polytechnic, Hapania delivered a lecture as a panellist in a technical webinar organised by IEI. April  2022,  Dr.  Tirtharaj  Sen,  FIE,  Principal Women's Polytechnic, Hapania delivered a lecture as a panellist in"
+      },
+      {
+        "self_ref": "#/texts/12",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 311.4072,
+              "t": 288.6343195078125,
+              "r": 506.18412,
+              "b": 279.9695812879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              77
+            ]
+          }
+        ],
+        "orig": "2. Participation in Consumer Rights Day Participation in Consumer Rights Day:",
+        "text": "2. Participation in Consumer Rights Day Participation in Consumer Rights Day:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/13",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 311.41200000000003,
+              "t": 270.32399950781246,
+              "r": 571.524156,
+              "b": 234.23824034550887,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              232
+            ]
+          }
+        ],
+        "orig": "The Students & NSS Programme Officer, NSS Unit Women's Polytechnic attend Consumer Rights Day on 06/04/ dents & NSS Programme Officer, NSS Unit of Women's Polytechnic attended a Programme \"World on 06/04/2022 at Town Hall, Agartala.",
+        "text": "The Students & NSS Programme Officer, NSS Unit Women's Polytechnic attend Consumer Rights Day on 06/04/ dents & NSS Programme Officer, NSS Unit of Women's Polytechnic attended a Programme \"World on 06/04/2022 at Town Hall, Agartala."
+      },
+      {
+        "self_ref": "#/texts/14",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 531.97344,
+              "t": 22.04687950781249,
+              "r": 581.3663999999999,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 1 of 4",
+        "text": "Page 1 of 4"
+      },
+      {
+        "self_ref": "#/texts/15",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 25.67916,
+              "t": 812.1859195078124,
+              "r": 217.59191999999996,
+              "b": 803.5211812879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              40
+            ]
+          }
+        ],
+        "orig": "3. Formation of Electoral Literacy Club:",
+        "text": "3. Formation of Electoral Literacy Club:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/16",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 25.68,
+              "t": 793.8839995078125,
+              "r": 271.8755880000001,
+              "b": 769.9182403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              144
+            ]
+          }
+        ],
+        "orig": "On 20/04/2022, an Electoral Literacy Club is formed in the institute to literate the young voters. , an Electoral Literacy Club is formed in the",
+        "text": "On 20/04/2022, an Electoral Literacy Club is formed in the institute to literate the young voters. , an Electoral Literacy Club is formed in the"
+      },
+      {
+        "self_ref": "#/texts/17",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 308.40264,
+              "t": 812.1859195078124,
+              "r": 572.7344079600001,
+              "b": 786.7293412879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              137
+            ]
+          }
+        ],
+        "orig": "4.  Participatio  in  the  Foundation  Day  of  IEI,  Tripura State Centre: 4.  Participatio  in  the  Foundation  Day  of  IEI,  Tripura",
+        "text": "4.  Participatio  in  the  Foundation  Day  of  IEI,  Tripura State Centre: 4.  Participatio  in  the  Foundation  Day  of  IEI,  Tripura",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/18",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 308.41200000000003,
+              "t": 779.6039995078125,
+              "r": 572.3692679999996,
+              "b": 729.1182403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              426
+            ]
+          }
+        ],
+        "orig": "The Principal and faculty members of WP attended in the Foundation day of IEI Tripura State Centre. Principal TTADC PI & GDP was also present in this occasion. Education graced the occasion as Special Guest. The Principal and faculty members of WP attended in the 32nd Foundation day of IEI Tripura State Centre. Principal TTADC PI & GDP was also present in this occasion. The Director of Higher the occasion as Special Guest.",
+        "text": "The Principal and faculty members of WP attended in the Foundation day of IEI Tripura State Centre. Principal TTADC PI & GDP was also present in this occasion. Education graced the occasion as Special Guest. The Principal and faculty members of WP attended in the 32nd Foundation day of IEI Tripura State Centre. Principal TTADC PI & GDP was also present in this occasion. The Director of Higher the occasion as Special Guest."
+      },
+      {
+        "self_ref": "#/texts/19",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 25.67916,
+              "t": 536.9036395078125,
+              "r": 499.10796000000005,
+              "b": 528.2389012879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              288
+            ]
+          }
+        ],
+        "orig": "5. Participation in Student Interaction and Motivational Programme with Chief Minister of Tripura Participation in Student Interaction and Motivational Programme with Chief Minister of Tripura Participation in Student Interaction and Motivational Programme with Chief Minister of Tripura:",
+        "text": "5. Participation in Student Interaction and Motivational Programme with Chief Minister of Tripura Participation in Student Interaction and Motivational Programme with Chief Minister of Tripura Participation in Student Interaction and Motivational Programme with Chief Minister of Tripura:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/20",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 25.68,
+              "t": 522.1497595078124,
+              "r": 570.9258119999998,
+              "b": 494.75824034550885,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              315
+            ]
+          }
+        ],
+        "orig": "On 29 th April 2022, the students and Faculty members have participated in the with Chief Minister of Tripura at Rabindra Satabarshiki Bhawan April 2022, the students and Faculty members have participated in the Student Interaction and at Rabindra Satabarshiki Bhawan. Student Interaction and Motivational Programme",
+        "text": "On 29 th April 2022, the students and Faculty members have participated in the with Chief Minister of Tripura at Rabindra Satabarshiki Bhawan April 2022, the students and Faculty members have participated in the Student Interaction and at Rabindra Satabarshiki Bhawan. Student Interaction and Motivational Programme"
+      },
+      {
+        "self_ref": "#/texts/21",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 21.95856,
+              "t": 287.90423950781246,
+              "r": 282.5044279199999,
+              "b": 259.9204612879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              107
+            ]
+          }
+        ],
+        "orig": "6.  Participation  in  Digital  Bangladesh  IT  Business Summit-2022: in  Digital  Bangladesh  IT  Business",
+        "text": "6.  Participation  in  Digital  Bangladesh  IT  Business Summit-2022: in  Digital  Bangladesh  IT  Business",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/22",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 21.96,
+              "t": 253.95143950781244,
+              "r": 282.0748800000002,
+              "b": 209.87824034550886,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              235
+            ]
+          }
+        ],
+        "orig": "On 28 th April 2022, three faculty members of WP have participated  in  Digital  Bangladesh  IT  Business  Summit organised at Hotel Polo Towers, Agartala. three faculty members of WP have Digital  Bangladesh  IT  Business  Summit-2022",
+        "text": "On 28 th April 2022, three faculty members of WP have participated  in  Digital  Bangladesh  IT  Business  Summit organised at Hotel Polo Towers, Agartala. three faculty members of WP have Digital  Bangladesh  IT  Business  Summit-2022"
+      },
+      {
+        "self_ref": "#/texts/23",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 308.40264,
+              "t": 287.90423950781246,
+              "r": 561.50172,
+              "b": 279.23950128791716,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              66
+            ]
+          }
+        ],
+        "orig": "7.  Participation in Aspire Leader Aspire Leaders Programme India:",
+        "text": "7.  Participation in Aspire Leader Aspire Leaders Programme India:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/24",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 308.41200000000003,
+              "t": 256.7091595078125,
+              "r": 574.6475759999997,
+              "b": 212.63824034550885,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              188
+            ]
+          }
+        ],
+        "orig": "On 28 th April 2022, Faculty Leaders Programme India through  online as communicated  by AICTE, New Delhi. Faculty of WP participated in Aspire India  through  online  as  communicated  by",
+        "text": "On 28 th April 2022, Faculty Leaders Programme India through  online as communicated  by AICTE, New Delhi. Faculty of WP participated in Aspire India  through  online  as  communicated  by"
+      },
+      {
+        "self_ref": "#/texts/25",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 531.97344,
+              "t": 22.04687950781249,
+              "r": 581.3663999999999,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 2 of 4",
+        "text": "Page 2 of 4"
+      },
+      {
+        "self_ref": "#/texts/26",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 24.24708,
+              "t": 812.1859195078124,
+              "r": 283.5686599200001,
+              "b": 784.2021412879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              147
+            ]
+          }
+        ],
+        "orig": "8.  Participation in Inaugural Programme of Vidyajyoti School in Surjyamaninagar H.S. School: .  Participation in Inaugural Programme of Vidyajyoti",
+        "text": "8.  Participation in Inaugural Programme of Vidyajyoti School in Surjyamaninagar H.S. School: .  Participation in Inaugural Programme of Vidyajyoti",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/27",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 24.240000000000002,
+              "t": 778.1111995078124,
+              "r": 290.3559000000001,
+              "b": 734.1582403455088,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              226
+            ]
+          }
+        ],
+        "orig": "On 30 th April 2022, Representative of  WP participated in the Inaugural Programme of Vidyajyoti School in Surjyamaninagar H.S. School. April 2022, Representative of  WP participated Inaugural Programme of Vidyajyoti School in",
+        "text": "On 30 th April 2022, Representative of  WP participated in the Inaugural Programme of Vidyajyoti School in Surjyamaninagar H.S. School. April 2022, Representative of  WP participated Inaugural Programme of Vidyajyoti School in"
+      },
+      {
+        "self_ref": "#/texts/28",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.68372,
+              "t": 533.9131195078124,
+              "r": 192.13739999999996,
+              "b": 525.2483812879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              31
+            ]
+          }
+        ],
+        "orig": "10. Student Farewell Programme:",
+        "text": "10. Student Farewell Programme:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/29",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.68,
+              "t": 515.6039995078125,
+              "r": 287.712264,
+              "b": 475.19824034550885,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              227
+            ]
+          }
+        ],
+        "orig": "The students of WP arranged a beautiful Farewell programme on 18 th May 2022 in the Auditorium to outgoing students of the institute. The students of WP arranged a beautiful Farewell May 2022 in the Auditorium to felicitate the",
+        "text": "The students of WP arranged a beautiful Farewell programme on 18 th May 2022 in the Auditorium to outgoing students of the institute. The students of WP arranged a beautiful Farewell May 2022 in the Auditorium to felicitate the"
+      },
+      {
+        "self_ref": "#/texts/30",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.68372,
+              "t": 278.18855950781244,
+              "r": 219.50135999999998,
+              "b": 269.52382128791714,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              38
+            ]
+          }
+        ],
+        "orig": "12. Workshop on Overseas Employment: :",
+        "text": "12. Workshop on Overseas Employment: :",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/31",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.68,
+              "t": 259.8839995078125,
+              "r": 285.792204,
+              "b": 209.27824034550883,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              322
+            ]
+          }
+        ],
+        "orig": "Faculty Member Sri Ajoy Rudra Paul of WP a sensitisation workshop at DIT conference hall Overseas  Employment  for  the  Skilled  Trainees jointly by NSDC and Skill Directorate, Government of Tripura of WP attended a ensitisation workshop at DIT conference hall on 10 th May, on rainees  organised , Government of Tripura.",
+        "text": "Faculty Member Sri Ajoy Rudra Paul of WP a sensitisation workshop at DIT conference hall Overseas  Employment  for  the  Skilled  Trainees jointly by NSDC and Skill Directorate, Government of Tripura of WP attended a ensitisation workshop at DIT conference hall on 10 th May, on rainees  organised , Government of Tripura."
+      },
+      {
+        "self_ref": "#/texts/32",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 306.97056,
+              "t": 812.1859195078124,
+              "r": 480.61728000000005,
+              "b": 803.5211812879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              54
+            ]
+          }
+        ],
+        "orig": "9. Participation in Rabindra Jayanti Rabindra Jayanti:",
+        "text": "9. Participation in Rabindra Jayanti Rabindra Jayanti:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/33",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 306.972,
+              "t": 793.8839995078125,
+              "r": 567.252,
+              "b": 728.9982403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              424
+            ]
+          }
+        ],
+        "orig": "The Faculty member Polytechnic  Hapania  attended  the  state  level  celebration 161 st Rabindra  Jayanti  on  9th  May  2022  at  Rabindra  Bhaban. Students of Women's Polytechnic deliver at Rabindra Bhaban. Faculty members & students of Women's Polytechnic  Hapania  attended  the  state  level  celebration  of Jayanti  on  9th  May  2022  at  Rabindra  Bhaban. Students of Women's Polytechnic delivered Extempore speech",
+        "text": "The Faculty member Polytechnic  Hapania  attended  the  state  level  celebration 161 st Rabindra  Jayanti  on  9th  May  2022  at  Rabindra  Bhaban. Students of Women's Polytechnic deliver at Rabindra Bhaban. Faculty members & students of Women's Polytechnic  Hapania  attended  the  state  level  celebration  of Jayanti  on  9th  May  2022  at  Rabindra  Bhaban. Students of Women's Polytechnic delivered Extempore speech"
+      },
+      {
+        "self_ref": "#/texts/34",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 308.40264,
+              "t": 533.9131195078124,
+              "r": 541.5711818400001,
+              "b": 505.92934128791717,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              90
+            ]
+          }
+        ],
+        "orig": "11. Participation in STTP in North Tripura District Polytechnic: in North Tripura District",
+        "text": "11. Participation in STTP in North Tripura District Polytechnic: in North Tripura District",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/35",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 308.41200000000003,
+              "t": 496.4039995078125,
+              "r": 565.7081759999998,
+              "b": 460.19824034550885,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              261
+            ]
+          }
+        ],
+        "orig": "The  faculty  members  of  WP  have  attended  in  one week  STTP  organised  in  North  Tripura  District  Polytechnic during 9-14 May 2022. The  faculty  members  of  WP  have  attended  in  one week  STTP  organised  in  North  Tripura  District  Polytechnic",
+        "text": "The  faculty  members  of  WP  have  attended  in  one week  STTP  organised  in  North  Tripura  District  Polytechnic during 9-14 May 2022. The  faculty  members  of  WP  have  attended  in  one week  STTP  organised  in  North  Tripura  District  Polytechnic"
+      },
+      {
+        "self_ref": "#/texts/36",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 308.40264,
+              "t": 278.18855950781244,
+              "r": 531.6246,
+              "b": 269.52382128791714,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              78
+            ]
+          }
+        ],
+        "orig": "13. Initiative of T & P Cell for Initiative of T & P Cell for Placement Drive:",
+        "text": "13. Initiative of T & P Cell for Initiative of T & P Cell for Placement Drive:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/37",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 308.41200000000003,
+              "t": 259.8839995078125,
+              "r": 573.8545199999995,
+              "b": 194.99824034550886,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              383
+            ]
+          }
+        ],
+        "orig": "With initiative taken by T&P Cell of Women's Polytechnic, a placement drive 6th semester students of all departments on 24/05/22. of students took part and two among them were selected for the job. nitiative taken by T&P Cell of Women's placement drive took place in the campus for the 6th semester students of all departments on 24/05/22. 35 nos. wo among them were selected for the",
+        "text": "With initiative taken by T&P Cell of Women's Polytechnic, a placement drive 6th semester students of all departments on 24/05/22. of students took part and two among them were selected for the job. nitiative taken by T&P Cell of Women's placement drive took place in the campus for the 6th semester students of all departments on 24/05/22. 35 nos. wo among them were selected for the"
+      },
+      {
+        "self_ref": "#/texts/38",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 531.97344,
+              "t": 22.04687950781249,
+              "r": 581.3663999999999,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 3 of 4",
+        "text": "Page 3 of 4"
+      },
+      {
+        "self_ref": "#/texts/39",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.674239999999994,
+              "t": 808.3529995078125,
+              "r": 262.09872,
+              "b": 799.6882612879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              58
+            ]
+          }
+        ],
+        "orig": "14.  Participation in Nazrul Jayanti Programme: Programme:",
+        "text": "14.  Participation in Nazrul Jayanti Programme: Programme:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/40",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.68,
+              "t": 793.7087995078124,
+              "r": 288.79573200000004,
+              "b": 768.2382403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              182
+            ]
+          }
+        ],
+        "orig": "On 26 th May  2022,  the  faculty  members of  WP  took part in Nazrul Jatyanti at Rabindra Bhawan, Agartala. May 2022, the faculty  members of  WP took at Rabindra Bhawan, Agartala.",
+        "text": "On 26 th May  2022,  the  faculty  members of  WP  took part in Nazrul Jatyanti at Rabindra Bhawan, Agartala. May 2022, the faculty  members of  WP took at Rabindra Bhawan, Agartala."
+      },
+      {
+        "self_ref": "#/texts/41",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 28.68372,
+              "t": 555.5066395078125,
+              "r": 181.45295999999996,
+              "b": 546.8419012879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              29
+            ]
+          }
+        ],
+        "orig": "16. Workshop on Mechatronics:",
+        "text": "16. Workshop on Mechatronics:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/42",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 28.68,
+              "t": 539.7239995078124,
+              "r": 288.85209599999996,
+              "b": 503.6382403455089,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              184
+            ]
+          }
+        ],
+        "orig": "One-day workshop  on  Mechatronics Women's Polytechnic in association with Technomate Edubotics on 31st May 2022. workshop  on  Mechatronics  was held at in association with Technomate",
+        "text": "One-day workshop  on  Mechatronics Women's Polytechnic in association with Technomate Edubotics on 31st May 2022. workshop  on  Mechatronics  was held at in association with Technomate"
+      },
+      {
+        "self_ref": "#/texts/43",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.674239999999994,
+              "t": 279.6346795078125,
+              "r": 226.33883999999995,
+              "b": 270.9699412879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              75
+            ]
+          }
+        ],
+        "orig": "18.  Even semester Internal Examination Even semester Internal Examination:",
+        "text": "18.  Even semester Internal Examination Even semester Internal Examination:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/44",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.68,
+              "t": 261.32399950781246,
+              "r": 275.282148,
+              "b": 237.35824034550888,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              129
+            ]
+          }
+        ],
+        "orig": "The internal examinations were held for the even semester students during 15-17 June in the institute. held for the even semester",
+        "text": "The internal examinations were held for the even semester students during 15-17 June in the institute. held for the even semester"
+      },
+      {
+        "self_ref": "#/texts/45",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 306.97056,
+              "t": 808.3529995078125,
+              "r": 572.78988,
+              "b": 780.4815412879171,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              99
+            ]
+          }
+        ],
+        "orig": "15.  Interactive  Outreach  Programme Department: Interactive  Outreach  Programme  by  Income  Tax",
+        "text": "15.  Interactive  Outreach  Programme Department: Interactive  Outreach  Programme  by  Income  Tax",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/46",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 306.972,
+              "t": 770.8439995078126,
+              "r": 572.3693399999995,
+              "b": 720.1235812879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              360
+            ]
+          }
+        ],
+        "orig": "Interactive Outreach Programme held at WP on 25/05/2022 in which Principal, Faculty members and students took  part  where  different  aspects  of  income  Tax  Department were highlighted. nteractive Outreach Programme held at WP on 25/05/2022 in which Principal, Faculty members and students took  part  where  different  aspects  of  income  Tax  Department",
+        "text": "Interactive Outreach Programme held at WP on 25/05/2022 in which Principal, Faculty members and students took  part  where  different  aspects  of  income  Tax  Department were highlighted. nteractive Outreach Programme held at WP on 25/05/2022 in which Principal, Faculty members and students took  part  where  different  aspects  of  income  Tax  Department"
+      },
+      {
+        "self_ref": "#/texts/47",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 308.40264,
+              "t": 555.5066395078125,
+              "r": 432.26351999999997,
+              "b": 546.8419012879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              25
+            ]
+          }
+        ],
+        "orig": "17. Newsletter Handover :",
+        "text": "17. Newsletter Handover :",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/48",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 308.41200000000003,
+              "t": 537.2039995078126,
+              "r": 570.8093279999998,
+              "b": 501.11824034550887,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              300
+            ]
+          }
+        ],
+        "orig": "The past issue of the institute newsletter over  to  the  Officials  of  Directorate  of  Education  (Higher) Department, Government of Tripura. The past issue of the institute newsletter was handed over  to  the  Officials  of  Directorate  of  Education  (Higher) Department, Government of Tripura.",
+        "text": "The past issue of the institute newsletter over  to  the  Officials  of  Directorate  of  Education  (Higher) Department, Government of Tripura. The past issue of the institute newsletter was handed over  to  the  Officials  of  Directorate  of  Education  (Higher) Department, Government of Tripura."
+      },
+      {
+        "self_ref": "#/texts/49",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 309.96108,
+              "t": 279.6346795078125,
+              "r": 512.90928,
+              "b": 270.9699412879172,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              43
+            ]
+          }
+        ],
+        "orig": "19. Observance of Interna ational Yoga Day:",
+        "text": "19. Observance of Interna ational Yoga Day:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/50",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 309.972,
+              "t": 261.32399950781246,
+              "r": 570.2070119999997,
+              "b": 220.91824034550882,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              254
+            ]
+          }
+        ],
+        "orig": "The Principal WP and other faculty and staff members participated in International Yoga Day on 21 with the students of the institute. and other faculty and staff members International Yoga Day on 21 st June 2022, along with the students of the institute.",
+        "text": "The Principal WP and other faculty and staff members participated in International Yoga Day on 21 with the students of the institute. and other faculty and staff members International Yoga Day on 21 st June 2022, along with the students of the institute."
+      },
+      {
+        "self_ref": "#/texts/51",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 531.97344,
+              "t": 22.04687950781249,
+              "r": 581.3663999999999,
+              "b": 14.69423950781254,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "Page 4 of 4",
+        "text": "Page 4 of 4"
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 23.695831298828125,
+              "t": 819.4149188995361,
+              "r": 86.2145004272461,
+              "b": 759.0033721923828,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 17.128311157226562,
+              "t": 702.6541595458984,
+              "r": 579.5661010742188,
+              "b": 550.7745056152344,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 25.262256622314453,
+              "t": 513.6455383300781,
+              "r": 147.48255920410156,
+              "b": 358.1898193359375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/10"
+          },
+          {
+            "$ref": "#/texts/11"
+          }
+        ],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 19.940479278564453,
+              "t": 298.9700927734375,
+              "r": 301.32354736328125,
+              "b": 26.67291259765625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 310.91448974609375,
+              "t": 225.222412109375,
+              "r": 569.6338500976562,
+              "b": 31.90667724609375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 511.2264099121094,
+              "t": 821.2548065185547,
+              "r": 571.9984741210938,
+              "b": 760.2794342041016,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 50.11634826660156,
+              "t": 719.2977142333984,
+              "r": 148.95945739746094,
+              "b": 617.2755279541016,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/7",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 321.0486755371094,
+              "t": 728.5875244140625,
+              "r": 558.0055541992188,
+              "b": 559.23193359375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/8",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 167.38253784179688,
+              "t": 721.1172485351562,
+              "r": 259.7974853515625,
+              "b": 616.1303558349609,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/9",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 24.74530792236328,
+              "t": 491.7045593261719,
+              "r": 310.1867980957031,
+              "b": 310.53265380859375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/10",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 21.545047760009766,
+              "t": 198.57159423828125,
+              "r": 280.3245544433594,
+              "b": 37.487548828125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/11",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 310.8940734863281,
+              "t": 492.7378234863281,
+              "r": 558.0189208984375,
+              "b": 310.58868408203125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/12",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 307.5199890136719,
+              "t": 199.38421630859375,
+              "r": 573.0189208984375,
+              "b": 35.92144775390625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/13",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 23.936738967895508,
+              "t": 731.9243927001953,
+              "r": 288.5238952636719,
+              "b": 572.9857788085938,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/14",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.58907699584961,
+              "t": 472.9607849121094,
+              "r": 287.2419128417969,
+              "b": 312.5174560546875,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/15",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 28.462778091430664,
+              "t": 199.76763916015625,
+              "r": 283.4490661621094,
+              "b": 58.873779296875,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/16",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 305.5710754394531,
+              "t": 714.8098297119141,
+              "r": 566.289306640625,
+              "b": 569.5351257324219,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/17",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 307.2977294921875,
+              "t": 459.7211608886719,
+              "r": 563.876708984375,
+              "b": 309.2156982421875,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/18",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 306.94195556640625,
+              "t": 195.7894287109375,
+              "r": 572.0586547851562,
+              "b": 34.68560791015625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/19",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 31.15934181213379,
+              "t": 758.4661331176758,
+              "r": 287.0199279785156,
+              "b": 591.1096496582031,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/20",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 27.890182495117188,
+              "t": 490.5482177734375,
+              "r": 288.04937744140625,
+              "b": 322.003662109375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/21",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 30.973718643188477,
+              "t": 225.8638916015625,
+              "r": 287.5826721191406,
+              "b": 63.6583251953125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/22",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 306.5596923828125,
+              "t": 721.063720703125,
+              "r": 570.53564453125,
+              "b": 579.4591674804688,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/23",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 307.94659423828125,
+              "t": 487.4699401855469,
+              "r": 566.8193359375,
+              "b": 321.8887939453125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/24",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 4,
+            "bbox": {
+              "l": 309.857421875,
+              "t": 218.755859375,
+              "r": 568.0990600585938,
+              "b": 62.80169677734375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [
+      {
+        "self_ref": "#/tables/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 390.9009094238281,
+              "t": 523.3800659179688,
+              "r": 575.2594604492188,
+              "b": 346.8607177734375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [],
+          "num_rows": 0,
+          "num_cols": 0,
+          "orientation": "rot_0",
+          "grid": []
+        },
+        "annotations": []
+      }
+    ],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 1
+      },
+      "2": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 2
+      },
+      "3": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 3
+      },
+      "4": {
+        "size": {
+          "width": 595.2755737304688,
+          "height": 841.8897705078125
+        },
+        "page_no": 4
+      }
+    }
+  }
+}

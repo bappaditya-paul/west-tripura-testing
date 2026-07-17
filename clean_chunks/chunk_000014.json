@@ -1,0 +1,27 @@
+{
+  "chunk_id": "administrative_setup_d04f5500__3f2d33590aa5__chunk_0000",
+  "document_id": "administrative_setup_d04f5500__3f2d33590aa5",
+  "parent_document": "administrative_setup_d04f5500__3f2d33590aa5",
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "previous_chunk_id": "",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/administrative-setup/",
+  "heading_chain": [
+    "Administrative Setup"
+  ],
+  "heading": "Administrative Setup",
+  "section": "Administrative Setup",
+  "sub_section": "",
+  "text": "# Administrative Setup\n\nDistrict is the main unit of the state. The District Collector & Magistrate is the administrator of the district . The most important work of the the District Collector is to maintain law and order, various rules and implementation of various govt. schemes. Being a top administrator of the district, he directly orders the police department whenever required. He is also responsible to maintain peace and justice in the district.",
+  "content": "# Administrative Setup\n\nDistrict is the main unit of the state. The District Collector & Magistrate is the administrator of the district . The most important work of the the District Collector is to maintain law and order, various rules and implementation of various govt. schemes. Being a top administrator of the district, he directly orders the police department whenever required. He is also responsible to maintain peace and justice in the district.",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 83,
+  "character_count": 454,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:31:00.556785Z",
+  "sha256": "7b89290f7fbec60abd89626b17a82b789416f9e66d3869c9b39a064f2a52a013"
+}

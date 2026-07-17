@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "id": "ExtensionDEEET2024inBangla__151b0567",
+    "url": "http://wptripura.nic.in/ExtensionDEEET2024inBangla.pdf",
+    "file_name": "ExtensionDEEET2024inBangla__151b0567.pdf",
+    "title": "Extensiondeeet2024Inbangla",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "bn",
+    "download_date": "2026-07-11T21:10:13.762985+00:00",
+    "page_count": 1,
+    "tables": 0,
+    "images": 0,
+    "word_count": 145,
+    "sha256": "97b2ca745ad199052cb0b2c1586477669082e5942c42e000de29ca63f8083757",
+    "file_size_bytes": 548898,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 2.905,
+    "local_path": "output/documents/pdf/ExtensionDEEET2024inBangla__151b0567.pdf",
+    "markdown_path": "output/markdown/ExtensionDEEET2024inBangla__151b0567.md",
+    "json_path": "output/json/ExtensionDEEET2024inBangla__151b0567.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "ExtensionDEEET2024inBangla__151b0567",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 16008548881176999767,
+      "filename": "ExtensionDEEET2024inBangla__151b0567.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 110.21,
+              "t": 663.8358400000001,
+              "r": 506.23951999999986,
+              "b": 647.0807054545455,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              46
+            ]
+          }
+        ],
+        "orig": "Notice for Last and Final Extension for online",
+        "text": "Notice for Last and Final Extension for online",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 130.13,
+              "t": 637.4358400000001,
+              "r": 486.83000000000004,
+              "b": 620.6807054545455,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              37
+            ]
+          }
+        ],
+        "orig": "application of DEEET-2024 Examination",
+        "text": "application of DEEET-2024 Examination",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.024,
+              "t": 600.61624,
+              "r": 540.4691200000001,
+              "b": 316.83856000000003,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              681
+            ]
+          }
+        ],
+        "orig": "সেন্ট্রাল সেললকশন কসিটি 2024, গভন ন লিন্ট অফ ত্রিপুরা ( উচ্চ সশক্ষা দপ্তর ) এর পক্ষ সেলক েকললর অবগসির জনয জানালনা যালে সয ছািছািীলদর েুসবধালিন , ডিপ্লোমো ইঞ্জিডিয়োড িং এ ভডতি জিয প্রপ্েডিকো প ীক্ষো DEEET-2024 এ অিলোইি আপ্েদি ক ো সময়সীমো েোডিপ্য় 15 ই মোর্ি 2024 থেপ্ক 20 ই মোর্ি 2024 পর্ ি ন্ত ক ো হপ্লো। এ প DEEET  2024 এ আপ্েদি ক ো সময়সীমো আ েডধ ি ত ক ো হপ্ে িো। অনলাইন আলবদন করার ওলেবোইি এলেে https://highereducation.tripura.gov.in/ । থর্ সকল ছোত্র / ছোত্রী এই েছ মোধযডমক প ীক্ষো ডদপ্েি তো োও এই প্রপ্েডিকো প ীক্ষোয় আপ্েদি ক প্ত পো প্েি। সবশদ ভালব জানার জনয https://highereducation.tripura.gov.in/ ওলেবোইি এর সনাটিশ সেকশন DEEET 2024 পরীক্ষা েংক্রান্ত সনাটিশ টি সদখার আলবদন রইল।",
+        "text": "সেন্ট্রাল সেললকশন কসিটি 2024, গভন ন লিন্ট অফ ত্রিপুরা ( উচ্চ সশক্ষা দপ্তর ) এর পক্ষ সেলক েকললর অবগসির জনয জানালনা যালে সয ছািছািীলদর েুসবধালিন , ডিপ্লোমো ইঞ্জিডিয়োড িং এ ভডতি জিয প্রপ্েডিকো প ীক্ষো DEEET-2024 এ অিলোইি আপ্েদি ক ো সময়সীমো েোডিপ্য় 15 ই মোর্ি 2024 থেপ্ক 20 ই মোর্ি 2024 পর্ ি ন্ত ক ো হপ্লো। এ প DEEET  2024 এ আপ্েদি ক ো সময়সীমো আ েডধ ি ত ক ো হপ্ে িো। অনলাইন আলবদন করার ওলেবোইি এলেে https://highereducation.tripura.gov.in/ । থর্ সকল ছোত্র / ছোত্রী এই েছ মোধযডমক প ীক্ষো ডদপ্েি তো োও এই প্রপ্েডিকো প ীক্ষোয় আপ্েদি ক প্ত পো প্েি। সবশদ ভালব জানার জনয https://highereducation.tripura.gov.in/ ওলেবোইি এর সনাটিশ সেকশন DEEET 2024 পরীক্ষা েংক্রান্ত সনাটিশ টি সদখার আলবদন রইল।"
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 440.81,
+              "t": 300.21999999999997,
+              "r": 461.78504000000004,
+              "b": 289.18,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              4
+            ]
+          }
+        ],
+        "orig": "Sd/-",
+        "text": "Sd/-"
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 372.14,
+              "t": 286.78,
+              "r": 530.4450400000001,
+              "b": 248.86,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              63
+            ]
+          }
+        ],
+        "orig": "Dr. Tirtharaj Sen,FIE Chairman Central Selection Committee 2024",
+        "text": "Dr. Tirtharaj Sen,FIE Chairman Central Selection Committee 2024"
+      }
+    ],
+    "pictures": [],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 612.0,
+          "height": 792.0
+        },
+        "page_no": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "chunk_id": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502__chunk_0001",
+  "document_id": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502",
+  "parent_document": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502",
+  "chunk_index": 1,
+  "total_chunks": 3,
+  "previous_chunk_id": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502__chunk_0000",
+  "next_chunk_id": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502__chunk_0002",
+  "title": "Parichay Authenticator",
+  "url": "https://parichay.nic.in/pnv1/assets/about-parichay-authenticator",
+  "heading_chain": [
+    "Parichay Authenticator",
+    "About Us",
+    "Functionality",
+    "Tap Authentication",
+    "Token Authentication"
+  ],
+  "heading": "Parichay Authenticator",
+  "section": "Parichay Authenticator",
+  "sub_section": "Token Authentication",
+  "text": "## About Us\n\nParichay Authenticator is a comprehensive, reliable, and secure framework that offers a variety of multifactor authentication solutions like Token Authentication and Tap Authentication to various integrate services including Parichay, Jan Parichay, VPN, and others. It also helps in securing the device by providing local device authentication parameters which includes Pattern, Pin, and Fingerprint.\n\n### Functionality\n\nThe application authenticates you through a two-step authentication process where a user needs to provide a secondary factor of authentication along with the password.\n\n### Tap Authentication\n\nFor Tap-based authentication, a user needs to tap a prompt sent by the authenticator to registered client device. The prompt will ask if the user is allowed to access the online application or not. Following are benefits of Tap Authentication.\n\n* Easy, quick and convenient real time authentication solution.\n* Authenticates user identity with a single tap.\n* Single-tap authentication effectively helps in securing the data in a hassle-free way in addition to meeting the required compliances.\n* Access Jan Parichay, and integrated services with a single tap.\n\n### Token Authentication\n\nFor Token-based authentication, a user needs use a soft token generated every 30 seconds by the online application and client device simultaneously. Following are the benefits of Token Authentication.\n\n* This authentication factor adds a second layer of security to application, network, or service access.\n* Provides seamless access to Jan Parichay and integrated services.",
+  "content": "## About Us\n\nParichay Authenticator is a comprehensive, reliable, and secure framework that offers a variety of multifactor authentication solutions like Token Authentication and Tap Authentication to various integrate services including Parichay, Jan Parichay, VPN, and others. It also helps in securing the device by providing local device authentication parameters which includes Pattern, Pin, and Fingerprint.\n\n### Functionality\n\nThe application authenticates you through a two-step authentication process where a user needs to provide a secondary factor of authentication along with the password.\n\n### Tap Authentication\n\nFor Tap-based authentication, a user needs to tap a prompt sent by the authenticator to registered client device. The prompt will ask if the user is allowed to access the online application or not. Following are benefits of Tap Authentication.\n\n* Easy, quick and convenient real time authentication solution.\n* Authenticates user identity with a single tap.\n* Single-tap authentication effectively helps in securing the data in a hassle-free way in addition to meeting the required compliances.\n* Access Jan Parichay, and integrated services with a single tap.\n\n### Token Authentication\n\nFor Token-based authentication, a user needs use a soft token generated every 30 seconds by the online application and client device simultaneously. Following are the benefits of Token Authentication.\n\n* This authentication factor adds a second layer of security to application, network, or service access.\n* Provides seamless access to Jan Parichay and integrated services.",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 287,
+  "character_count": 1589,
+  "has_table": false,
+  "has_list": true,
+  "created_at": "2026-07-11T20:36:34.595358Z",
+  "sha256": "ea99e0015fedf82533c7c7ecb709e2b00de3fca0f14b45b573bfae3144bb61fe"
+}

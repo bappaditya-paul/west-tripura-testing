@@ -1,0 +1,2483 @@
+{
+  "metadata": {
+    "id": "Ad_Spot24__e72ac0a6",
+    "url": "http://wptripura.nic.in/Ad_Spot24.pdf",
+    "file_name": "Ad_Spot24__e72ac0a6.pdf",
+    "title": "Ad Spot24",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T21:10:10.854421+00:00",
+    "page_count": 1,
+    "tables": 18,
+    "images": 0,
+    "word_count": 635,
+    "sha256": "57cff0aea8b5b070b9de8ad5e50209261e6b57bc96ce9ed2005fb115df20be0f",
+    "file_size_bytes": 476639,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 8.108,
+    "local_path": "output/documents/pdf/Ad_Spot24__e72ac0a6.pdf",
+    "markdown_path": "output/markdown/Ad_Spot24__e72ac0a6.md",
+    "json_path": "output/json/Ad_Spot24__e72ac0a6.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "Ad_Spot24__e72ac0a6",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 26934830283406863,
+      "filename": "Ad_Spot24__e72ac0a6.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/tables/0"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/tables/1"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/groups/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/5"
+          },
+          {
+            "$ref": "#/texts/6"
+          },
+          {
+            "$ref": "#/texts/7"
+          },
+          {
+            "$ref": "#/texts/8"
+          },
+          {
+            "$ref": "#/texts/9"
+          },
+          {
+            "$ref": "#/texts/10"
+          },
+          {
+            "$ref": "#/texts/11"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      },
+      {
+        "self_ref": "#/groups/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/13"
+          },
+          {
+            "$ref": "#/texts/14"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 253.91999850000002,
+              "t": 769.30100745,
+              "r": 357.9338054797555,
+              "b": 761.1246033227272,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              21
+            ]
+          }
+        ],
+        "orig": "Government of Tripura",
+        "text": "Government of Tripura",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 221.51998874999998,
+              "t": 755.8889553,
+              "r": 390.6215669105798,
+              "b": 746.0378280863637,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              28
+            ]
+          }
+        ],
+        "orig": "Women's Polytechnic, HAPANIA",
+        "text": "Women's Polytechnic, HAPANIA"
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 143.52000075,
+              "t": 740.3810097,
+              "r": 468.32527125,
+              "b": 720.6846048227272,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              79
+            ]
+          }
+        ],
+        "orig": "NOTICE FOR ADMISSION THROUGH SPOT ROUND COUNSELLING IN DIPLOMA ENGINEERING-2024",
+        "text": "NOTICE FOR ADMISSION THROUGH SPOT ROUND COUNSELLING IN DIPLOMA ENGINEERING-2024",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 41.040000750000004,
+              "t": 717.3346284,
+              "r": 571.0984299570677,
+              "b": 632.4316099181818,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              768
+            ]
+          }
+        ],
+        "orig": "Students  willing  to  take  admission  in  to  3  years  Diploma  Engineering  Courses  at  Women's  Polytechnic,  Hapania, through Spot round Counselling process (without DEEET) are directed to apply through filled-in application form (with  all  relevant  documents  as  notified  with  the  application  form)    to    the  Office  of  the  Principal,  Women's Polytechnic,  Hapania,  with  a  processing  fees  of Rs.200/.  Candidates  who  have  passed  10 th standard  or  equivalent examination from any recognised board, already appeared in DEEET 2024 examination and are Permanent resident of Tripura  are  eligible  to  apply  for  the  Spot  round  Counselling  process:  Details  of  available  seats  after  DEEET-2024 Counselling process are as follows:",
+        "text": "Students  willing  to  take  admission  in  to  3  years  Diploma  Engineering  Courses  at  Women's  Polytechnic,  Hapania, through Spot round Counselling process (without DEEET) are directed to apply through filled-in application form (with  all  relevant  documents  as  notified  with  the  application  form)    to    the  Office  of  the  Principal,  Women's Polytechnic,  Hapania,  with  a  processing  fees  of Rs.200/.  Candidates  who  have  passed  10 th standard  or  equivalent examination from any recognised board, already appeared in DEEET 2024 examination and are Permanent resident of Tripura  are  eligible  to  apply  for  the  Spot  round  Counselling  process:  Details  of  available  seats  after  DEEET-2024 Counselling process are as follows:"
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 41.040000750000004,
+              "t": 509.2546269,
+              "r": 126.354771,
+              "b": 500.1916046681818,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              16
+            ]
+          }
+        ],
+        "orig": "Important dates:",
+        "text": "Important dates:",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 58.91999849999999,
+              "t": 262.8223131750001,
+              "r": 494.0341357500001,
+              "b": 253.35158516818183,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              91
+            ]
+          }
+        ],
+        "orig": " Application form may also be downloaded from the institute website www.wptripura.nic.in .",
+        "text": " Application form may also be downloaded from the institute website www.wptripura.nic.in .",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 58.91999849999999,
+              "t": 249.38232592500003,
+              "r": 537.6619249911166,
+              "b": 239.91159791818188,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              112
+            ]
+          }
+        ],
+        "orig": " All notices and merit lists will be published in the institute notice board and also in the institute website.",
+        "text": " All notices and merit lists will be published in the institute notice board and also in the institute website.",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 58.91999849999999,
+              "t": 235.94233867499997,
+              "r": 570.6459764572135,
+              "b": 213.7515941681819,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              219
+            ]
+          }
+        ],
+        "orig": " Counselling starts from 12.00 noon. Eligible candidates must report & present at the institute within11.30 AM on the day of counselling. If any student fails to report on time the student may lose her merit seniority.",
+        "text": " Counselling starts from 12.00 noon. Eligible candidates must report & present at the institute within11.30 AM on the day of counselling. If any student fails to report on time the student may lose her merit seniority.",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 58.91999849999999,
+              "t": 209.90231542499998,
+              "r": 571.0682336698854,
+              "b": 162.39160916818184,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              374
+            ]
+          }
+        ],
+        "orig": " The provisional merit list will be prepared based on the sum of marks obtained in English, Mathematics & Physical science/science in 10 th standard exam. Or equivalent from any recognised board. In case of tie among candidates, overall percentage of marks followed by marks obtained in Mathematics, Physical science/ science or English will be considered to break the tie.",
+        "text": " The provisional merit list will be prepared based on the sum of marks obtained in English, Mathematics & Physical science/science in 10 th standard exam. Or equivalent from any recognised board. In case of tie among candidates, overall percentage of marks followed by marks obtained in Mathematics, Physical science/ science or English will be considered to break the tie.",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 58.91999849999999,
+              "t": 158.54232967500002,
+              "r": 570.7701562865554,
+              "b": 136.35158516818183,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              153
+            ]
+          }
+        ],
+        "orig": " Candidates who have appeared in the DEEET exam 2024 and secured rank will get merit seniority over the candidates who will apply freshly for admission.",
+        "text": " Candidates who have appeared in the DEEET exam 2024 and secured rank will get merit seniority over the candidates who will apply freshly for admission.",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 58.91999849999999,
+              "t": 132.38232592500003,
+              "r": 570.8147060762087,
+              "b": 110.19162716818187,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              138
+            ]
+          }
+        ],
+        "orig": " ESM category  will  be  considered  if  the  application  is  forwarded  from  Rajya  Sainik  Board,  Tripura  within 28.06.2024 (4 PM).",
+        "text": " ESM category  will  be  considered  if  the  application  is  forwarded  from  Rajya  Sainik  Board,  Tripura  within 28.06.2024 (4 PM).",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 58.91999849999999,
+              "t": 106.34234842500007,
+              "r": 504.6062064970123,
+              "b": 96.87162041818192,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              102
+            ]
+          }
+        ],
+        "orig": " In case of any dispute during the admission process, the decision of the institute will stand final.",
+        "text": " In case of any dispute during the admission process, the decision of the institute will stand final.",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/12",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 41.040000750000004,
+              "t": 93.21462614999996,
+              "r": 571.1512845000001,
+              "b": 71.19162716818187,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              164
+            ]
+          }
+        ],
+        "orig": "For  any  updates  and  queries,  students  are  advised  to  go  through  the  institute  website www.wptripura.nic.in  or contact-7005253558/7005189082/7005392496",
+        "text": "For  any  updates  and  queries,  students  are  advised  to  go  through  the  institute  website www.wptripura.nic.in  or contact-7005253558/7005189082/7005392496"
+      },
+      {
+        "self_ref": "#/texts/13",
+        "parent": {
+          "$ref": "#/groups/1"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 401.400009,
+              "t": 45.10099695000008,
+              "r": 498.46339493306147,
+              "b": 25.524583822727323,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              35
+            ]
+          }
+        ],
+        "orig": "(Dr. Tirtharaj Sen, FIE) Principal,",
+        "text": "(Dr. Tirtharaj Sen, FIE) Principal,"
+      },
+      {
+        "self_ref": "#/texts/14",
+        "parent": {
+          "$ref": "#/groups/1"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 384.0,
+              "t": 22.181044949999887,
+              "r": 515.8197626384964,
+              "b": 14.004640822727197,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              29
+            ]
+          }
+        ],
+        "orig": "Women's Polytechnic, Hapania.",
+        "text": "Women's Polytechnic, Hapania."
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 425.08251953125,
+              "t": 68.21282958984375,
+              "r": 455.0958557128906,
+              "b": 49.99761962890625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [
+      {
+        "self_ref": "#/tables/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 95.31834411621094,
+              "t": 631.6065521240234,
+              "r": 513.6947631835938,
+              "b": 511.8485107421875,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [
+            {
+              "bbox": {
+                "l": 179.04000075,
+                "t": 172.46536709999998,
+                "r": 256.14408418102244,
+                "b": 181.52838933181818,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Name of Branch",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 354.599991,
+                "t": 164.66537159999996,
+                "r": 496.98873641508004,
+                "b": 173.72839383181827,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 3,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 4,
+              "text": "Total Number of Seats Vacant",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 366.120003,
+                "t": 179.78537385000004,
+                "r": 382.0333981630087,
+                "b": 188.84839608181824,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "UR",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 427.63033051300874,
+                "t": 179.78537385000004,
+                "r": 441.09731885297055,
+                "b": 188.84839608181824,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "ST",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 479.1240605969567,
+                "t": 179.78537385000004,
+                "r": 493.14032399695674,
+                "b": 188.84839608181824,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "SC",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 153.359997,
+                "t": 195.62537084999997,
+                "r": 281.74375634414054,
+                "b": 204.68839308181816,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Information Technology (IT)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 368.4308193691406,
+                "t": 195.62537084999997,
+                "r": 379.44989436914057,
+                "b": 204.68839308181816,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "06",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.70515961914055,
+                "t": 195.62537084999997,
+                "r": 439.7242346191406,
+                "b": 204.68839308181816,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "09",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 480.38462136914063,
+                "t": 195.62537084999997,
+                "r": 491.4036963691406,
+                "b": 204.68839308181816,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 128.640003,
+                "t": 211.34536409999998,
+                "r": 306.37996404011625,
+                "b": 220.40838633181818,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Computer Science & Technology (CST)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 368.4174423821492,
+                "t": 211.34536409999998,
+                "r": 379.4365173821492,
+                "b": 220.40838633181818,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "00",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.6917826321492,
+                "t": 211.34536409999998,
+                "r": 439.7108576321492,
+                "b": 220.40838633181818,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "09",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 480.37124438214926,
+                "t": 211.34536409999998,
+                "r": 491.3903193821493,
+                "b": 220.40838633181818,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "01",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 145.31999625,
+                "t": 228.02537985000004,
+                "r": 289.71455765015446,
+                "b": 237.08840208181823,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Medical Lab Technology (MLT)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 368.3576959251544,
+                "t": 228.02537985000004,
+                "r": 379.37677092515446,
+                "b": 237.08840208181823,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "03",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.63203617515444,
+                "t": 228.02537985000004,
+                "r": 439.65111117515437,
+                "b": 237.08840208181823,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "02",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 480.4216886751544,
+                "t": 228.02537985000004,
+                "r": 491.44076367515436,
+                "b": 237.08840208181823,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "03",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 107.879997,
+                "t": 248.30536335,
+                "r": 327.11796665214405,
+                "b": 257.3683855818182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Electronics & Telecommunications Engg (ETCE)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 346.511624744177,
+                "t": 248.30536335,
+                "r": 401.199293969177,
+                "b": 257.3683855818182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "11 (1 ESM)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.6368768112101,
+                "t": 248.30536335,
+                "r": 439.65595181121006,
+                "b": 257.3683855818182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "10",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 480.31633856121016,
+                "t": 248.30536335,
+                "r": 491.3354135612101,
+                "b": 257.3683855818182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.04000075,
+                "t": 267.62537084999997,
+                "r": 274.018576725,
+                "b": 276.68839308181816,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Fashion Technology (FT)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 368.3419448170329,
+                "t": 267.62537084999997,
+                "r": 379.3610198170329,
+                "b": 276.68839308181816,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.7264758170329,
+                "t": 267.62537084999997,
+                "r": 439.7455508170329,
+                "b": 276.68839308181816,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "03",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 480.405937567033,
+                "t": 267.62537084999997,
+                "r": 491.4250125670329,
+                "b": 276.68839308181816,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "02",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          "num_rows": 7,
+          "num_cols": 4,
+          "orientation": "rot_0",
+          "grid": [
+            [
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 354.599991,
+                  "t": 164.66537159999996,
+                  "r": 496.98873641508004,
+                  "b": 173.72839383181827,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 3,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 4,
+                "text": "Total Number of Seats Vacant",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 354.599991,
+                  "t": 164.66537159999996,
+                  "r": 496.98873641508004,
+                  "b": 173.72839383181827,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 3,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 4,
+                "text": "Total Number of Seats Vacant",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 354.599991,
+                  "t": 164.66537159999996,
+                  "r": 496.98873641508004,
+                  "b": 173.72839383181827,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 3,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 4,
+                "text": "Total Number of Seats Vacant",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 179.04000075,
+                  "t": 172.46536709999998,
+                  "r": 256.14408418102244,
+                  "b": 181.52838933181818,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Name of Branch",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 366.120003,
+                  "t": 179.78537385000004,
+                  "r": 382.0333981630087,
+                  "b": 188.84839608181824,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "UR",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 427.63033051300874,
+                  "t": 179.78537385000004,
+                  "r": 441.09731885297055,
+                  "b": 188.84839608181824,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "ST",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 479.1240605969567,
+                  "t": 179.78537385000004,
+                  "r": 493.14032399695674,
+                  "b": 188.84839608181824,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "SC",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 153.359997,
+                  "t": 195.62537084999997,
+                  "r": 281.74375634414054,
+                  "b": 204.68839308181816,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Information Technology (IT)",
+                "column_header": false,
+                "row_header": true,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 368.4308193691406,
+                  "t": 195.62537084999997,
+                  "r": 379.44989436914057,
+                  "b": 204.68839308181816,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "06",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 428.70515961914055,
+                  "t": 195.62537084999997,
+                  "r": 439.7242346191406,
+                  "b": 204.68839308181816,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "09",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 480.38462136914063,
+                  "t": 195.62537084999997,
+                  "r": 491.4036963691406,
+                  "b": 204.68839308181816,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "05",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 128.640003,
+                  "t": 211.34536409999998,
+                  "r": 306.37996404011625,
+                  "b": 220.40838633181818,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Computer Science & Technology (CST)",
+                "column_header": false,
+                "row_header": true,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 368.4174423821492,
+                  "t": 211.34536409999998,
+                  "r": 379.4365173821492,
+                  "b": 220.40838633181818,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "00",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 428.6917826321492,
+                  "t": 211.34536409999998,
+                  "r": 439.7108576321492,
+                  "b": 220.40838633181818,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "09",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 480.37124438214926,
+                  "t": 211.34536409999998,
+                  "r": 491.3903193821493,
+                  "b": 220.40838633181818,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "01",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 145.31999625,
+                  "t": 228.02537985000004,
+                  "r": 289.71455765015446,
+                  "b": 237.08840208181823,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Medical Lab Technology (MLT)",
+                "column_header": false,
+                "row_header": true,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 368.3576959251544,
+                  "t": 228.02537985000004,
+                  "r": 379.37677092515446,
+                  "b": 237.08840208181823,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "03",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 428.63203617515444,
+                  "t": 228.02537985000004,
+                  "r": 439.65111117515437,
+                  "b": 237.08840208181823,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "02",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 480.4216886751544,
+                  "t": 228.02537985000004,
+                  "r": 491.44076367515436,
+                  "b": 237.08840208181823,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "03",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 107.879997,
+                  "t": 248.30536335,
+                  "r": 327.11796665214405,
+                  "b": 257.3683855818182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 5,
+                "end_row_offset_idx": 6,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Electronics & Telecommunications Engg (ETCE)",
+                "column_header": false,
+                "row_header": true,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 346.511624744177,
+                  "t": 248.30536335,
+                  "r": 401.199293969177,
+                  "b": 257.3683855818182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 5,
+                "end_row_offset_idx": 6,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "11 (1 ESM)",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 428.6368768112101,
+                  "t": 248.30536335,
+                  "r": 439.65595181121006,
+                  "b": 257.3683855818182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 5,
+                "end_row_offset_idx": 6,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "10",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 480.31633856121016,
+                  "t": 248.30536335,
+                  "r": 491.3354135612101,
+                  "b": 257.3683855818182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 5,
+                "end_row_offset_idx": 6,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "05",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 161.04000075,
+                  "t": 267.62537084999997,
+                  "r": 274.018576725,
+                  "b": 276.68839308181816,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 6,
+                "end_row_offset_idx": 7,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Fashion Technology (FT)",
+                "column_header": false,
+                "row_header": true,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 368.3419448170329,
+                  "t": 267.62537084999997,
+                  "r": 379.3610198170329,
+                  "b": 276.68839308181816,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 6,
+                "end_row_offset_idx": 7,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "05",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 428.7264758170329,
+                  "t": 267.62537084999997,
+                  "r": 439.7455508170329,
+                  "b": 276.68839308181816,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 6,
+                "end_row_offset_idx": 7,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "03",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 480.405937567033,
+                  "t": 267.62537084999997,
+                  "r": 491.4250125670329,
+                  "b": 276.68839308181816,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 6,
+                "end_row_offset_idx": 7,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "02",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ]
+          ]
+        },
+        "annotations": []
+      },
+      {
+        "self_ref": "#/tables/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 34.25335693359375,
+              "t": 499.88140869140625,
+              "r": 566.2108154296875,
+              "b": 266.2315673828125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [
+            {
+              "bbox": {
+                "l": 48.95999925,
+                "t": 301.9453776,
+                "r": 325.0155908569776,
+                "b": 323.60839083181816,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Collection & Submission of application form for Admission in this institute.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 349.7999955,
+                "t": 295.58536934999995,
+                "r": 554.0366136589391,
+                "b": 329.9683990818182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "18/06/2024 to 28/06/2024 within 11.00 AM to 3.00 PM at Conference Hall of Women's Polytechnic, Hapania.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 42.12,
+                "t": 333.9853791,
+                "r": 331.7129987341304,
+                "b": 355.76839458181814,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Last date of submission of the filled in applications forms with all necessary self attested documents at the institute.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 352.32000750000003,
+                "t": 333.9853791,
+                "r": 551.3282897960124,
+                "b": 355.76839458181814,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "28/06/2024 at 4.00 PM at Conference Hall of Women's Polytechnic, Hapania.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 70.4399985,
+                "t": 359.78537385,
+                "r": 303.739814347021,
+                "b": 368.8483960818182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Publications of provisional list of rejected candidates",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 405.1170691179967,
+                "t": 359.78537385,
+                "r": 498.32355064393255,
+                "b": 368.8483960818182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "01/07/2024 at 03 PM",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 62.04000075,
+                "t": 372.9853791,
+                "r": 311.92270665831256,
+                "b": 394.6484148318182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Hearing (claims if any) on the provisional list of rejected candidates.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 351.83999625,
+                "t": 372.9853791,
+                "r": 551.8070241520263,
+                "b": 394.6484148318182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "02/07/2024 between 11.00 AM to 3.00 PM at Conference Hall.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 108.95999925000001,
+                "t": 398.78537385000004,
+                "r": 265.1627907939776,
+                "b": 407.84839608181824,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Publication of provisional merit list",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 392.68654576897757,
+                "t": 398.78537385000004,
+                "r": 510.89733150596896,
+                "b": 407.84839608181824,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "05/07/2024 at 12.00 Noon.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 49.8000015,
+                "t": 411.98535585,
+                "r": 324.22520048918057,
+                "b": 433.6484148318182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Address of query (if any) related to provisional common merit list.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 351.83999625,
+                "t": 411.98535585,
+                "r": 551.8070241520263,
+                "b": 433.6484148318182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "06/07/2024 between 11.00 AM to 3.00 PM at Conference Hall.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 121.68000375,
+                "t": 444.3853648500001,
+                "r": 252.3902083330036,
+                "b": 453.44838708181817,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Publication of Final Merit list",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 392.88002025,
+                "t": 444.3853648500001,
+                "r": 511.06691697398264,
+                "b": 453.44838708181817,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "08/07/2024 at 12.00 Noon.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 107.39999775,
+                "t": 475.5853926,
+                "r": 266.79823496296353,
+                "b": 484.6484148318182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Dates of counselling cum admission",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 344.879997,
+                "t": 466.88121972,
+                "r": 559.1644943040243,
+                "b": 490.8883743318182,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "12/07/2024 (1 st round )& 18/07/2024 (2nd round for the remaining vacant seats after 1 st round)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 110.75999475,
+                "t": 507.86537610000005,
+                "r": 263.36015138015114,
+                "b": 516.9283983318181,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Admission after allotment of Seats",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 354.71004790112687,
+                "t": 507.86537610000005,
+                "r": 548.5979037830767,
+                "b": 516.9283983318181,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "12/07/2024 to 20/07/2024 (11 AM to 3 PM)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          "num_rows": 9,
+          "num_cols": 2,
+          "orientation": "rot_0",
+          "grid": [
+            [
+              {
+                "bbox": {
+                  "l": 48.95999925,
+                  "t": 301.9453776,
+                  "r": 325.0155908569776,
+                  "b": 323.60839083181816,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Collection & Submission of application form for Admission in this institute.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 349.7999955,
+                  "t": 295.58536934999995,
+                  "r": 554.0366136589391,
+                  "b": 329.9683990818182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "18/06/2024 to 28/06/2024 within 11.00 AM to 3.00 PM at Conference Hall of Women's Polytechnic, Hapania.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 42.12,
+                  "t": 333.9853791,
+                  "r": 331.7129987341304,
+                  "b": 355.76839458181814,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Last date of submission of the filled in applications forms with all necessary self attested documents at the institute.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 352.32000750000003,
+                  "t": 333.9853791,
+                  "r": 551.3282897960124,
+                  "b": 355.76839458181814,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "28/06/2024 at 4.00 PM at Conference Hall of Women's Polytechnic, Hapania.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 70.4399985,
+                  "t": 359.78537385,
+                  "r": 303.739814347021,
+                  "b": 368.8483960818182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Publications of provisional list of rejected candidates",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 405.1170691179967,
+                  "t": 359.78537385,
+                  "r": 498.32355064393255,
+                  "b": 368.8483960818182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "01/07/2024 at 03 PM",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 62.04000075,
+                  "t": 372.9853791,
+                  "r": 311.92270665831256,
+                  "b": 394.6484148318182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Hearing (claims if any) on the provisional list of rejected candidates.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 351.83999625,
+                  "t": 372.9853791,
+                  "r": 551.8070241520263,
+                  "b": 394.6484148318182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "02/07/2024 between 11.00 AM to 3.00 PM at Conference Hall.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 108.95999925000001,
+                  "t": 398.78537385000004,
+                  "r": 265.1627907939776,
+                  "b": 407.84839608181824,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Publication of provisional merit list",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 392.68654576897757,
+                  "t": 398.78537385000004,
+                  "r": 510.89733150596896,
+                  "b": 407.84839608181824,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "05/07/2024 at 12.00 Noon.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 49.8000015,
+                  "t": 411.98535585,
+                  "r": 324.22520048918057,
+                  "b": 433.6484148318182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 5,
+                "end_row_offset_idx": 6,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Address of query (if any) related to provisional common merit list.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 351.83999625,
+                  "t": 411.98535585,
+                  "r": 551.8070241520263,
+                  "b": 433.6484148318182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 5,
+                "end_row_offset_idx": 6,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "06/07/2024 between 11.00 AM to 3.00 PM at Conference Hall.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 121.68000375,
+                  "t": 444.3853648500001,
+                  "r": 252.3902083330036,
+                  "b": 453.44838708181817,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 6,
+                "end_row_offset_idx": 7,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Publication of Final Merit list",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 392.88002025,
+                  "t": 444.3853648500001,
+                  "r": 511.06691697398264,
+                  "b": 453.44838708181817,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 6,
+                "end_row_offset_idx": 7,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "08/07/2024 at 12.00 Noon.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 107.39999775,
+                  "t": 475.5853926,
+                  "r": 266.79823496296353,
+                  "b": 484.6484148318182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 7,
+                "end_row_offset_idx": 8,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Dates of counselling cum admission",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 344.879997,
+                  "t": 466.88121972,
+                  "r": 559.1644943040243,
+                  "b": 490.8883743318182,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 7,
+                "end_row_offset_idx": 8,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "12/07/2024 (1 st round )& 18/07/2024 (2nd round for the remaining vacant seats after 1 st round)",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "bbox": {
+                  "l": 110.75999475,
+                  "t": 507.86537610000005,
+                  "r": 263.36015138015114,
+                  "b": 516.9283983318181,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 8,
+                "end_row_offset_idx": 9,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Admission after allotment of Seats",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 354.71004790112687,
+                  "t": 507.86537610000005,
+                  "r": 548.5979037830767,
+                  "b": 516.9283983318181,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 8,
+                "end_row_offset_idx": 9,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "12/07/2024 to 20/07/2024 (11 AM to 3 PM)",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ]
+          ]
+        },
+        "annotations": []
+      }
+    ],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 612.0,
+          "height": 792.0
+        },
+        "page_no": 1
+      }
+    }
+  }
+}

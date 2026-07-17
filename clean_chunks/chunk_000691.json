@@ -1,0 +1,27 @@
+{
+  "chunk_id": "rti_94b8fb0c__d3f50276de1b__chunk_0000",
+  "document_id": "rti_94b8fb0c__d3f50276de1b",
+  "parent_document": "rti_94b8fb0c__d3f50276de1b",
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "previous_chunk_id": "",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/rti/",
+  "heading_chain": [
+    "RTI"
+  ],
+  "heading": "RTI",
+  "section": "RTI",
+  "sub_section": "",
+  "text": "# RTI\n\nCitizen can apply for information under RTI Act in the DM Office of West District. The citizen can apply online in the eDistrict Portal also.",
+  "content": "# RTI\n\nCitizen can apply for information under RTI Act in the DM Office of West District. The citizen can apply online in the eDistrict Portal also.",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 34,
+  "character_count": 148,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:32:10.408647Z",
+  "sha256": "365307313fcc901fbcff785d22931f1edab61ae8d7916d869805706f3674d53b"
+}

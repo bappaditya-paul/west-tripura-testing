@@ -1,0 +1,28 @@
+{
+  "chunk_id": "public_utility_category_hospitals_daef6edd__4211b3718663__chunk_0009",
+  "document_id": "public_utility_category_hospitals_daef6edd__4211b3718663",
+  "parent_document": "public_utility_category_hospitals_daef6edd__4211b3718663",
+  "chunk_index": 9,
+  "total_chunks": 10,
+  "previous_chunk_id": "public_utility_category_hospitals_daef6edd__4211b3718663__chunk_0008",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/public-utility-category/hospitals/",
+  "heading_chain": [
+    "Hospitals",
+    "IGM Hospital"
+  ],
+  "heading": "Hospitals",
+  "section": "Hospitals",
+  "sub_section": "IGM Hospital",
+  "text": "## IGM Hospital\n\n* **Phone :** 231-5875\n* Page - 1 of 3\n* **[Next]**",
+  "content": "## IGM Hospital\n\n* **Phone :** 231-5875\n* Page - 1 of 3\n* **[Next]**",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 30,
+  "character_count": 68,
+  "has_table": false,
+  "has_list": true,
+  "created_at": "2026-07-11T20:32:05.971350Z",
+  "sha256": "8c2e711d0f43d4097b4969327ad1be9465b0f38d8815ff07a901f9cc4a757437"
+}

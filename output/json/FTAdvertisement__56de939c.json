@@ -1,0 +1,1128 @@
+{
+  "metadata": {
+    "id": "FTAdvertisement__56de939c",
+    "url": "https://wptripura.nic.in/images/FTAdvertisement.pdf",
+    "file_name": "FTAdvertisement__56de939c.pdf",
+    "title": "Ftadvertisement",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "bn",
+    "download_date": "2026-07-11T21:59:01.799856+00:00",
+    "page_count": 1,
+    "tables": 0,
+    "images": 0,
+    "word_count": 242,
+    "sha256": "b638774cd7e2366dedd4c5239455af2f6dab1ba85edaa255afec38408754b4b1",
+    "file_size_bytes": 1288947,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 2.747,
+    "local_path": "output/documents/pdf/FTAdvertisement__56de939c.pdf",
+    "markdown_path": "output/markdown/FTAdvertisement__56de939c.md",
+    "json_path": "output/json/FTAdvertisement__56de939c.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "FTAdvertisement__56de939c",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 12676568900940641457,
+      "filename": "FTAdvertisement__56de939c.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/groups/1"
+        },
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/groups/2"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/3"
+          },
+          {
+            "$ref": "#/texts/4"
+          },
+          {
+            "$ref": "#/texts/5"
+          },
+          {
+            "$ref": "#/texts/6"
+          },
+          {
+            "$ref": "#/texts/7"
+          },
+          {
+            "$ref": "#/texts/8"
+          },
+          {
+            "$ref": "#/texts/9"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      },
+      {
+        "self_ref": "#/groups/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/17"
+          },
+          {
+            "$ref": "#/texts/18"
+          },
+          {
+            "$ref": "#/texts/19"
+          },
+          {
+            "$ref": "#/texts/20"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      },
+      {
+        "self_ref": "#/groups/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/28"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 110.45,
+              "t": 759.5572,
+              "r": 426.9188,
+              "b": 748.0098486368593,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              28
+            ]
+          }
+        ],
+        "orig": "Women's Polytechnic, haPania",
+        "text": "Women's Polytechnic, haPania",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 110.45,
+              "t": 737.7099999999999,
+              "r": 371.15,
+              "b": 696.2084090909091,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              51
+            ]
+          }
+        ],
+        "orig": "Education (Higher) Department Government of Tripura",
+        "text": "Education (Higher) Department Government of Tripura",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 416.3,
+              "t": 733.53712,
+              "r": 610.2903200000003,
+              "b": 706.0397590361446,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              34
+            ]
+          }
+        ],
+        "orig": "ফ্যািন টেকরনালজি 1 উজ্জ্বল িহির্যে",
+        "text": "ফ্যািন টেকরনালজি 1 উজ্জ্বল িহির্যে",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 63.384,
+              "t": 672.82768,
+              "r": 568.948,
+              "b": 619.5777204819277,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              218
+            ]
+          }
+        ],
+        "orig": " Women's Polytechnic , Hapania ত্রিপুরা সরকাররর উচ্চ শিক্ষা শিভাগ দপ্তরেে, অধীরে আগ্রহী দশম শ্রেণী পাশ & DEET পাশ মহহলা হশক্ষার্থীশ্রদর হিহিন্ন Course গুহলরে িহেির জেয 2022-23 হশক্ষাি(র্ ি online Choice Filling চলরে I",
+        "text": " Women's Polytechnic , Hapania ত্রিপুরা সরকাররর উচ্চ শিক্ষা শিভাগ দপ্তরেে, অধীরে আগ্রহী দশম শ্রেণী পাশ & DEET পাশ মহহলা হশক্ষার্থীশ্রদর হিহিন্ন Course গুহলরে িহেির জেয 2022-23 হশক্ষাি(র্ ি online Choice Filling চলরে I",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 63.384,
+              "t": 612.5876800000001,
+              "r": 569.88496,
+              "b": 583.2457783132529,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              97
+            ]
+          }
+        ],
+        "orig": " এইপ্রহশক্ষণকম ি সূহচগুহল Tripura  University, স্বীক ৃ েএিং AICTE,  New  Delhi কেৃ িক অেুরমাহদে।",
+        "text": " এইপ্রহশক্ষণকম ি সূহচগুহল Tripura  University, স্বীক ৃ েএিং AICTE,  New  Delhi কেৃ িক অেুরমাহদে।",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 63.384,
+              "t": 579.92768,
+              "r": 569.90704,
+              "b": 527.86856,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              199
+            ]
+          }
+        ],
+        "orig": " AICTE, New Delhi কেৃ িক অেুরমাহদে ৩ িছরেে শিরলামা ইন ফ্যািন টেকরনালজি (Diploma  in  Fashion  Technology) শ্রকাস ি  যা রারজয িা রারজযর িাইরর হিহিন্ন শ্রক্ষরি খুি িাল কযাহরযাররর সুরযাগ ররযরে শ্রযমে :",
+        "text": " AICTE, New Delhi কেৃ িক অেুরমাহদে ৩ িছরেে শিরলামা ইন ফ্যািন টেকরনালজি (Diploma  in  Fashion  Technology) শ্রকাস ি  যা রারজয িা রারজযর িাইরর হিহিন্ন শ্রক্ষরি খুি িাল কযাহরযাররর সুরযাগ ররযরে শ্রযমে :",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 45.384,
+              "t": 524.19344,
+              "r": 532.41496,
+              "b": 495.56528000000003,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              107
+            ]
+          }
+        ],
+        "orig": "1) ফ্যাশে হিজাইোর 2) ফ্যাশে মারচিন্ডাইজার 3) শ্রেক্সোইল হিজাইোর 4) ফ্যাশে উরদযাক্তা 5) উচ্চহশক্ষা ইেযাহদ",
+        "text": "ফ্যাশে হিজাইোর 2) ফ্যাশে মারচিন্ডাইজার 3) শ্রেক্সোইল হিজাইোর 4) ফ্যাশে উরদযাক্তা 5) উচ্চহশক্ষা ইেযাহদ",
+        "enumerated": true,
+        "marker": "1)"
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 63.384,
+              "t": 474.53767999999997,
+              "r": 535.77496,
+              "b": 439.88,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              132
+            ]
+          }
+        ],
+        "orig": " যারা ফ্যািন টেকরনালজিরে ৩ িছরেে শিরলামা সম্পন্ন করররেে োরদর অহধকাংশই আকর্ ি ণীয শ্রিেরে সারা শ্রদরশ হিহিন্ন প্রহেষ্ঠারে কম ি রে .",
+        "text": " যারা ফ্যািন টেকরনালজিরে ৩ িছরেে শিরলামা সম্পন্ন করররেে োরদর অহধকাংশই আকর্ ি ণীয শ্রিেরে সারা শ্রদরশ হিহিন্ন প্রহেষ্ঠারে কম ি রে .",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 45.384,
+              "t": 436.85767999999996,
+              "r": 568.9940799999999,
+              "b": 406.5481018181818,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              122
+            ]
+          }
+        ],
+        "orig": " Choice Filling িনয নযযনেম ট াগযো -দশম শ্রেণী & DEET পাশ মহহলা ( েূযেেম 35% overall marks ) িয়স -শ্রকােঊর্ধ্ ি সীমারেই।",
+        "text": " Choice Filling িনয নযযনেম ট াগযো -দশম শ্রেণী & DEET পাশ মহহলা ( েূযেেম 35% overall marks ) িয়স -শ্রকােঊর্ধ্ ি সীমারেই।",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 63.384,
+              "t": 403.71768,
+              "r": 326.48928,
+              "b": 389.46528,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              56
+            ]
+          }
+        ],
+        "orig": " 100% শ্রেসরমন্ট সহাযো হশক্ষার্থীশ্রদর প্রদাে করা হরি।",
+        "text": " 100% শ্রেসরমন্ট সহাযো হশক্ষার্থীশ্রদর প্রদাে করা হরি।",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 185.35,
+              "t": 364.97375999999997,
+              "r": 444.96536,
+              "b": 352.5554327272727,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              34
+            ]
+          }
+        ],
+        "orig": "শিস্তাশেেশিিেরেেিনযর াগার াগকরুন :",
+        "text": "শিস্তাশেেশিিেরেেিনযর াগার াগকরুন :",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 171.91,
+              "t": 331.60384,
+              "r": 443.57,
+              "b": 303.81543272727276,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              78
+            ]
+          }
+        ],
+        "orig": "Women's Polytechnic, Hapania -799130, Mobile-7005253558 /9856686740/9862117449",
+        "text": "Women's Polytechnic, Hapania -799130, Mobile-7005253558 /9856686740/9862117449"
+      },
+      {
+        "self_ref": "#/texts/12",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 126.29,
+              "t": 294.16384,
+              "r": 493.03000000000003,
+              "b": 282.45543272727275,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              58
+            ]
+          }
+        ],
+        "orig": "DEEET-2022 পরীক্ষার অেলাইেররত্রজরেশরেরজেযঅেুগ্রহকরররদখুে :",
+        "text": "DEEET-2022 পরীক্ষার অেলাইেররত্রজরেশরেরজেযঅেুগ্রহকরররদখুে :"
+      },
+      {
+        "self_ref": "#/texts/13",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 225.7,
+              "t": 272.80384000000004,
+              "r": 389.78000000000003,
+              "b": 261.09543272727274,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              28
+            ]
+          }
+        ],
+        "orig": "https://deeet.tripura.gov.in",
+        "text": "https://deeet.tripura.gov.in"
+      },
+      {
+        "self_ref": "#/texts/14",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 56.184,
+              "t": 251.41384000000005,
+              "r": 559.4447200000003,
+              "b": 218.34543272727274,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              127
+            ]
+          }
+        ],
+        "orig": "DEEET 2022 (Diploma Engineering Entrance Examination) Choice Filling Portal is open from 23 rd  August to 1 st  September, 2022",
+        "text": "DEEET 2022 (Diploma Engineering Entrance Examination) Choice Filling Portal is open from 23 rd  August to 1 st  September, 2022"
+      },
+      {
+        "self_ref": "#/texts/15",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 197.11,
+              "t": 187.33384,
+              "r": 414.5960800000001,
+              "b": 175.6254327272727,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              34
+            ]
+          }
+        ],
+        "orig": "www.highereducation.tripura.gov.in",
+        "text": "www.highereducation.tripura.gov.in",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/16",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 45.384,
+              "t": 169.52024000000006,
+              "r": 499.6852800000001,
+              "b": 154.08655444210524,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              75
+            ]
+          }
+        ],
+        "orig": "অর্থিা করলরজর ওরযিসাইে এ Notification শ্রদখুে: https://www.wptripura.nic.in",
+        "text": "অর্থিা করলরজর ওরযিসাইে এ Notification শ্রদখুে: https://www.wptripura.nic.in"
+      },
+      {
+        "self_ref": "#/texts/17",
+        "parent": {
+          "$ref": "#/groups/1"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 44.62463498024096,
+              "t": 114.47623999999996,
+              "r": 159.99872979199998,
+              "b": 100.49167710843369,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              15
+            ]
+          }
+        ],
+        "orig": "'স্বশনভভেজিপুো",
+        "text": "'স্বশনভভেজিপুো"
+      },
+      {
+        "self_ref": "#/texts/18",
+        "parent": {
+          "$ref": "#/groups/1"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 44.62463498024096,
+              "t": 93.33024,
+              "r": 177.95784979199996,
+              "b": 79.34567710843373,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              15
+            ]
+          }
+        ],
+        "orig": "আত্মশনভভেজিপুো",
+        "text": "আত্মশনভভেজিপুো"
+      },
+      {
+        "self_ref": "#/texts/19",
+        "parent": {
+          "$ref": "#/groups/1"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 173.83,
+              "t": 92.51016000000004,
+              "r": 181.87,
+              "b": 78.98493090909096,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              1
+            ]
+          }
+        ],
+        "orig": "'",
+        "text": "'"
+      },
+      {
+        "self_ref": "#/texts/20",
+        "parent": {
+          "$ref": "#/groups/1"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 181.23063498024098,
+              "t": 93.33024,
+              "r": 193.626169792,
+              "b": 79.34567710843373,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              1
+            ]
+          }
+        ],
+        "orig": "।",
+        "text": "।"
+      },
+      {
+        "self_ref": "#/texts/21",
+        "parent": {
+          "$ref": "#/pictures/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 44.62463498024096,
+              "t": 114.47623999999996,
+              "r": 159.99872979199998,
+              "b": 100.49167710843369,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              15
+            ]
+          }
+        ],
+        "orig": "'স্বশনভভেজিপুো",
+        "text": "'স্বশনভভেজিপুো"
+      },
+      {
+        "self_ref": "#/texts/22",
+        "parent": {
+          "$ref": "#/pictures/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 44.62463498024096,
+              "t": 93.33024,
+              "r": 177.95784979199996,
+              "b": 79.34567710843373,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              15
+            ]
+          }
+        ],
+        "orig": "আত্মশনভভেজিপুো",
+        "text": "আত্মশনভভেজিপুো"
+      },
+      {
+        "self_ref": "#/texts/23",
+        "parent": {
+          "$ref": "#/pictures/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 173.83,
+              "t": 92.51016000000004,
+              "r": 181.87,
+              "b": 78.98493090909096,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              1
+            ]
+          }
+        ],
+        "orig": "'",
+        "text": "'"
+      },
+      {
+        "self_ref": "#/texts/24",
+        "parent": {
+          "$ref": "#/pictures/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 181.23063498024098,
+              "t": 93.33024,
+              "r": 193.626169792,
+              "b": 79.34567710843373,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              1
+            ]
+          }
+        ],
+        "orig": "।",
+        "text": "।"
+      },
+      {
+        "self_ref": "#/texts/25",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 195.67,
+              "t": 90.36000000000001,
+              "r": 225.694,
+              "b": 79.92375903614459,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              4
+            ]
+          }
+        ],
+        "orig": "একটে",
+        "text": "একটে"
+      },
+      {
+        "self_ref": "#/texts/26",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 231.7,
+              "t": 90.36000000000001,
+              "r": 268.42,
+              "b": 79.92375903614459,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              7
+            ]
+          }
+        ],
+        "orig": "উজ্জ্বল",
+        "text": "উজ্জ্বল"
+      },
+      {
+        "self_ref": "#/texts/27",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 274.42,
+              "t": 90.36000000000001,
+              "r": 314.632,
+              "b": 79.92375903614459,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              7
+            ]
+          }
+        ],
+        "orig": "িহির্যে",
+        "text": "িহির্যে"
+      },
+      {
+        "self_ref": "#/texts/28",
+        "parent": {
+          "$ref": "#/groups/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "caption",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 459.77,
+              "t": 68.06399999999996,
+              "r": 556.5576800000001,
+              "b": 41.66399999999999,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              29
+            ]
+          }
+        ],
+        "orig": "Principal Women's Polytechnic",
+        "text": "Principal Women's Polytechnic"
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 18.247190475463867,
+              "t": 777.7688550949097,
+              "r": 92.5947036743164,
+              "b": 708.7379913330078,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 413.7322082519531,
+              "t": 765.6069946289062,
+              "r": 552.8189086914062,
+              "b": 684.6983413696289,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/21"
+          },
+          {
+            "$ref": "#/texts/22"
+          },
+          {
+            "$ref": "#/texts/23"
+          },
+          {
+            "$ref": "#/texts/24"
+          }
+        ],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 46.95741653442383,
+              "t": 121.42926025390625,
+              "r": 191.89334106445312,
+              "b": 77.2789306640625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      },
+      {
+        "self_ref": "#/pictures/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 495.6022033691406,
+              "t": 99.27679443359375,
+              "r": 535.4147338867188,
+              "b": 71.49090576171875,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 612.0,
+          "height": 792.0
+        },
+        "page_no": 1
+      }
+    }
+  }
+}

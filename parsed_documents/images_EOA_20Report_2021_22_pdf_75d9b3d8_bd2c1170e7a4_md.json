@@ -1,0 +1,77 @@
+{
+  "document_id": "images_EOA_20Report_2021_22_pdf_75d9b3d8_bd2c1170e7a4_md",
+  "source_path": "images_EOA_20Report_2021_22_pdf_75d9b3d8__bd2c1170e7a4.md",
+  "title": "Server Error",
+  "metadata": {
+    "document_id": "images_EOA_20Report_2021_22_pdf_75d9b3d8__bd2c1170e7a4",
+    "source_path": "images__EOA_20Report_2021-22.pdf__75d9b3d8.md",
+    "url": "https://wptripura.nic.in/images/EOA%20Report%2021-22.pdf",
+    "depth": "5",
+    "crawled_at": "2026-07-11T20:40:24.312906Z",
+    "title": "Server Error",
+    "content": "---\nurl: https://wptripura.nic.in/images/EOA%20Report%2021-22.pdf\ndepth: 5\nscore: 0\ncrawled_at: 2026-07-11T20:40:24.312906Z\n---\n# Server Error\n## 404 - File or directory not found.\n### The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "language": "en",
+    "content_hash": "bac02f5848c20cfeaffc9b9c799c015cfed4ea2b1e87490e8adc89b74111e91d",
+    "metadata": {
+      "source_path": "images__EOA_20Report_2021-22.pdf__75d9b3d8.md",
+      "url": "https://wptripura.nic.in/images/EOA%20Report%2021-22.pdf",
+      "depth": 5,
+      "crawled_at": "2026-07-11T20:40:24.312906Z",
+      "language": "en",
+      "content_hash": "bac02f5848c20cfeaffc9b9c799c015cfed4ea2b1e87490e8adc89b74111e91d"
+    },
+    "score": "0"
+  },
+  "tree": {
+    "type": "document",
+    "title": "Document",
+    "level": 0,
+    "text": "",
+    "metadata": {
+      "source_path": "images_EOA_20Report_2021_22_pdf_75d9b3d8__bd2c1170e7a4.md"
+    },
+    "children": [
+      {
+        "type": "heading",
+        "title": "Server Error",
+        "level": 1,
+        "text": "Server Error",
+        "metadata": {
+          "heading_chain": [
+            "Server Error"
+          ]
+        },
+        "children": [
+          {
+            "type": "heading",
+            "title": "404 - File or directory not found.",
+            "level": 2,
+            "text": "404 - File or directory not found.",
+            "metadata": {
+              "heading_chain": [
+                "Server Error",
+                "404 - File or directory not found."
+              ]
+            },
+            "children": [
+              {
+                "type": "heading",
+                "title": "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+                "level": 3,
+                "text": "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+                "metadata": {
+                  "heading_chain": [
+                    "Server Error",
+                    "404 - File or directory not found.",
+                    "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+                  ]
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

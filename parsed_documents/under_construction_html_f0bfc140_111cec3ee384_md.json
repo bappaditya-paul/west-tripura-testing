@@ -1,0 +1,85 @@
+{
+  "document_id": "under_construction_html_f0bfc140_111cec3ee384_md",
+  "source_path": "under_construction_html_f0bfc140__111cec3ee384.md",
+  "title": "under construction.html  f0bfc140",
+  "metadata": {
+    "document_id": "under_construction_html_f0bfc140__111cec3ee384",
+    "source_path": "under_construction.html__f0bfc140.md",
+    "url": "https://wptripura.nic.in/under construction.html",
+    "depth": "5",
+    "crawled_at": "2026-07-11T20:40:36.773869Z",
+    "title": "under construction.html  f0bfc140",
+    "content": "---\nurl: https://wptripura.nic.in/under construction.html\ndepth: 5\nscore: 0\ncrawled_at: 2026-07-11T20:40:36.773869Z\n---\n| |\n| --- |\n| [Back to Home](https://wptripura.nic.in/welcome.html) |\n|\n\n**THIS PAGE IS UNDER CONSTRUCTION**\n\n|\n|\n\n|",
+    "language": "en",
+    "content_hash": "2b0113cb1fec9393198ff867e65d80037191f0f8d7d24607d00a9cf400bbff96",
+    "metadata": {
+      "source_path": "under_construction.html__f0bfc140.md",
+      "url": "https://wptripura.nic.in/under construction.html",
+      "depth": 5,
+      "crawled_at": "2026-07-11T20:40:36.773869Z",
+      "language": "en",
+      "content_hash": "2b0113cb1fec9393198ff867e65d80037191f0f8d7d24607d00a9cf400bbff96"
+    },
+    "score": "0"
+  },
+  "tree": {
+    "type": "document",
+    "title": "Document",
+    "level": 0,
+    "text": "",
+    "metadata": {
+      "source_path": "under_construction_html_f0bfc140__111cec3ee384.md"
+    },
+    "children": [
+      {
+        "type": "paragraph",
+        "title": "",
+        "level": 0,
+        "text": "| |\n| --- |\n| [Back to Home](https://wptripura.nic.in/welcome.html) |\n|",
+        "metadata": {
+          "links": [
+            {
+              "href": "https://wptripura.nic.in/welcome.html",
+              "text": ""
+            }
+          ],
+          "images": []
+        },
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "title": "",
+        "level": 0,
+        "text": "**THIS PAGE IS UNDER CONSTRUCTION**",
+        "metadata": {
+          "links": [],
+          "images": []
+        },
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "title": "",
+        "level": 0,
+        "text": "|\n|",
+        "metadata": {
+          "links": [],
+          "images": []
+        },
+        "children": []
+      },
+      {
+        "type": "paragraph",
+        "title": "",
+        "level": 0,
+        "text": "|",
+        "metadata": {
+          "links": [],
+          "images": []
+        },
+        "children": []
+      }
+    ]
+  }
+}

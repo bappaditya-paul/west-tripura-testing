@@ -1,0 +1,521 @@
+{
+  "metadata": {
+    "id": "anti_ragging_circular__2e550971",
+    "url": "http://wptripura.nic.in/anti ragging circular.pdf",
+    "file_name": "anti_ragging_circular__2e550971.pdf",
+    "title": "Anti Ragging Circular",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T21:58:10.565110+00:00",
+    "page_count": 1,
+    "tables": 0,
+    "images": 0,
+    "word_count": 172,
+    "sha256": "61f9f396d8c034f9ef377a873a7d6dfc016f3d04c0266bd87d891925762c7a44",
+    "file_size_bytes": 354062,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 3.075,
+    "local_path": "output/documents/pdf/anti_ragging_circular__2e550971.pdf",
+    "markdown_path": "output/markdown/anti_ragging_circular__2e550971.md",
+    "json_path": "output/json/anti_ragging_circular__2e550971.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "anti_ragging_circular__2e550971",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 9045788975237462596,
+      "filename": "anti_ragging_circular__2e550971.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/groups/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/12"
+          },
+          {
+            "$ref": "#/texts/13"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      },
+      {
+        "self_ref": "#/groups/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 222.48001125000002,
+              "t": 766.2963715838125,
+              "r": 376.04471681959035,
+              "b": 721.9291682190322,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              66
+            ]
+          }
+        ],
+        "orig": "GOVERNMENT OF TRIPURA WOMEN'S POLYTECHNIC HAPANIA, TRIPURA (WEST).",
+        "text": "GOVERNMENT OF TRIPURA WOMEN'S POLYTECHNIC HAPANIA, TRIPURA (WEST).",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.0,
+              "t": 679.1763745838125,
+              "r": 517.7288046313503,
+              "b": 668.6491727190323,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              85
+            ]
+          }
+        ],
+        "orig": "NO. F. 1(28)/WP/Principal/Voll.-XII/2017/  804                      Dated: 08/08/2018",
+        "text": "NO. F. 1(28)/WP/Principal/Voll.-XII/2017/  804                      Dated: 08/08/2018",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 276.120003,
+              "t": 649.7763768338125,
+              "r": 322.42812725925,
+              "b": 639.2491749690323,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              6
+            ]
+          }
+        ],
+        "orig": "NOTICE",
+        "text": "NOTICE",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.0,
+              "t": 602.9043470918125,
+              "r": 526.3230023547769,
+              "b": 593.0341581749489,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              93
+            ]
+          }
+        ],
+        "orig": "The  Hon'ble  Supreme  Court  of  India  in  its  order  Ragging  has  completely  banned  in",
+        "text": "The  Hon'ble  Supreme  Court  of  India  in  its  order  Ragging  has  completely  banned  in"
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.0,
+              "t": 582.2643553418125,
+              "r": 526.2894853838434,
+              "b": 572.3941664249489,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              96
+            ]
+          }
+        ],
+        "orig": "Educational Institute. It is emphasized that ragging besides being a reprehensible act, is now a",
+        "text": "Educational Institute. It is emphasized that ragging besides being a reprehensible act, is now a"
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.0,
+              "t": 561.5043380918125,
+              "r": 171.92859715894264,
+              "b": 551.6341491749489,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              19
+            ]
+          }
+        ],
+        "orig": "punishable offence.",
+        "text": "punishable offence."
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.0,
+              "t": 530.7843448418125,
+              "r": 526.4202715763151,
+              "b": 458.87415442494887,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              316
+            ]
+          }
+        ],
+        "orig": "Ragging in any  form is  banned  within  this  Institution  premises  or  in  the  college  bus.  The students indulging in any activities are liable to be punished as per AICTE rules related to Ragging,  which  may  include  suspension  or  even  expulsion  of  the  students  from  institute provided roll or fine.",
+        "text": "Ragging in any  form is  banned  within  this  Institution  premises  or  in  the  college  bus.  The students indulging in any activities are liable to be punished as per AICTE rules related to Ragging,  which  may  include  suspension  or  even  expulsion  of  the  students  from  institute provided roll or fine."
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.0,
+              "t": 438.0243500918125,
+              "r": 526.3440968551097,
+              "b": 407.3941664249489,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              97
+            ]
+          }
+        ],
+        "orig": "The students who suffer ragging related incidents can access the Anti-Ragging Committee for help.",
+        "text": "The students who suffer ragging related incidents can access the Anti-Ragging Committee for help."
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.0,
+              "t": 386.66436434181253,
+              "r": 526.3347214909606,
+              "b": 355.7589016400604,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              180
+            ]
+          }
+        ],
+        "orig": "Members of Anti-Ragging Squad are also requested to look after the activities of students so that, any kind of ragging activities may not take place within the Institute Premises .",
+        "text": "Members of Anti-Ragging Squad are also requested to look after the activities of students so that, any kind of ragging activities may not take place within the Institute Premises ."
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 451.57067100000006,
+              "t": 334.44658464531244,
+              "r": 469.14378976640626,
+              "b": 325.5188963900604,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              3
+            ]
+          }
+        ],
+        "orig": "S/d",
+        "text": "S/d"
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 405.48001124999996,
+              "t": 320.7363535838124,
+              "r": 517.0489987746826,
+              "b": 310.2091517190322,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              22
+            ]
+          }
+        ],
+        "orig": "(Prof. D. L. Roy, FIE)",
+        "text": "(Prof. D. L. Roy, FIE)"
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 396.48001124999996,
+              "t": 306.09638433381247,
+              "r": 526.0485967311855,
+              "b": 266.12784654549785,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              51
+            ]
+          }
+        ],
+        "orig": "Principal Women's Polytechnic Hapania, Tripura (W).",
+        "text": "Principal Women's Polytechnic Hapania, Tripura (W)."
+      },
+      {
+        "self_ref": "#/texts/12",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.0,
+              "t": 247.17638658381247,
+              "r": 445.2429214750298,
+              "b": 236.60785779549792,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              60
+            ]
+          }
+        ],
+        "orig": "1. Circulation among all Faculty members of WP and Students.",
+        "text": "Circulation among all Faculty members of WP and Students.",
+        "enumerated": true,
+        "marker": "1."
+      },
+      {
+        "self_ref": "#/texts/13",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 72.0,
+              "t": 232.53637158381252,
+              "r": 390.2774517007776,
+              "b": 221.96784279549786,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              55
+            ]
+          }
+        ],
+        "orig": "2. Display Institute Notice Board and Institute Website",
+        "text": "Display Institute Notice Board and Institute Website",
+        "enumerated": true,
+        "marker": "2."
+      }
+    ],
+    "pictures": [],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 595.3200073242188,
+          "height": 841.9200439453125
+        },
+        "page_no": 1
+      }
+    }
+  }
+}

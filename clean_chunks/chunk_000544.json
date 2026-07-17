@@ -1,0 +1,29 @@
+{
+  "chunk_id": "industries_commerce_0a1b29fe__8cc58d224f09__chunk_0000_part_1",
+  "document_id": "industries_commerce_0a1b29fe__8cc58d224f09",
+  "parent_document": "industries_commerce_0a1b29fe__8cc58d224f09",
+  "chunk_index": 0,
+  "total_chunks": 1,
+  "previous_chunk_id": "",
+  "next_chunk_id": "",
+  "title": "More Menu (Part 2/2)",
+  "url": "https://westtripura.nic.in/industries-commerce/",
+  "heading_chain": [
+    "Industries & Commerce"
+  ],
+  "heading": "Industries & Commerce",
+  "section": "Industries & Commerce",
+  "sub_section": "",
+  "text": "| **Sl No** | **Name of the unit** | **Address** | **Product** | **Contact Number** | **Certificate** |\n| 1 | Mutha Industries Pvt Ltd. | Bamboo Park,R.K.Nagar, West Tripura | Bamboo Tiles and Flooring | 9862051920 | |\n| 2 | Monoram Clean Energy | Bamboo Park,R.K.Nagar, West Tripura | Briquette | 7005169933 | |\n| 3 | M/s Pioneer Bamboo Products Pvt.Ltd, , | Bamboo Park,R.K.Nagar, West Tripura | Bamboo Incense Stick | | |\n| 4 | Monoram Bamboo Industry | Bamboo Park,R.K.Nagar, West Tripura | Bamboo Incense Stick | 9774015626 | |",
+  "content": "| **Sl No** | **Name of the unit** | **Address** | **Product** | **Contact Number** | **Certificate** |\n| 1 | Mutha Industries Pvt Ltd. | Bamboo Park,R.K.Nagar, West Tripura | Bamboo Tiles and Flooring | 9862051920 | |\n| 2 | Monoram Clean Energy | Bamboo Park,R.K.Nagar, West Tripura | Briquette | 7005169933 | |\n| 3 | M/s Pioneer Bamboo Products Pvt.Ltd, , | Bamboo Park,R.K.Nagar, West Tripura | Bamboo Incense Stick | | |\n| 4 | Monoram Bamboo Industry | Bamboo Park,R.K.Nagar, West Tripura | Bamboo Incense Stick | 9774015626 | |",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 124,
+  "character_count": 532,
+  "has_table": true,
+  "has_list": true,
+  "created_at": "2026-07-11T20:31:44.398612Z",
+  "sha256": "d2adec8c94b6d46d7a04d04fb13fdf309b593250675fbb26a0c0680c958bca0b",
+  "split_part": 1,
+  "split_total": 2
+}

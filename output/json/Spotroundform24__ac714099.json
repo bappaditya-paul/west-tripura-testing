@@ -1,0 +1,3737 @@
+{
+  "metadata": {
+    "id": "Spotroundform24__ac714099",
+    "url": "http://wptripura.nic.in/Spotroundform24.pdf",
+    "file_name": "Spotroundform24__ac714099.pdf",
+    "title": "Spotroundform24",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T21:25:39.172761+00:00",
+    "page_count": 3,
+    "tables": 14,
+    "images": 0,
+    "word_count": 552,
+    "sha256": "dafe30a2655aeb89cb2f40e64c86fd787ea77c0f289f17f05ced12e5b4c139bb",
+    "file_size_bytes": 181148,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 385.845,
+    "local_path": "output/documents/pdf/Spotroundform24__ac714099.pdf",
+    "markdown_path": "output/markdown/Spotroundform24__ac714099.md",
+    "json_path": "output/json/Spotroundform24__ac714099.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "Spotroundform24__ac714099",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 6696028998759168443,
+      "filename": "Spotroundform24__ac714099.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/tables/0"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/tables/1"
+        },
+        {
+          "$ref": "#/tables/2"
+        },
+        {
+          "$ref": "#/tables/3"
+        },
+        {
+          "$ref": "#/tables/4"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/tables/5"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/tables/6"
+        },
+        {
+          "$ref": "#/groups/1"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/groups/2"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/groups/3"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/groups/4"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/groups/5"
+        },
+        {
+          "$ref": "#/tables/7"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/groups/6"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/groups/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/10"
+          },
+          {
+            "$ref": "#/texts/11"
+          },
+          {
+            "$ref": "#/texts/12"
+          },
+          {
+            "$ref": "#/texts/13"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      },
+      {
+        "self_ref": "#/groups/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/16"
+          },
+          {
+            "$ref": "#/texts/17"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      },
+      {
+        "self_ref": "#/groups/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/19"
+          },
+          {
+            "$ref": "#/texts/20"
+          },
+          {
+            "$ref": "#/texts/21"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      },
+      {
+        "self_ref": "#/groups/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/25"
+          },
+          {
+            "$ref": "#/texts/26"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      },
+      {
+        "self_ref": "#/groups/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/28"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      },
+      {
+        "self_ref": "#/groups/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/38"
+          },
+          {
+            "$ref": "#/texts/39"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      },
+      {
+        "self_ref": "#/groups/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/51"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      },
+      {
+        "self_ref": "#/groups/7",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/60"
+          },
+          {
+            "$ref": "#/texts/61"
+          },
+          {
+            "$ref": "#/texts/62"
+          },
+          {
+            "$ref": "#/texts/63"
+          },
+          {
+            "$ref": "#/texts/64"
+          },
+          {
+            "$ref": "#/texts/65"
+          },
+          {
+            "$ref": "#/texts/66"
+          },
+          {
+            "$ref": "#/texts/67"
+          },
+          {
+            "$ref": "#/texts/68"
+          }
+        ],
+        "content_layer": "body",
+        "name": "list",
+        "label": "list"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 200.2806,
+              "t": 801.8665346484374,
+              "r": 388.76759999999996,
+              "b": 792.6729781630818,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              19
+            ]
+          }
+        ],
+        "orig": "WOMEN'S POLYTECHNIC",
+        "text": "WOMEN'S POLYTECHNIC"
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 246.11471999999998,
+              "t": 786.6883346484374,
+              "r": 341.80943999999994,
+              "b": 779.4414072741357,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              18
+            ]
+          }
+        ],
+        "orig": "(Govt. of Tripura)",
+        "text": "(Govt. of Tripura)"
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 218.40431999999998,
+              "t": 773.7273746484375,
+              "r": 369.53087999999997,
+              "b": 766.4804472741358,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              27
+            ]
+          }
+        ],
+        "orig": "P.O.: Amtali via Shekerkote",
+        "text": "P.O.: Amtali via Shekerkote"
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 187.43712,
+              "t": 760.8878546484375,
+              "r": 400.49807999999996,
+              "b": 753.6409272741358,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              38
+            ]
+          }
+        ],
+        "orig": "Hapania, Tripura (West), Pin: - 799130",
+        "text": "Hapania, Tripura (West), Pin: - 799130"
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 232.31471999999997,
+              "t": 747.9268946484374,
+              "r": 355.60943999999995,
+              "b": 740.6799672741357,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              19
+            ]
+          }
+        ],
+        "orig": "Phone: 0381-2376814",
+        "text": "Phone: 0381-2376814"
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 67.79664,
+              "t": 703.4136146484375,
+              "r": 384.02952000000005,
+              "b": 689.6030658153504,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              34
+            ]
+          }
+        ],
+        "orig": "APPLICATION FORM Form No:. .......",
+        "text": "APPLICATION FORM Form No:. .......",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 54.4812,
+              "t": 665.0690546484376,
+              "r": 543.3295237200002,
+              "b": 658.5075184593682,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              84
+            ]
+          }
+        ],
+        "orig": "FOR ADMISSION TO 1 ST  SEMESTER DIPLOMA IN ETCE/CST/IT/MLT/FT BRANCHES (THROUGH SPOT",
+        "text": "FOR ADMISSION TO 1 ST  SEMESTER DIPLOMA IN ETCE/CST/IT/MLT/FT BRANCHES (THROUGH SPOT"
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 239.39856000000003,
+              "t": 647.7884546484376,
+              "r": 358.29108,
+              "b": 641.2269184593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              18
+            ]
+          }
+        ],
+        "orig": "ROUND COUNSELLING)",
+        "text": "ROUND COUNSELLING)",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/8",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 159.00144000000003,
+              "t": 620.5478546484376,
+              "r": 438.8077200000001,
+              "b": 613.9863184593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              44
+            ]
+          }
+        ],
+        "orig": "(SIX SEMESTER DIPLOMA ENGINEERING PROGRAMME)",
+        "text": "(SIX SEMESTER DIPLOMA ENGINEERING PROGRAMME)"
+      },
+      {
+        "self_ref": "#/texts/9",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 35.99544,
+              "t": 593.4267746484376,
+              "r": 207.32736000000003,
+              "b": 586.8652384593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              39
+            ]
+          }
+        ],
+        "orig": "1. Applicant's Name (In Block Letters):",
+        "text": "1. Applicant's Name (In Block Letters):"
+      },
+      {
+        "self_ref": "#/texts/10",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 35.99544,
+              "t": 535.8280946484376,
+              "r": 115.40652,
+              "b": 529.2665584593682,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              17
+            ]
+          }
+        ],
+        "orig": "2. Father's Name:",
+        "text": "Father's Name:",
+        "enumerated": true,
+        "marker": "2."
+      },
+      {
+        "self_ref": "#/texts/11",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 35.99544,
+              "t": 480.27121464843754,
+              "r": 118.77300000000001,
+              "b": 473.7096784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              17
+            ]
+          }
+        ],
+        "orig": "3. Mother's Name:",
+        "text": "Mother's Name:",
+        "enumerated": true,
+        "marker": "3."
+      },
+      {
+        "self_ref": "#/texts/12",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 35.99544,
+              "t": 424.7143346484376,
+              "r": 136.53168000000002,
+              "b": 418.15279845936817,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              21
+            ]
+          }
+        ],
+        "orig": "4. Permanent Address:",
+        "text": "Permanent Address:",
+        "enumerated": true,
+        "marker": "4."
+      },
+      {
+        "self_ref": "#/texts/13",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 35.99544,
+              "t": 292.22641464843764,
+              "r": 121.53192,
+              "b": 285.6648784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              19
+            ]
+          }
+        ],
+        "orig": "4. Present Address:",
+        "text": "Present Address:",
+        "enumerated": true,
+        "marker": "4."
+      },
+      {
+        "self_ref": "#/texts/14",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 36.001439999999995,
+              "t": 159.57217464843757,
+              "r": 191.52191999999997,
+              "b": 152.34208819310606,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              32
+            ]
+          }
+        ],
+        "orig": "(Put √mark only where necessary)",
+        "text": "(Put √mark only where necessary)"
+      },
+      {
+        "self_ref": "#/texts/15",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 35.99544,
+              "t": 105.3867746484375,
+              "r": 95.97456,
+              "b": 98.82523845936805,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          },
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 440.88143999999994,
+              "t": 803.7909746484374,
+              "r": 488.58275999999995,
+              "b": 752.4936844696205,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              12,
+              68
+            ]
+          }
+        ],
+        "orig": "(b) If Yes, Affix Candidate's recent stamp size  attested photograph",
+        "text": "(b) If Yes, Affix Candidate's recent stamp size  attested photograph"
+      },
+      {
+        "self_ref": "#/texts/16",
+        "parent": {
+          "$ref": "#/groups/1"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 35.99544,
+              "t": 804.3300146484376,
+              "r": 405.81024,
+              "b": 794.9495584593682,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              85
+            ]
+          }
+        ],
+        "orig": "6. (a) Whether Seat is Allotted through DEEET 2024 Counselling in 1 st or 2 nd Round:",
+        "text": "(a) Whether Seat is Allotted through DEEET 2024 Counselling in 1 st or 2 nd Round:",
+        "enumerated": true,
+        "marker": "6."
+      },
+      {
+        "self_ref": "#/texts/17",
+        "parent": {
+          "$ref": "#/groups/1"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 35.99544,
+              "t": 775.1071346484376,
+              "r": 90.93480000000001,
+              "b": 768.5455984593682,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "(b) If Yes,",
+        "text": "(b) If Yes,",
+        "enumerated": false,
+        "marker": ""
+      },
+      {
+        "self_ref": "#/texts/18",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 43.684560000000005,
+              "t": 743.9124146484376,
+              "r": 114.80892,
+              "b": 737.3508784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              15
+            ]
+          },
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 223.92072000000002,
+              "t": 743.9124146484376,
+              "r": 299.48724000000004,
+              "b": 737.3508784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              16,
+              34
+            ]
+          }
+        ],
+        "orig": "Allotted Branch Allotted Institute",
+        "text": "Allotted Branch Allotted Institute"
+      },
+      {
+        "self_ref": "#/texts/19",
+        "parent": {
+          "$ref": "#/groups/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 35.99544,
+              "t": 708.5145746484376,
+              "r": 416.12880000000007,
+              "b": 701.9530384593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              83
+            ]
+          }
+        ],
+        "orig": "7. Whether Admitted in any of the Diploma Institutes of Tripura through DEEET 2024:",
+        "text": "Whether Admitted in any of the Diploma Institutes of Tripura through DEEET 2024:",
+        "enumerated": true,
+        "marker": "7."
+      },
+      {
+        "self_ref": "#/texts/20",
+        "parent": {
+          "$ref": "#/groups/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 35.99544,
+              "t": 668.7259346484375,
+              "r": 201.47999999999996,
+              "b": 661.4958481931061,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              35
+            ]
+          }
+        ],
+        "orig": "8. (Put √mark only where necessary)",
+        "text": "(Put √mark only where necessary)",
+        "enumerated": true,
+        "marker": "8."
+      },
+      {
+        "self_ref": "#/texts/21",
+        "parent": {
+          "$ref": "#/groups/2"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 36.96156,
+              "t": 636.3942146484376,
+              "r": 92.24952,
+              "b": 629.8326784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              12
+            ]
+          }
+        ],
+        "orig": "a. Category:",
+        "text": "Category:",
+        "enumerated": true,
+        "marker": "a."
+      },
+      {
+        "self_ref": "#/texts/22",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "checkbox_unselected",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 102.23940000000002,
+              "t": 636.3942146484376,
+              "r": 119.13156000000001,
+              "b": 629.8326784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              2
+            ]
+          }
+        ],
+        "orig": "UR",
+        "text": "UR"
+      },
+      {
+        "self_ref": "#/texts/23",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 155.15688,
+              "t": 636.3942146484376,
+              "r": 170.48532000000003,
+              "b": 629.8326784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              2
+            ]
+          }
+        ],
+        "orig": "SC",
+        "text": "SC"
+      },
+      {
+        "self_ref": "#/texts/24",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "checkbox_unselected",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 207.47676,
+              "t": 636.3942146484376,
+              "r": 222.2076,
+              "b": 629.8326784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              2
+            ]
+          }
+        ],
+        "orig": "ST",
+        "text": "ST"
+      },
+      {
+        "self_ref": "#/texts/25",
+        "parent": {
+          "$ref": "#/groups/3"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 41.52324,
+              "t": 596.1856946484376,
+              "r": 231.68952000000004,
+              "b": 589.6241584593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              41
+            ]
+          }
+        ],
+        "orig": "c. Whether Permanent Resident of Tripura:",
+        "text": "Whether Permanent Resident of Tripura:",
+        "enumerated": true,
+        "marker": "c."
+      },
+      {
+        "self_ref": "#/texts/26",
+        "parent": {
+          "$ref": "#/groups/3"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 35.99544,
+              "t": 547.5908546484376,
+              "r": 110.36676,
+              "b": 541.0293184593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              17
+            ]
+          }
+        ],
+        "orig": "9. Date of Birth:",
+        "text": "Date of Birth:",
+        "enumerated": true,
+        "marker": "9."
+      },
+      {
+        "self_ref": "#/texts/27",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "checkbox_unselected",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 128.64336,
+              "t": 544.1048546484376,
+              "r": 168.09492,
+              "b": 537.579833003416,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              3
+            ]
+          }
+        ],
+        "orig": "d d",
+        "text": "d d"
+      },
+      {
+        "self_ref": "#/texts/28",
+        "parent": {
+          "$ref": "#/groups/4"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 35.99544,
+              "t": 507.8703746484376,
+              "r": 107.12976,
+              "b": 501.30883845936813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              16
+            ]
+          }
+        ],
+        "orig": "10. Nationality:",
+        "text": "Nationality:",
+        "enumerated": true,
+        "marker": "10."
+      },
+      {
+        "self_ref": "#/texts/29",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 258.36240000000004,
+              "t": 636.3942146484376,
+              "r": 287.48544000000004,
+              "b": 629.8326784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              5
+            ]
+          }
+        ],
+        "orig": "E S M",
+        "text": "E S M"
+      },
+      {
+        "self_ref": "#/texts/30",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 245.64348,
+              "t": 596.1856946484376,
+              "r": 267.56544,
+              "b": 589.6241584593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              3
+            ]
+          }
+        ],
+        "orig": "YES",
+        "text": "YES"
+      },
+      {
+        "self_ref": "#/texts/31",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 256.3206,
+              "t": 544.1048546484376,
+              "r": 263.85036,
+              "b": 537.579833003416,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              1
+            ]
+          }
+        ],
+        "orig": "y",
+        "text": "y"
+      },
+      {
+        "self_ref": "#/texts/32",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "checkbox_unselected",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 302.51508,
+              "t": 596.1856946484376,
+              "r": 320.01480000000004,
+              "b": 589.6241584593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              2
+            ]
+          }
+        ],
+        "orig": "NO",
+        "text": "NO"
+      },
+      {
+        "self_ref": "#/texts/33",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 284.63688,
+              "t": 544.1048546484376,
+              "r": 292.16664000000003,
+              "b": 537.579833003416,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              1
+            ]
+          }
+        ],
+        "orig": "y",
+        "text": "y"
+      },
+      {
+        "self_ref": "#/texts/34",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 312.96312000000006,
+              "t": 544.1048546484376,
+              "r": 320.49288000000007,
+              "b": 537.579833003416,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              1
+            ]
+          }
+        ],
+        "orig": "y",
+        "text": "y"
+      },
+      {
+        "self_ref": "#/texts/35",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "checkbox_unselected",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 321.95700000000005,
+              "t": 636.3942146484376,
+              "r": 347.73348,
+              "b": 629.8326784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              3
+            ]
+          }
+        ],
+        "orig": "PWD",
+        "text": "PWD"
+      },
+      {
+        "self_ref": "#/texts/36",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 341.2794,
+              "t": 544.1048546484376,
+              "r": 348.80916,
+              "b": 537.579833003416,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              1
+            ]
+          }
+        ],
+        "orig": "y",
+        "text": "y"
+      },
+      {
+        "self_ref": "#/texts/37",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 264.11928,
+              "t": 507.8703746484376,
+              "r": 323.01276,
+              "b": 501.30883845936813,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              13
+            ]
+          }
+        ],
+        "orig": "11. Religion:",
+        "text": "11. Religion:"
+      },
+      {
+        "self_ref": "#/texts/38",
+        "parent": {
+          "$ref": "#/groups/5"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 35.99544,
+              "t": 468.2694146484376,
+              "r": 282.69468,
+              "b": 461.70787845936815,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              53
+            ]
+          }
+        ],
+        "orig": "12. Academic Qualification (Madhyamik or Equivalent):",
+        "text": "Academic Qualification (Madhyamik or Equivalent):",
+        "enumerated": true,
+        "marker": "12."
+      },
+      {
+        "self_ref": "#/texts/39",
+        "parent": {
+          "$ref": "#/groups/5"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 35.99544,
+              "t": 259.94605464843755,
+              "r": 269.00964000000005,
+              "b": 253.3845184593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              50
+            ]
+          }
+        ],
+        "orig": "13. Choice for Spot Round Counselling (Maximum 3):",
+        "text": "Choice for Spot Round Counselling (Maximum 3):",
+        "enumerated": true,
+        "marker": "13."
+      },
+      {
+        "self_ref": "#/texts/40",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 43.19652,
+              "t": 221.6697746484375,
+              "r": 82.64808000000001,
+              "b": 215.10823845936807,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              8
+            ]
+          }
+        ],
+        "orig": "Choice 1",
+        "text": "Choice 1"
+      },
+      {
+        "self_ref": "#/texts/41",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 220.68372000000002,
+              "t": 221.6697746484375,
+              "r": 260.12532000000004,
+              "b": 215.10823845936807,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              8
+            ]
+          }
+        ],
+        "orig": "Choice 2",
+        "text": "Choice 2"
+      },
+      {
+        "self_ref": "#/texts/42",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 398.40000000000003,
+              "t": 221.6697746484375,
+              "r": 437.85156,
+              "b": 215.10823845936807,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              8
+            ]
+          }
+        ],
+        "orig": "Choice 3",
+        "text": "Choice 3"
+      },
+      {
+        "self_ref": "#/texts/43",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 36.001439999999995,
+              "t": 171.5726546484375,
+              "r": 562.1788799999999,
+              "b": 135.17242053588336,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              315
+            ]
+          }
+        ],
+        "orig": "I  hereby  solemnly  and  sincerely  affirm  that  the  information  furnished  in  the  application  and  also  in  the enclosures are true to the best of my knowledge & belief. I also undertake that in case any wrong information supplied from my end the institute authority has the right to cancel my candidature.",
+        "text": "I  hereby  solemnly  and  sincerely  affirm  that  the  information  furnished  in  the  application  and  also  in  the enclosures are true to the best of my knowledge & belief. I also undertake that in case any wrong information supplied from my end the institute authority has the right to cancel my candidature."
+      },
+      {
+        "self_ref": "#/texts/44",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 36.001439999999995,
+              "t": 117.92929464843746,
+              "r": 562.0122974399997,
+              "b": 96.05770053588344,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              233
+            ]
+          }
+        ],
+        "orig": "I  also  declare  that  I  shall  abide  by  the  rules  and  regulations  of  the  Institution  in  force  and  any  amendment thereof made from time to time and I shall also abide by the rules and regulations of Tripura University.",
+        "text": "I  also  declare  that  I  shall  abide  by  the  rules  and  regulations  of  the  Institution  in  force  and  any  amendment thereof made from time to time and I shall also abide by the rules and regulations of Tripura University."
+      },
+      {
+        "self_ref": "#/texts/45",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 194.63832000000002,
+              "t": 544.1048546484376,
+              "r": 204.92700000000002,
+              "b": 537.579833003416,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              1
+            ]
+          }
+        ],
+        "orig": "m",
+        "text": "m"
+      },
+      {
+        "self_ref": "#/texts/46",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 226.44060000000002,
+              "t": 544.1048546484376,
+              "r": 236.72928000000005,
+              "b": 537.579833003416,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              1
+            ]
+          }
+        ],
+        "orig": "m",
+        "text": "m"
+      },
+      {
+        "self_ref": "#/texts/47",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "checkbox_unselected",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 454.80348,
+              "t": 804.5090546484377,
+              "r": 476.72544000000005,
+              "b": 797.9475184593682,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              3
+            ]
+          }
+        ],
+        "orig": "YES",
+        "text": "YES"
+      },
+      {
+        "self_ref": "#/texts/48",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 454.80348,
+              "t": 710.0683346484376,
+              "r": 476.72544000000005,
+              "b": 703.5067984593682,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              3
+            ]
+          }
+        ],
+        "orig": "YES",
+        "text": "YES"
+      },
+      {
+        "self_ref": "#/texts/49",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 381.5974800000001,
+              "t": 636.3942146484376,
+              "r": 430.53096000000005,
+              "b": 629.8326784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              11
+            ]
+          }
+        ],
+        "orig": "b.Locality:",
+        "text": "b.Locality:"
+      },
+      {
+        "self_ref": "#/texts/50",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 440.75988000000007,
+              "t": 636.3942146484376,
+              "r": 468.20964000000004,
+              "b": 629.8326784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              5
+            ]
+          }
+        ],
+        "orig": "Rural",
+        "text": "Rural"
+      },
+      {
+        "self_ref": "#/texts/51",
+        "parent": {
+          "$ref": "#/groups/6"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 355.92060000000004,
+              "t": 596.1856946484376,
+              "r": 477.57204,
+              "b": 589.6241584593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              27
+            ]
+          }
+        ],
+        "orig": "d. Belongs to BPL category:",
+        "text": "Belongs to BPL category:",
+        "enumerated": true,
+        "marker": "d."
+      },
+      {
+        "self_ref": "#/texts/52",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "checkbox_unselected",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 517.08336,
+              "t": 804.5090546484377,
+              "r": 534.57312,
+              "b": 797.9475184593682,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              2
+            ]
+          }
+        ],
+        "orig": "NO",
+        "text": "NO"
+      },
+      {
+        "self_ref": "#/texts/53",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "checkbox_unselected",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 517.08336,
+              "t": 710.0683346484376,
+              "r": 534.57312,
+              "b": 703.5067984593682,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              2
+            ]
+          }
+        ],
+        "orig": "NO",
+        "text": "NO"
+      },
+      {
+        "self_ref": "#/texts/54",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "checkbox_unselected",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 504.96204,
+              "t": 636.3942146484376,
+              "r": 535.29024,
+              "b": 629.8326784593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              5
+            ]
+          }
+        ],
+        "orig": "Urban",
+        "text": "Urban"
+      },
+      {
+        "self_ref": "#/texts/55",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "checkbox_unselected",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 486.4762800000001,
+              "t": 596.1856946484376,
+              "r": 508.4082000000001,
+              "b": 589.6241584593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              3
+            ]
+          }
+        ],
+        "orig": "YES",
+        "text": "YES"
+      },
+      {
+        "self_ref": "#/texts/56",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "checkbox_unselected",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 530.39988,
+              "t": 596.1856946484376,
+              "r": 547.8896400000001,
+              "b": 589.6241584593681,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              2
+            ]
+          }
+        ],
+        "orig": "NO",
+        "text": "NO"
+      },
+      {
+        "self_ref": "#/texts/57",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "furniture",
+        "label": "page_footer",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 36.001439999999995,
+              "t": 53.97457464843751,
+              "r": 559.4409599999999,
+              "b": 46.70154658344495,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              136
+            ]
+          }
+        ],
+        "orig": "Counter signed by Father /Mother/ Guardian                                                                      Signature of the Student",
+        "text": "Counter signed by Father /Mother/ Guardian                                                                      Signature of the Student"
+      },
+      {
+        "self_ref": "#/texts/58",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 68.52528,
+              "t": 786.6883346484374,
+              "r": 529.4452799999999,
+              "b": 779.4153065834448,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              92
+            ]
+          }
+        ],
+        "orig": "Documents Required to be submitted with the Application form for Spot Round Counselling 2024",
+        "text": "Documents Required to be submitted with the Application form for Spot Round Counselling 2024",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/59",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 45.0,
+              "t": 743.7240146484374,
+              "r": 146.04,
+              "b": 735.8625427869656,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              18
+            ]
+          }
+        ],
+        "orig": "List of Enclosures",
+        "text": "List of Enclosures",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/60",
+        "parent": {
+          "$ref": "#/groups/7"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 65.64,
+              "t": 718.1640146484375,
+              "r": 549.2760000000001,
+              "b": 696.5025427869657,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              106
+            ]
+          }
+        ],
+        "orig": "i. Attested copy of admit card of Madhyamik or Equivalent Examination issued by the Board as proof of age.",
+        "text": "Attested copy of admit card of Madhyamik or Equivalent Examination issued by the Board as proof of age.",
+        "enumerated": true,
+        "marker": "i."
+      },
+      {
+        "self_ref": "#/texts/61",
+        "parent": {
+          "$ref": "#/groups/7"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 62.28,
+              "t": 690.5640146484375,
+              "r": 439.91999999999996,
+              "b": 682.7025427869656,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              71
+            ]
+          }
+        ],
+        "orig": "ii. Attested copy of mark sheet of Madhyamik or Equivalent Examination.",
+        "text": "Attested copy of mark sheet of Madhyamik or Equivalent Examination.",
+        "enumerated": true,
+        "marker": "ii."
+      },
+      {
+        "self_ref": "#/texts/62",
+        "parent": {
+          "$ref": "#/groups/7"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 59.04,
+              "t": 676.7640146484375,
+              "r": 339.96,
+              "b": 668.9025427869657,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              52
+            ]
+          }
+        ],
+        "orig": "iii. Attested copy of PRTC from Competent Authority.",
+        "text": "Attested copy of PRTC from Competent Authority.",
+        "enumerated": true,
+        "marker": "iii."
+      },
+      {
+        "self_ref": "#/texts/63",
+        "parent": {
+          "$ref": "#/groups/7"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 59.64,
+              "t": 662.9640146484375,
+              "r": 534.5999999999999,
+              "b": 655.1025427869656,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              90
+            ]
+          }
+        ],
+        "orig": "iv. Attested copy of SC/ST/PWD/Ex-Serviceman (ESM) certificate from appropriate authority.",
+        "text": "Attested copy of SC/ST/PWD/Ex-Serviceman (ESM) certificate from appropriate authority.",
+        "enumerated": true,
+        "marker": "iv."
+      },
+      {
+        "self_ref": "#/texts/64",
+        "parent": {
+          "$ref": "#/groups/7"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 63.0,
+              "t": 649.1640146484375,
+              "r": 355.92,
+              "b": 641.3025427869657,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              57
+            ]
+          }
+        ],
+        "orig": "v. Migration Certificate for the candidates outside TBSE.",
+        "text": "Migration Certificate for the candidates outside TBSE.",
+        "enumerated": true,
+        "marker": "v."
+      },
+      {
+        "self_ref": "#/texts/65",
+        "parent": {
+          "$ref": "#/groups/7"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 59.64,
+              "t": 635.3640146484375,
+              "r": 511.20000000000005,
+              "b": 627.5025427869657,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              91
+            ]
+          }
+        ],
+        "orig": "vi. Character Certificate from the Head Master/ Principal of the School where last studied.",
+        "text": "Character Certificate from the Head Master/ Principal of the School where last studied.",
+        "enumerated": true,
+        "marker": "vi."
+      },
+      {
+        "self_ref": "#/texts/66",
+        "parent": {
+          "$ref": "#/groups/7"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 56.28,
+              "t": 621.5640146484375,
+              "r": 354.24,
+              "b": 613.7025427869656,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              53
+            ]
+          }
+        ],
+        "orig": "vii. DEEET 2024 Admit card & Rank Card if Applicable.",
+        "text": "DEEET 2024 Admit card & Rank Card if Applicable.",
+        "enumerated": true,
+        "marker": "vii."
+      },
+      {
+        "self_ref": "#/texts/67",
+        "parent": {
+          "$ref": "#/groups/7"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 53.04,
+              "t": 607.8840146484375,
+              "r": 415.56000000000006,
+              "b": 600.0225427869657,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              71
+            ]
+          }
+        ],
+        "orig": "viii. Nomination letter from Central Selection Committee if Applicable.",
+        "text": "Nomination letter from Central Selection Committee if Applicable.",
+        "enumerated": true,
+        "marker": "viii."
+      },
+      {
+        "self_ref": "#/texts/68",
+        "parent": {
+          "$ref": "#/groups/7"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "list_item",
+        "prov": [
+          {
+            "page_no": 3,
+            "bbox": {
+              "l": 59.64,
+              "t": 594.0840146484375,
+              "r": 549.2879999999999,
+              "b": 572.0625427869657,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              105
+            ]
+          }
+        ],
+        "orig": "ix. Attested copy  of BPL  Ration  card/BPL  certificate  issued by competent  authority (if applicable).",
+        "text": "Attested copy  of BPL  Ration  card/BPL  certificate  issued by competent  authority (if applicable).",
+        "enumerated": true,
+        "marker": "ix."
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 56.84668731689453,
+              "t": 813.449197769165,
+              "r": 139.97113037109375,
+              "b": 731.0217437744141,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [
+      {
+        "self_ref": "#/tables/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 29.132919311523438,
+              "t": 581.8899536132812,
+              "r": 565.6644897460938,
+              "b": 553.2052612304688,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [],
+          "num_rows": 0,
+          "num_cols": 0,
+          "orientation": "rot_0",
+          "grid": []
+        },
+        "annotations": []
+      },
+      {
+        "self_ref": "#/tables/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 29.07509422302246,
+              "t": 528.4831237792969,
+              "r": 565.8382568359375,
+              "b": 500.5447082519531,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [],
+          "num_rows": 0,
+          "num_cols": 0,
+          "orientation": "rot_0",
+          "grid": []
+        },
+        "annotations": []
+      },
+      {
+        "self_ref": "#/tables/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 29.293310165405273,
+              "t": 472.6907958984375,
+              "r": 565.57421875,
+              "b": 445.65533447265625,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [],
+          "num_rows": 0,
+          "num_cols": 0,
+          "orientation": "rot_0",
+          "grid": []
+        },
+        "annotations": []
+      },
+      {
+        "self_ref": "#/tables/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 29.373159408569336,
+              "t": 415.7199401855469,
+              "r": 565.36865234375,
+              "b": 309.62396240234375,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [
+            {
+              "bbox": {
+                "l": 49.68048000000001,
+                "t": 514.2557999999999,
+                "r": 423.1688367600001,
+                "b": 520.8173361890694,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "PIN Code Mobile 1 Mobile 2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          "num_rows": 1,
+          "num_cols": 1,
+          "orientation": "rot_0",
+          "grid": [
+            [
+              {
+                "bbox": {
+                  "l": 49.68048000000001,
+                  "t": 514.2557999999999,
+                  "r": 423.1688367600001,
+                  "b": 520.8173361890694,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "PIN Code Mobile 1 Mobile 2",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ]
+          ]
+        },
+        "annotations": []
+      },
+      {
+        "self_ref": "#/tables/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 29.238481521606445,
+              "t": 283.55084228515625,
+              "r": 565.5490112304688,
+              "b": 176.7891845703125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [
+            {
+              "bbox": {
+                "l": 49.68048000000001,
+                "t": 646.86324,
+                "r": 66.83160000000001,
+                "b": 653.4247761890695,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "PIN",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 198.84144,
+                "t": 646.86324,
+                "r": 236.32919675999997,
+                "b": 653.4247761890695,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Mobile 1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 385.68108,
+                "t": 646.86324,
+                "r": 423.1688367600001,
+                "b": 653.4247761890695,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Mobile 2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          "num_rows": 1,
+          "num_cols": 3,
+          "orientation": "rot_0",
+          "grid": [
+            [
+              {
+                "bbox": {
+                  "l": 49.68048000000001,
+                  "t": 646.86324,
+                  "r": 66.83160000000001,
+                  "b": 653.4247761890695,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "PIN",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 198.84144,
+                  "t": 646.86324,
+                  "r": 236.32919675999997,
+                  "b": 653.4247761890695,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "Mobile 1",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 385.68108,
+                  "t": 646.86324,
+                  "r": 423.1688367600001,
+                  "b": 653.4247761890695,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "Mobile 2",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ]
+          ]
+        },
+        "annotations": []
+      },
+      {
+        "self_ref": "#/tables/5",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 34.4257698059082,
+              "t": 142.1483154296875,
+              "r": 357.71783447265625,
+              "b": 119.98895263671875,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [
+            {
+              "bbox": {
+                "l": 35.99544,
+                "t": 709.9797599999999,
+                "r": 218.35308,
+                "b": 716.5412961890694,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "5. (a) Whether Appeared in DEEET 2024:",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.8048,
+                "t": 706.3842,
+                "r": 267.177,
+                "b": 712.9457361890694,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "YES",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 310.08468,
+                "t": 706.3842,
+                "r": 325.02468,
+                "b": 712.9457361890694,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "NO",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          "num_rows": 1,
+          "num_cols": 3,
+          "orientation": "rot_0",
+          "grid": [
+            [
+              {
+                "bbox": {
+                  "l": 35.99544,
+                  "t": 709.9797599999999,
+                  "r": 218.35308,
+                  "b": 716.5412961890694,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "5. (a) Whether Appeared in DEEET 2024:",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 247.8048,
+                  "t": 706.3842,
+                  "r": 267.177,
+                  "b": 712.9457361890694,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "YES",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 310.08468,
+                  "t": 706.3842,
+                  "r": 325.02468,
+                  "b": 712.9457361890694,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "NO",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ]
+          ]
+        },
+        "annotations": []
+      },
+      {
+        "self_ref": "#/tables/6",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 30.299196243286133,
+              "t": 89.27642822265625,
+              "r": 391.0304260253906,
+              "b": 62.59844970703125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [
+            {
+              "bbox": {
+                "l": 37.08108,
+                "t": 764.3414399999999,
+                "r": 131.04996492,
+                "b": 770.9029761890694,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "DEEET 2024 Roll No.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 225.36492,
+                "t": 758.58456,
+                "r": 316.4889600000001,
+                "b": 776.6598561890694,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "DEEET 2024 Overall Merit Rank",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          "num_rows": 1,
+          "num_cols": 2,
+          "orientation": "rot_0",
+          "grid": [
+            [
+              {
+                "bbox": {
+                  "l": 37.08108,
+                  "t": 764.3414399999999,
+                  "r": 131.04996492,
+                  "b": 770.9029761890694,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "DEEET 2024 Roll No.",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 225.36492,
+                  "t": 758.58456,
+                  "r": 316.4889600000001,
+                  "b": 776.6598561890694,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "DEEET 2024 Overall Merit Rank",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ]
+          ]
+        },
+        "annotations": []
+      },
+      {
+        "self_ref": "#/tables/7",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "table",
+        "prov": [
+          {
+            "page_no": 2,
+            "bbox": {
+              "l": 28.981307983398438,
+              "t": 446.626953125,
+              "r": 565.1184692382812,
+              "b": 277.1993408203125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [],
+        "references": [],
+        "footnotes": [],
+        "data": {
+          "table_cells": [
+            {
+              "bbox": {
+                "l": 50.400000000000006,
+                "t": 414.84599999999995,
+                "r": 83.06400000000002,
+                "b": 436.50747186147186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Exam Passed",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 117.0,
+                "t": 421.6859999999999,
+                "r": 146.19600000000003,
+                "b": 429.54747186147176,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Board",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 233.88,
+                "t": 421.6859999999999,
+                "r": 302.88,
+                "b": 429.54747186147176,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Main Subjects",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 336.6,
+                "t": 414.84599999999995,
+                "r": 367.26,
+                "b": 436.50747186147186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Full Marks",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 393.12,
+                "t": 414.84599999999995,
+                "r": 437.11199999999997,
+                "b": 436.50747186147186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Marks Obtained",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 453.12,
+                "t": 401.04599999999994,
+                "r": 558.744,
+                "b": 436.50747186147186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "Overall % obtained in Madhyamik or Equivalent",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 221.39999999999998,
+                "t": 456.726,
+                "r": 257.94,
+                "b": 464.58747186147184,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "English",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 221.39999999999998,
+                "t": 484.806,
+                "r": 283.392,
+                "b": 492.6674718614718,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Mathematics",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 221.39999999999998,
+                "t": 512.886,
+                "r": 305.65199999999993,
+                "b": 534.5474718614719,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Physical Science/ Science",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 221.39999999999998,
+                "t": 540.9659999999999,
+                "r": 246.732,
+                "b": 548.8274718614718,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Total",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          "num_rows": 5,
+          "num_cols": 6,
+          "orientation": "rot_0",
+          "grid": [
+            [
+              {
+                "bbox": {
+                  "l": 50.400000000000006,
+                  "t": 414.84599999999995,
+                  "r": 83.06400000000002,
+                  "b": 436.50747186147186,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "Exam Passed",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 117.0,
+                  "t": 421.6859999999999,
+                  "r": 146.19600000000003,
+                  "b": 429.54747186147176,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "Board",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 233.88,
+                  "t": 421.6859999999999,
+                  "r": 302.88,
+                  "b": 429.54747186147176,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "Main Subjects",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 336.6,
+                  "t": 414.84599999999995,
+                  "r": 367.26,
+                  "b": 436.50747186147186,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "Full Marks",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 393.12,
+                  "t": 414.84599999999995,
+                  "r": 437.11199999999997,
+                  "b": 436.50747186147186,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 4,
+                "end_col_offset_idx": 5,
+                "text": "Marks Obtained",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 453.12,
+                  "t": 401.04599999999994,
+                  "r": 558.744,
+                  "b": 436.50747186147186,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 0,
+                "end_row_offset_idx": 1,
+                "start_col_offset_idx": 5,
+                "end_col_offset_idx": 6,
+                "text": "Overall % obtained in Madhyamik or Equivalent",
+                "column_header": true,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 221.39999999999998,
+                  "t": 456.726,
+                  "r": 257.94,
+                  "b": 464.58747186147184,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "English",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 4,
+                "end_col_offset_idx": 5,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 1,
+                "end_row_offset_idx": 2,
+                "start_col_offset_idx": 5,
+                "end_col_offset_idx": 6,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 221.39999999999998,
+                  "t": 484.806,
+                  "r": 283.392,
+                  "b": 492.6674718614718,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "Mathematics",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 4,
+                "end_col_offset_idx": 5,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 2,
+                "end_row_offset_idx": 3,
+                "start_col_offset_idx": 5,
+                "end_col_offset_idx": 6,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 221.39999999999998,
+                  "t": 512.886,
+                  "r": 305.65199999999993,
+                  "b": 534.5474718614719,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "Physical Science/ Science",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 4,
+                "end_col_offset_idx": 5,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 3,
+                "end_row_offset_idx": 4,
+                "start_col_offset_idx": 5,
+                "end_col_offset_idx": 6,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ],
+            [
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 0,
+                "end_col_offset_idx": 1,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 1,
+                "end_col_offset_idx": 2,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "bbox": {
+                  "l": 221.39999999999998,
+                  "t": 540.9659999999999,
+                  "r": 246.732,
+                  "b": 548.8274718614718,
+                  "coord_origin": "TOPLEFT"
+                },
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 2,
+                "end_col_offset_idx": 3,
+                "text": "Total",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 3,
+                "end_col_offset_idx": 4,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 4,
+                "end_col_offset_idx": 5,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              },
+              {
+                "row_span": 1,
+                "col_span": 1,
+                "start_row_offset_idx": 4,
+                "end_row_offset_idx": 5,
+                "start_col_offset_idx": 5,
+                "end_col_offset_idx": 6,
+                "text": "",
+                "column_header": false,
+                "row_header": false,
+                "row_section": false,
+                "fillable": false
+              }
+            ]
+          ]
+        },
+        "annotations": []
+      }
+    ],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 595.2760009765625,
+          "height": 841.8900146484375
+        },
+        "page_no": 1
+      },
+      "2": {
+        "size": {
+          "width": 595.2760009765625,
+          "height": 841.8900146484375
+        },
+        "page_no": 2
+      },
+      "3": {
+        "size": {
+          "width": 595.2760009765625,
+          "height": 841.8900146484375
+        },
+        "page_no": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "chunk_id": "bn_e0_a6_aa_e0_a6_b0_e0_a7_8d_e0_a6_af_e0_a6_9f_e0_a6_a8_e0_a6_aa_e0_a7_8d_e0_a6_af_e0_a6_be_e0_a6_95_e0_a7_87_e0_a6_9c_f6728577__e98cf33688ad__chunk_0000",
+  "document_id": "bn_e0_a6_aa_e0_a6_b0_e0_a7_8d_e0_a6_af_e0_a6_9f_e0_a6_a8_e0_a6_aa_e0_a7_8d_e0_a6_af_e0_a6_be_e0_a6_95_e0_a7_87_e0_a6_9c_f6728577__e98cf33688ad",
+  "parent_document": "bn_e0_a6_aa_e0_a6_b0_e0_a7_8d_e0_a6_af_e0_a6_9f_e0_a6_a8_e0_a6_aa_e0_a7_8d_e0_a6_af_e0_a6_be_e0_a6_95_e0_a7_87_e0_a6_9c_f6728577__e98cf33688ad",
+  "chunk_index": 0,
+  "total_chunks": 3,
+  "previous_chunk_id": "",
+  "next_chunk_id": "bn_e0_a6_aa_e0_a6_b0_e0_a7_8d_e0_a6_af_e0_a6_9f_e0_a6_a8_e0_a6_aa_e0_a7_8d_e0_a6_af_e0_a6_be_e0_a6_95_e0_a7_87_e0_a6_9c_f6728577__e98cf33688ad__chunk_0001",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/bn/%e0%a6%aa%e0%a6%b0%e0%a7%8d%e0%a6%af%e0%a6%9f%e0%a6%a8-%e0%a6%aa%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%95%e0%a7%87%e0%a6%9c/",
+  "heading_chain": [
+    "পর্যটন প্যাকেজ"
+  ],
+  "heading": "পর্যটন প্যাকেজ",
+  "section": "পর্যটন প্যাকেজ",
+  "sub_section": "",
+  "text": "# পর্যটন প্যাকেজ\n\nপর্যটন প্যাকেজ বিবরণ\n\n| প্যাকেজের নাম | সময় | বিবরণ | বাতানুকূল গাড়ী | সাধারণ গাড়ী |",
+  "content": "# পর্যটন প্যাকেজ\n\nপর্যটন প্যাকেজ বিবরণ\n\n| প্যাকেজের নাম | সময় | বিবরণ | বাতানুকূল গাড়ী | সাধারণ গাড়ী |",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 118,
+  "character_count": 105,
+  "has_table": true,
+  "has_list": false,
+  "created_at": "2026-07-11T20:33:08.902626Z",
+  "sha256": "93fd179c2ba27afdb5bc76fb150ca7645b8cfeb34c575503ad48b32a6b0b7a0a"
+}

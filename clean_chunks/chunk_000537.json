@@ -1,0 +1,27 @@
+{
+  "chunk_id": "index_0af06c55__01a161aa70ba__chunk_0004",
+  "document_id": "index_0af06c55__01a161aa70ba",
+  "parent_document": "index_0af06c55__01a161aa70ba",
+  "chunk_index": 4,
+  "total_chunks": 7,
+  "previous_chunk_id": "index_0af06c55__01a161aa70ba__chunk_0003",
+  "next_chunk_id": "index_0af06c55__01a161aa70ba__chunk_0005",
+  "title": "About MeriPehchaan",
+  "url": "https://meripehchaan.gov.in/",
+  "heading_chain": [
+    "Allow Single Sign-On for Your Users"
+  ],
+  "heading": "Allow Single Sign-On for Your Users",
+  "section": "Allow Single Sign-On for Your Users",
+  "sub_section": "",
+  "text": "# Allow Single Sign-On for Your Users\n\nLet users sign on to your service with their Mobile number, Username, Password/PIN, and two-factor authentication. This will allow users to access all services with a single login.",
+  "content": "# Allow Single Sign-On for Your Users\n\nLet users sign on to your service with their Mobile number, Username, Password/PIN, and two-factor authentication. This will allow users to access all services with a single login.",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 45,
+  "character_count": 219,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:36:35.442177Z",
+  "sha256": "c47c21d2bfb05726511d0dc2adfa72c8971714f75721a0080bee0dfe92a9e105"
+}

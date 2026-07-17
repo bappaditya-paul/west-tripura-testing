@@ -1,0 +1,28 @@
+{
+  "chunk_id": "village_panchayats_8a9e5b18__1cec154c711d__chunk_0004",
+  "document_id": "village_panchayats_8a9e5b18__1cec154c711d",
+  "parent_document": "village_panchayats_8a9e5b18__1cec154c711d",
+  "chunk_index": 4,
+  "total_chunks": 9,
+  "previous_chunk_id": "village_panchayats_8a9e5b18__1cec154c711d__chunk_0003",
+  "next_chunk_id": "village_panchayats_8a9e5b18__1cec154c711d__chunk_0005",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/village-panchayats/",
+  "heading_chain": [
+    "Village & Panchayats",
+    "GP/VC under Bamutia"
+  ],
+  "heading": "Village & Panchayats",
+  "section": "Village & Panchayats",
+  "sub_section": "GP/VC under Bamutia",
+  "text": "## GP/VC under Bamutia\n\n1. Patunagar GP\n2. Laxmilunga GP\n3. Paschim Gandhigram GP\n4. Natunnagar GP\n5. Uttar Gandhigram GP\n6. Lembucherra GP\n7. Uttar Lembucherra GP\n8. Dighalia GP\n9. Singarbil GP\n10. Purba Bamutia GP\n11. Paschim Bamutia GP\n12. Bhagalpur GP\n13. Uttar Bamutia GP\n14. Nabagram GP\n15. Taltala GP\n16. Debendra Nagar GP\n17. Ananganagar GP\n18. Narasingarh GP\n19. Purba Gandhigram GP\n20. Uttar Laxmilunga GP",
+  "content": "## GP/VC under Bamutia\n\n1. Patunagar GP\n2. Laxmilunga GP\n3. Paschim Gandhigram GP\n4. Natunnagar GP\n5. Uttar Gandhigram GP\n6. Lembucherra GP\n7. Uttar Lembucherra GP\n8. Dighalia GP\n9. Singarbil GP\n10. Purba Bamutia GP\n11. Paschim Bamutia GP\n12. Bhagalpur GP\n13. Uttar Bamutia GP\n14. Nabagram GP\n15. Taltala GP\n16. Debendra Nagar GP\n17. Ananganagar GP\n18. Narasingarh GP\n19. Purba Gandhigram GP\n20. Uttar Laxmilunga GP",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 166,
+  "character_count": 415,
+  "has_table": false,
+  "has_list": true,
+  "created_at": "2026-07-11T20:32:30.631790Z",
+  "sha256": "1bbd9930efcd209556d4a753def9ccd295d08f3c2099e16e1ace63b18ebe4aa3"
+}

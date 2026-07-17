@@ -1,0 +1,28 @@
+{
+  "chunk_id": "photo_gallery_6f815b17__cb83b3ac54f1__chunk_0000",
+  "document_id": "photo_gallery_6f815b17__cb83b3ac54f1",
+  "parent_document": "photo_gallery_6f815b17__cb83b3ac54f1",
+  "chunk_index": 0,
+  "total_chunks": 7,
+  "previous_chunk_id": "",
+  "next_chunk_id": "photo_gallery_6f815b17__cb83b3ac54f1__chunk_0001",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/photo-gallery/",
+  "heading_chain": [
+    "Photo Gallery",
+    "[A Swatch Bharat Abhiyan , held on 16/12/2022 in the office premises of office of the D.M & Collector, West Tripura.]"
+  ],
+  "heading": "Photo Gallery",
+  "section": "Photo Gallery",
+  "sub_section": "[A Swatch Bharat Abhiyan , held on 16/12/2022 in the office premises of office of the D.M & Collector, West Tripura.]",
+  "text": "# Photo Gallery\n\n## [A Swatch Bharat Abhiyan , held on 16/12/2022 in the office premises of office of the D.M & Collector, West Tripura.]",
+  "content": "# Photo Gallery\n\n## [A Swatch Bharat Abhiyan , held on 16/12/2022 in the office premises of office of the D.M & Collector, West Tripura.]",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 41,
+  "character_count": 137,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:32:01.513540Z",
+  "sha256": "e405984097c33fb407f1bda1f933458e100e368e27923a5e8883c2ba8c9fd79d"
+}

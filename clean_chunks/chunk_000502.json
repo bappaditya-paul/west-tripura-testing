@@ -1,0 +1,27 @@
+{
+  "chunk_id": "e_governance_db4f699f__a7ea8b377c06__chunk_0001",
+  "document_id": "e_governance_db4f699f__a7ea8b377c06",
+  "parent_document": "e_governance_db4f699f__a7ea8b377c06",
+  "chunk_index": 1,
+  "total_chunks": 2,
+  "previous_chunk_id": "e_governance_db4f699f__a7ea8b377c06__chunk_0000",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/e-governance/",
+  "heading_chain": [
+    "E-Governance"
+  ],
+  "heading": "E-Governance",
+  "section": "E-Governance",
+  "sub_section": "",
+  "text": "| EDUCATION | FINANCIAL INCLUSION |\n| ⋅PMGDISHA ⋅NIOS Services | ⋅Banking Correspondents ⋅Insurance Services ⋅Pension Services |\n\n**OTHERS:-**\n\n1. Pan Card Services\n2. Passport Services\n3. Mobile Recharge\n4. DTH Recharge\n5. IRCTC(Railway Ticketing), Air Ticketing, BusTicketing, & Bill Payments\n6. Tele-Law Service\n7. Online Admission form fill up for Navodaya Vidyalaya & Admit Card Print",
+  "content": "| EDUCATION | FINANCIAL INCLUSION |\n| ⋅PMGDISHA ⋅NIOS Services | ⋅Banking Correspondents ⋅Insurance Services ⋅Pension Services |\n\n**OTHERS:-**\n\n1. Pan Card Services\n2. Passport Services\n3. Mobile Recharge\n4. DTH Recharge\n5. IRCTC(Railway Ticketing), Air Ticketing, BusTicketing, & Bill Payments\n6. Tele-Law Service\n7. Online Admission form fill up for Navodaya Vidyalaya & Admit Card Print",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 122,
+  "character_count": 389,
+  "has_table": true,
+  "has_list": true,
+  "created_at": "2026-07-11T20:31:32.909451Z",
+  "sha256": "be76f3008e12192e19ec3d65415d3d5197cf7a088055f883e367fc5a4a137513"
+}

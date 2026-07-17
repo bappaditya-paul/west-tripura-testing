@@ -1,0 +1,471 @@
+{
+  "document_id": "pnv1_assets_about_parichay_authenticator_0044e89d_cd971287e502_md",
+  "source_path": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502.md",
+  "title": "Parichay Authenticator",
+  "metadata": {
+    "document_id": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502",
+    "source_path": "pnv1__assets__about-parichay-authenticator__0044e89d.md",
+    "url": "https://parichay.nic.in/pnv1/assets/about-parichay-authenticator",
+    "depth": "4",
+    "crawled_at": "2026-07-11T20:36:34.595358Z",
+    "title": "Parichay Authenticator",
+    "content": "---\nurl: https://parichay.nic.in/pnv1/assets/about-parichay-authenticator\ndepth: 4\nscore: 0\ncrawled_at: 2026-07-11T20:36:34.595358Z\n---\n## Parichay Authenticator\n###### ( Seamless Secure Multi-factor Authentication )\nThe application enables you to access the various government applications through a seamless 2-step verification process. Parichay Authenticator offers both token verification and tap verification for the authentication and authorization of the users.\n[Click Here](https://parichay.nic.in/pnv1/assets/about-parichay-authenticator?sid=1234567899#steps) For instruction.\n## About Us\nParichay Authenticator is a comprehensive, reliable, and secure framework that offers a variety of multifactor authentication solutions like Token Authentication and Tap Authentication to various integrate services including Parichay, Jan Parichay, VPN, and others. It also helps in securing the device by providing local device authentication parameters which includes Pattern, Pin, and Fingerprint.\n### Functionality\nThe application authenticates you through a two-step authentication process where a user needs to provide a secondary factor of authentication along with the password.\n### Tap Authentication\nFor Tap-based authentication, a user needs to tap a prompt sent by the authenticator to registered client device. The prompt will ask if the user is allowed to access the online application or not. Following are benefits of Tap Authentication.\n* Easy, quick and convenient real time authentication solution.\n* Authenticates user identity with a single tap.\n* Single-tap authentication effectively helps in securing the data in a hassle-free way in addition to meeting the required compliances.\n* Access Jan Parichay, and integrated services with a single tap.\n\n### Token Authentication\nFor Token-based authentication, a user needs use a soft token generated every 30 seconds by the online application and client device simultaneously. Following are the benefits of Token Authentication.\n* This authentication factor adds a second layer of security to application, network, or service access.\n* Provides seamless access to Jan Parichay and integrated services.\n\n## Stepwise Guide to enable tap/token authentication on Parichay Authenticator\n[Click Here](https://parichay.nic.in/pnv1/assets/static/media/Parichay%20Authenticator%20Manual%20v4.1.516e9edd3b706e5681b0.pdf) to Download the User Manual\n* **Step 1:** Go to parichay.nic.in\n* **Step 2:** Enter your username and password in the required fields and click on the “Next” button.\n* **Step 3:** Select either “OTP on Mobile” or “Backup Code” and click on the “Next” button to proceed.\n* **Step 4:** Enter the “OTP” in the required field and click on “Next” button to complete the two-step verification process.\n* **Step 5:** Click on the top-right “button” to see the “Settings” option.\n* **Step 6:** Click on the “Settings” option to proceed.\n* **Step 7:** Click on the “OFF” button to turn ‘’ON’’ the Multi-factor Authentication in Account Settings tab.\n\n* **Step 8:** Now, you have to scan the QR using the Scanner of Parichay Authenticator app on your mobile.\n* **Step 9:** Open the Parichay Authenticator app on your smartphone. Click on the “Skip” button to proceed.\n* **Step 10:** Choose any one of the “Screen lock type”\n* **Step 11:** Click on the “Scan QR Code” Button.\n* **Step 12:** Scan the QR using your smartphone camera.\nNow, you will be able to see the token, use this to configure your account.\n* **Step 13:** Enter the six-digit token number in the required field below the QR Code.\nNow, you have successfully configured your account with Parichay Authenticator for multi-factor authentication.",
+    "language": "en",
+    "content_hash": "7366159b9508363dab034fd1ee4bfe8bfba314accd07e4f2dd300d7ca1f7a814",
+    "metadata": {
+      "source_path": "pnv1__assets__about-parichay-authenticator__0044e89d.md",
+      "url": "https://parichay.nic.in/pnv1/assets/about-parichay-authenticator",
+      "depth": 4,
+      "crawled_at": "2026-07-11T20:36:34.595358Z",
+      "language": "en",
+      "content_hash": "7366159b9508363dab034fd1ee4bfe8bfba314accd07e4f2dd300d7ca1f7a814"
+    },
+    "score": "0"
+  },
+  "tree": {
+    "type": "document",
+    "title": "Document",
+    "level": 0,
+    "text": "",
+    "metadata": {
+      "source_path": "pnv1_assets_about_parichay_authenticator_0044e89d__cd971287e502.md"
+    },
+    "children": [
+      {
+        "type": "heading",
+        "title": "Parichay Authenticator",
+        "level": 2,
+        "text": "Parichay Authenticator",
+        "metadata": {
+          "heading_chain": [
+            "Parichay Authenticator"
+          ]
+        },
+        "children": [
+          {
+            "type": "heading",
+            "title": "( Seamless Secure Multi-factor Authentication )",
+            "level": 6,
+            "text": "( Seamless Secure Multi-factor Authentication )",
+            "metadata": {
+              "heading_chain": [
+                "Parichay Authenticator",
+                "( Seamless Secure Multi-factor Authentication )"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "The application enables you to access the various government applications through a seamless 2-step verification process. Parichay Authenticator offers both token verification and tap verification for the authentication and authorization of the users.\n[Click Here](https://parichay.nic.in/pnv1/assets/about-parichay-authenticator?sid=1234567899#steps) For instruction.",
+                "metadata": {
+                  "links": [
+                    {
+                      "href": "https://parichay.nic.in/pnv1/assets/about-parichay-authenticator?sid=1234567899#steps",
+                      "text": ""
+                    }
+                  ],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "title": "About Us",
+        "level": 2,
+        "text": "About Us",
+        "metadata": {
+          "heading_chain": [
+            "About Us"
+          ]
+        },
+        "children": [
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "Parichay Authenticator is a comprehensive, reliable, and secure framework that offers a variety of multifactor authentication solutions like Token Authentication and Tap Authentication to various integrate services including Parichay, Jan Parichay, VPN, and others. It also helps in securing the device by providing local device authentication parameters which includes Pattern, Pin, and Fingerprint.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "heading",
+            "title": "Functionality",
+            "level": 3,
+            "text": "Functionality",
+            "metadata": {
+              "heading_chain": [
+                "About Us",
+                "Functionality"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "The application authenticates you through a two-step authentication process where a user needs to provide a secondary factor of authentication along with the password.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "title": "Tap Authentication",
+            "level": 3,
+            "text": "Tap Authentication",
+            "metadata": {
+              "heading_chain": [
+                "About Us",
+                "Tap Authentication"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "For Tap-based authentication, a user needs to tap a prompt sent by the authenticator to registered client device. The prompt will ask if the user is allowed to access the online application or not. Following are benefits of Tap Authentication.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              },
+              {
+                "type": "list",
+                "title": "",
+                "level": 0,
+                "text": "",
+                "metadata": {
+                  "ordered": false,
+                  "items": [
+                    "Easy, quick and convenient real time authentication solution.",
+                    "Authenticates user identity with a single tap.",
+                    "Single-tap authentication effectively helps in securing the data in a hassle-free way in addition to meeting the required compliances.",
+                    "Access Jan Parichay, and integrated services with a single tap."
+                  ]
+                },
+                "children": []
+              },
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "Easy, quick and convenient real time authentication solution.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              },
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "Authenticates user identity with a single tap.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              },
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "Single-tap authentication effectively helps in securing the data in a hassle-free way in addition to meeting the required compliances.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              },
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "Access Jan Parichay, and integrated services with a single tap.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "title": "Token Authentication",
+            "level": 3,
+            "text": "Token Authentication",
+            "metadata": {
+              "heading_chain": [
+                "About Us",
+                "Token Authentication"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "For Token-based authentication, a user needs use a soft token generated every 30 seconds by the online application and client device simultaneously. Following are the benefits of Token Authentication.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              },
+              {
+                "type": "list",
+                "title": "",
+                "level": 0,
+                "text": "",
+                "metadata": {
+                  "ordered": false,
+                  "items": [
+                    "This authentication factor adds a second layer of security to application, network, or service access.",
+                    "Provides seamless access to Jan Parichay and integrated services."
+                  ]
+                },
+                "children": []
+              },
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "This authentication factor adds a second layer of security to application, network, or service access.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              },
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "Provides seamless access to Jan Parichay and integrated services.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "title": "Stepwise Guide to enable tap/token authentication on Parichay Authenticator",
+        "level": 2,
+        "text": "Stepwise Guide to enable tap/token authentication on Parichay Authenticator",
+        "metadata": {
+          "heading_chain": [
+            "Stepwise Guide to enable tap/token authentication on Parichay Authenticator"
+          ]
+        },
+        "children": [
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "[Click Here](https://parichay.nic.in/pnv1/assets/static/media/Parichay%20Authenticator%20Manual%20v4.1.516e9edd3b706e5681b0.pdf) to Download the User Manual",
+            "metadata": {
+              "links": [
+                {
+                  "href": "https://parichay.nic.in/pnv1/assets/static/media/Parichay%20Authenticator%20Manual%20v4.1.516e9edd3b706e5681b0.pdf",
+                  "text": ""
+                }
+              ],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "list",
+            "title": "",
+            "level": 0,
+            "text": "",
+            "metadata": {
+              "ordered": false,
+              "items": [
+                "**Step 1:** Go to parichay.nic.in",
+                "**Step 2:** Enter your username and password in the required fields and click on the “Next” button.",
+                "**Step 3:** Select either “OTP on Mobile” or “Backup Code” and click on the “Next” button to proceed.",
+                "**Step 4:** Enter the “OTP” in the required field and click on “Next” button to complete the two-step verification process.",
+                "**Step 5:** Click on the top-right “button” to see the “Settings” option.",
+                "**Step 6:** Click on the “Settings” option to proceed.",
+                "**Step 7:** Click on the “OFF” button to turn ‘’ON’’ the Multi-factor Authentication in Account Settings tab.",
+                "**Step 8:** Now, you have to scan the QR using the Scanner of Parichay Authenticator app on your mobile.",
+                "**Step 9:** Open the Parichay Authenticator app on your smartphone. Click on the “Skip” button to proceed.",
+                "**Step 10:** Choose any one of the “Screen lock type”",
+                "**Step 11:** Click on the “Scan QR Code” Button.",
+                "**Step 12:** Scan the QR using your smartphone camera.\nNow, you will be able to see the token, use this to configure your account.",
+                "**Step 13:** Enter the six-digit token number in the required field below the QR Code.\nNow, you have successfully configured your account with Parichay Authenticator for multi-factor authentication."
+              ]
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 1:** Go to parichay.nic.in",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 2:** Enter your username and password in the required fields and click on the “Next” button.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 3:** Select either “OTP on Mobile” or “Backup Code” and click on the “Next” button to proceed.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 4:** Enter the “OTP” in the required field and click on “Next” button to complete the two-step verification process.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 5:** Click on the top-right “button” to see the “Settings” option.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 6:** Click on the “Settings” option to proceed.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 7:** Click on the “OFF” button to turn ‘’ON’’ the Multi-factor Authentication in Account Settings tab.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 8:** Now, you have to scan the QR using the Scanner of Parichay Authenticator app on your mobile.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 9:** Open the Parichay Authenticator app on your smartphone. Click on the “Skip” button to proceed.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 10:** Choose any one of the “Screen lock type”",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 11:** Click on the “Scan QR Code” Button.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 12:** Scan the QR using your smartphone camera.\nNow, you will be able to see the token, use this to configure your account.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**Step 13:** Enter the six-digit token number in the required field below the QR Code.\nNow, you have successfully configured your account with Parichay Authenticator for multi-factor authentication.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

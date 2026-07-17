@@ -1,0 +1,77 @@
+{
+  "document_id": "images_DEEET_202021_20Examination_pdf_c648e1fb_1e0ae8a922d0_md",
+  "source_path": "images_DEEET_202021_20Examination_pdf_c648e1fb__1e0ae8a922d0.md",
+  "title": "Server Error",
+  "metadata": {
+    "document_id": "images_DEEET_202021_20Examination_pdf_c648e1fb__1e0ae8a922d0",
+    "source_path": "images__DEEET_202021_20Examination.pdf__c648e1fb.md",
+    "url": "https://www.wptripura.nic.in/images/DEEET%202021%20Examination.pdf",
+    "depth": "5",
+    "crawled_at": "2026-07-11T20:41:02.276419Z",
+    "title": "Server Error",
+    "content": "---\nurl: https://www.wptripura.nic.in/images/DEEET%202021%20Examination.pdf\ndepth: 5\nscore: 0\ncrawled_at: 2026-07-11T20:41:02.276419Z\n---\n# Server Error\n## 404 - File or directory not found.\n### The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "language": "en",
+    "content_hash": "63fedb9b0cd7b573f8c8728e350255a8a4024f8d5de55913777f3bb283ba633b",
+    "metadata": {
+      "source_path": "images__DEEET_202021_20Examination.pdf__c648e1fb.md",
+      "url": "https://www.wptripura.nic.in/images/DEEET%202021%20Examination.pdf",
+      "depth": 5,
+      "crawled_at": "2026-07-11T20:41:02.276419Z",
+      "language": "en",
+      "content_hash": "63fedb9b0cd7b573f8c8728e350255a8a4024f8d5de55913777f3bb283ba633b"
+    },
+    "score": "0"
+  },
+  "tree": {
+    "type": "document",
+    "title": "Document",
+    "level": 0,
+    "text": "",
+    "metadata": {
+      "source_path": "images_DEEET_202021_20Examination_pdf_c648e1fb__1e0ae8a922d0.md"
+    },
+    "children": [
+      {
+        "type": "heading",
+        "title": "Server Error",
+        "level": 1,
+        "text": "Server Error",
+        "metadata": {
+          "heading_chain": [
+            "Server Error"
+          ]
+        },
+        "children": [
+          {
+            "type": "heading",
+            "title": "404 - File or directory not found.",
+            "level": 2,
+            "text": "404 - File or directory not found.",
+            "metadata": {
+              "heading_chain": [
+                "Server Error",
+                "404 - File or directory not found."
+              ]
+            },
+            "children": [
+              {
+                "type": "heading",
+                "title": "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+                "level": 3,
+                "text": "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+                "metadata": {
+                  "heading_chain": [
+                    "Server Error",
+                    "404 - File or directory not found.",
+                    "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+                  ]
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

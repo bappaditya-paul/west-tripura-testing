@@ -1,0 +1,77 @@
+{
+  "document_id": "images_DEEET_20Guidelines_20for_20students_pdf_0f73d726_906595631566_md",
+  "source_path": "images_DEEET_20Guidelines_20for_20students_pdf_0f73d726__906595631566.md",
+  "title": "Server Error",
+  "metadata": {
+    "document_id": "images_DEEET_20Guidelines_20for_20students_pdf_0f73d726__906595631566",
+    "source_path": "images__DEEET_20Guidelines_20for_20students.pdf__0f73d726.md",
+    "url": "https://www.wptripura.nic.in/images/DEEET%20Guidelines%20for%20students.pdf",
+    "depth": "5",
+    "crawled_at": "2026-07-11T20:41:04.475465Z",
+    "title": "Server Error",
+    "content": "---\nurl: https://www.wptripura.nic.in/images/DEEET%20Guidelines%20for%20students.pdf\ndepth: 5\nscore: 0\ncrawled_at: 2026-07-11T20:41:04.475465Z\n---\n# Server Error\n## 404 - File or directory not found.\n### The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "language": "en",
+    "content_hash": "4aab2af549f5b18bbbef10a57f582b36cd4be0ce56875b06996b1173464d50b5",
+    "metadata": {
+      "source_path": "images__DEEET_20Guidelines_20for_20students.pdf__0f73d726.md",
+      "url": "https://www.wptripura.nic.in/images/DEEET%20Guidelines%20for%20students.pdf",
+      "depth": 5,
+      "crawled_at": "2026-07-11T20:41:04.475465Z",
+      "language": "en",
+      "content_hash": "4aab2af549f5b18bbbef10a57f582b36cd4be0ce56875b06996b1173464d50b5"
+    },
+    "score": "0"
+  },
+  "tree": {
+    "type": "document",
+    "title": "Document",
+    "level": 0,
+    "text": "",
+    "metadata": {
+      "source_path": "images_DEEET_20Guidelines_20for_20students_pdf_0f73d726__906595631566.md"
+    },
+    "children": [
+      {
+        "type": "heading",
+        "title": "Server Error",
+        "level": 1,
+        "text": "Server Error",
+        "metadata": {
+          "heading_chain": [
+            "Server Error"
+          ]
+        },
+        "children": [
+          {
+            "type": "heading",
+            "title": "404 - File or directory not found.",
+            "level": 2,
+            "text": "404 - File or directory not found.",
+            "metadata": {
+              "heading_chain": [
+                "Server Error",
+                "404 - File or directory not found."
+              ]
+            },
+            "children": [
+              {
+                "type": "heading",
+                "title": "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+                "level": 3,
+                "text": "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+                "metadata": {
+                  "heading_chain": [
+                    "Server Error",
+                    "404 - File or directory not found.",
+                    "The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+                  ]
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

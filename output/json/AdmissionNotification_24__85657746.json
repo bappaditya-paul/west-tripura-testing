@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "id": "AdmissionNotification_24__85657746",
+    "url": "http://wptripura.nic.in/AdmissionNotification_24.pdf",
+    "file_name": "AdmissionNotification_24__85657746.pdf",
+    "title": "Admissionnotification 24",
+    "content_type": "pdf",
+    "source": "westtripura.nic.in",
+    "language": "en",
+    "download_date": "2026-07-11T21:10:02.744366+00:00",
+    "page_count": 1,
+    "tables": 0,
+    "images": 0,
+    "word_count": 118,
+    "sha256": "9e709cd9e56e07f1111bca9a9db07ef6419ef2ed30dc0302c8af4e6e0b841654",
+    "file_size_bytes": 381676,
+    "processing_status": "success",
+    "parser_used": "docling",
+    "extraction_time_s": 2.628,
+    "local_path": "output/documents/pdf/AdmissionNotification_24__85657746.pdf",
+    "markdown_path": "output/markdown/AdmissionNotification_24__85657746.md",
+    "json_path": "output/json/AdmissionNotification_24__85657746.json",
+    "metadata_path": ""
+  },
+  "content": {
+    "schema_name": "DoclingDocument",
+    "version": "1.10.0",
+    "name": "AdmissionNotification_24__85657746",
+    "origin": {
+      "mimetype": "application/pdf",
+      "binary_hash": 14460863163056526932,
+      "filename": "AdmissionNotification_24__85657746.pdf"
+    },
+    "furniture": {
+      "self_ref": "#/furniture",
+      "children": [],
+      "content_layer": "furniture",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "body": {
+      "self_ref": "#/body",
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/groups/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "_root_",
+      "label": "unspecified"
+    },
+    "groups": [
+      {
+        "self_ref": "#/groups/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/5"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      },
+      {
+        "self_ref": "#/groups/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/7"
+          }
+        ],
+        "content_layer": "body",
+        "name": "group",
+        "label": "key_value_area"
+      }
+    ],
+    "texts": [
+      {
+        "self_ref": "#/texts/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 186.60000225,
+              "t": 752.3652705,
+              "r": 429.89147775,
+              "b": 737.3309390898305,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              21
+            ]
+          }
+        ],
+        "orig": "Government of Tripura",
+        "text": "Government of Tripura",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/1",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 96.95999925000001,
+              "t": 727.91372955,
+              "r": 514.3074916596939,
+              "b": 707.8679124950847,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              28
+            ]
+          }
+        ],
+        "orig": "Women's Polytechnic, Hapania",
+        "text": "Women's Polytechnic, Hapania",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/2",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "section_header",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 123.47999924999999,
+              "t": 687.6134145,
+              "r": 493.0114575,
+              "b": 672.8367545227272,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              44
+            ]
+          }
+        ],
+        "orig": "Admission Notice for Diploma Engineeing-2024",
+        "text": "Admission Notice for Diploma Engineeing-2024",
+        "level": 1
+      },
+      {
+        "self_ref": "#/texts/3",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 90.120003,
+              "t": 655.4832824535,
+              "r": 525.1124526853264,
+              "b": 532.5240433749091,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              434
+            ]
+          }
+        ],
+        "orig": "Students  got  selected  for  admission  in  to  the  Women's  Polytechnic,  Hapania through DEEET-2024 in the first round counseling process are directed to present in  the  Women's  Polytechnic,  Hapania  campus  with  requisite  fees  and  other testimonials  as  directed  by  the  Central  Selection  Committee  and  get  themselves admitted within 6 th , 7 th & 10 th June, 2024 from 11.00 AM to 3.00 PM positively without fail.",
+        "text": "Students  got  selected  for  admission  in  to  the  Women's  Polytechnic,  Hapania through DEEET-2024 in the first round counseling process are directed to present in  the  Women's  Polytechnic,  Hapania  campus  with  requisite  fees  and  other testimonials  as  directed  by  the  Central  Selection  Committee  and  get  themselves admitted within 6 th , 7 th & 10 th June, 2024 from 11.00 AM to 3.00 PM positively without fail."
+      },
+      {
+        "self_ref": "#/texts/4",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 90.120003,
+              "t": 510.8832914535,
+              "r": 524.649868745884,
+              "b": 477.8040493749091,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              113
+            ]
+          }
+        ],
+        "orig": "For fee details and admission form, students are advised to go through the institute website www.wptripura.nic.in",
+        "text": "For fee details and admission form, students are advised to go through the institute website www.wptripura.nic.in"
+      },
+      {
+        "self_ref": "#/texts/5",
+        "parent": {
+          "$ref": "#/groups/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "text",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 90.120003,
+              "t": 465.7632884535,
+              "r": 373.36166546695847,
+              "b": 455.1240568749091,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              47
+            ]
+          }
+        ],
+        "orig": "Contact Nos: 7005253558, 7005189082, 7005700107",
+        "text": "Contact Nos: 7005253558, 7005189082, 7005700107"
+      },
+      {
+        "self_ref": "#/texts/6",
+        "parent": {
+          "$ref": "#/pictures/0"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "caption",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 102.83999624999998,
+              "t": 427.92895605,
+              "r": 517.5423652151037,
+              "b": 370.5578400863636,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              57
+            ]
+          }
+        ],
+        "orig": "Sd//Dr. Tirtharaj Sen, FIE) Principal Women's Polytechnic",
+        "text": "Sd//Dr. Tirtharaj Sen, FIE) Principal Women's Polytechnic"
+      },
+      {
+        "self_ref": "#/texts/7",
+        "parent": {
+          "$ref": "#/groups/1"
+        },
+        "children": [],
+        "content_layer": "body",
+        "label": "caption",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 393.11997975,
+              "t": 303.60894855000004,
+              "r": 509.58775044166487,
+              "b": 262.07782883636366,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              54
+            ]
+          }
+        ],
+        "orig": "(Dr. Tirtharaj Sen, FIE) Principal Women's Polytechnic",
+        "text": "(Dr. Tirtharaj Sen, FIE) Principal Women's Polytechnic"
+      }
+    ],
+    "pictures": [
+      {
+        "self_ref": "#/pictures/0",
+        "parent": {
+          "$ref": "#/body"
+        },
+        "children": [
+          {
+            "$ref": "#/texts/6"
+          }
+        ],
+        "content_layer": "body",
+        "label": "picture",
+        "prov": [
+          {
+            "page_no": 1,
+            "bbox": {
+              "l": 428.97088623046875,
+              "t": 340.3489074707031,
+              "r": 471.6075134277344,
+              "b": 311.82745361328125,
+              "coord_origin": "BOTTOMLEFT"
+            },
+            "charspan": [
+              0,
+              0
+            ]
+          }
+        ],
+        "captions": [
+          {
+            "$ref": "#/texts/6"
+          }
+        ],
+        "references": [],
+        "footnotes": [],
+        "annotations": []
+      }
+    ],
+    "tables": [],
+    "key_value_items": [],
+    "form_items": [],
+    "pages": {
+      "1": {
+        "size": {
+          "width": 612.0,
+          "height": 792.0
+        },
+        "page_no": 1
+      }
+    }
+  }
+}

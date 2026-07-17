@@ -1,0 +1,28 @@
+{
+  "chunk_id": "bn_public_utility_category_e0_a6_aa_e0_a7_8c_e0_a6_b0_e0_a6_b8_e0_a6_ad_e0_a6_be_b3dcca12__2c7c3bb8af8e__chunk_0001",
+  "document_id": "bn_public_utility_category_e0_a6_aa_e0_a7_8c_e0_a6_b0_e0_a6_b8_e0_a6_ad_e0_a6_be_b3dcca12__2c7c3bb8af8e",
+  "parent_document": "bn_public_utility_category_e0_a6_aa_e0_a7_8c_e0_a6_b0_e0_a6_b8_e0_a6_ad_e0_a6_be_b3dcca12__2c7c3bb8af8e",
+  "chunk_index": 1,
+  "total_chunks": 3,
+  "previous_chunk_id": "bn_public_utility_category_e0_a6_aa_e0_a7_8c_e0_a6_b0_e0_a6_b8_e0_a6_ad_e0_a6_be_b3dcca12__2c7c3bb8af8e__chunk_0000",
+  "next_chunk_id": "bn_public_utility_category_e0_a6_aa_e0_a7_8c_e0_a6_b0_e0_a6_b8_e0_a6_ad_e0_a6_be_b3dcca12__2c7c3bb8af8e__chunk_0002",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/bn/public-utility-category/%e0%a6%aa%e0%a7%8c%e0%a6%b0%e0%a6%b8%e0%a6%ad%e0%a6%be/",
+  "heading_chain": [
+    "পৌরসভা",
+    "মোহনপুর মিউনিসিপ্যাল কাউন্সিল"
+  ],
+  "heading": "পৌরসভা",
+  "section": "পৌরসভা",
+  "sub_section": "মোহনপুর মিউনিসিপ্যাল কাউন্সিল",
+  "text": "## মোহনপুর মিউনিসিপ্যাল কাউন্সিল",
+  "content": "## মোহনপুর মিউনিসিপ্যাল কাউন্সিল",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 35,
+  "character_count": 32,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:33:33.935667Z",
+  "sha256": "40f83f1f2112975552ef175f818cca886d8922c00c3fbf0b55cc74b339206c39"
+}

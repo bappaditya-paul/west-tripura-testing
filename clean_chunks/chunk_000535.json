@@ -1,0 +1,28 @@
+{
+  "chunk_id": "index_0af06c55__01a161aa70ba__chunk_0000",
+  "document_id": "index_0af06c55__01a161aa70ba",
+  "parent_document": "index_0af06c55__01a161aa70ba",
+  "chunk_index": 0,
+  "total_chunks": 7,
+  "previous_chunk_id": "",
+  "next_chunk_id": "index_0af06c55__01a161aa70ba__chunk_0001",
+  "title": "About MeriPehchaan",
+  "url": "https://meripehchaan.gov.in/",
+  "heading_chain": [
+    "About MeriPehchaan",
+    "Enrolled Users"
+  ],
+  "heading": "About MeriPehchaan",
+  "section": "About MeriPehchaan",
+  "sub_section": "Enrolled Users",
+  "text": "# About MeriPehchaan\n\n**MeriPehchaan – National Single Sign-On (NSSO)** is a user authentication service in which a single set of credentials provide access to multiple online applications or services. This offers major benefits for both users and application administrators.\nFor users, it eliminates the need to repeatedly prove their identities to different applications and hold different credentials for each application and also helps identify the real applications as opposed to fake ones.\nTo the application owner it helps save time, effort and cost to build the authentication systems for every service independently.\n\n##### Enrolled Users",
+  "content": "# About MeriPehchaan\n\n**MeriPehchaan – National Single Sign-On (NSSO)** is a user authentication service in which a single set of credentials provide access to multiple online applications or services. This offers major benefits for both users and application administrators.\nFor users, it eliminates the need to repeatedly prove their identities to different applications and hold different credentials for each application and also helps identify the real applications as opposed to fake ones.\nTo the application owner it helps save time, effort and cost to build the authentication systems for every service independently.\n\n##### Enrolled Users",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 118,
+  "character_count": 647,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:36:35.442177Z",
+  "sha256": "06f98e2cec6d7f58dc218ef72145d6e940c6807b3a9b7a4995b49498e0d03108"
+}

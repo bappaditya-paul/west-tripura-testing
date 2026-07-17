@@ -1,0 +1,28 @@
+{
+  "chunk_id": "tourist_places_c3596e0f__0ffd4933e9d7__chunk_0002",
+  "document_id": "tourist_places_c3596e0f__0ffd4933e9d7",
+  "parent_document": "tourist_places_c3596e0f__0ffd4933e9d7",
+  "chunk_index": 2,
+  "total_chunks": 3,
+  "previous_chunk_id": "tourist_places_c3596e0f__0ffd4933e9d7__chunk_0001",
+  "next_chunk_id": "",
+  "title": "More Menu",
+  "url": "https://westtripura.nic.in/tourist-places/",
+  "heading_chain": [
+    "Tourist Places",
+    "[Ujjayanta Palace]"
+  ],
+  "heading": "Tourist Places",
+  "section": "Tourist Places",
+  "sub_section": "[Ujjayanta Palace]",
+  "text": "## [Ujjayanta Palace]\n\nThis royal house, which stands in the Capital city Agartala covering one sq.Km. area was…",
+  "content": "## [Ujjayanta Palace]\n\nThis royal house, which stands in the Capital city Agartala covering one sq.Km. area was…",
+  "language": "en",
+  "content_type": "semantic_chunk",
+  "token_count": 30,
+  "character_count": 112,
+  "has_table": false,
+  "has_list": false,
+  "created_at": "2026-07-11T20:32:31.985158Z",
+  "sha256": "8653bbb7cc78ccf7e2840821ad8543a8bd7086826a3f30a0760045141e03f7d3"
+}

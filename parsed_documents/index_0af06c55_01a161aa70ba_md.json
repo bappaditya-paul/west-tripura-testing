@@ -1,0 +1,454 @@
+{
+  "document_id": "index_0af06c55_01a161aa70ba_md",
+  "source_path": "index_0af06c55__01a161aa70ba.md",
+  "title": "About MeriPehchaan",
+  "metadata": {
+    "document_id": "index_0af06c55__01a161aa70ba",
+    "source_path": "index__0af06c55.md",
+    "url": "https://meripehchaan.gov.in/",
+    "depth": "4",
+    "crawled_at": "2026-07-11T20:36:35.442177Z",
+    "title": "About MeriPehchaan",
+    "content": "---\nurl: https://meripehchaan.gov.in/\ndepth: 4\nscore: 0\ncrawled_at: 2026-07-11T20:36:35.442177Z\n---\n[Skip to Main Content](https://meripehchaan.gov.in/ \"Skip to main content\") | -A A A+ | | English हिन्दी ગુજરાતી বাংলা मराठी অসমীয়া ଓରିୟା ਪੰਜਾਬੀ தமிழ் తెలుగు ಕನ್ನಡ മലയാളം\n\n# About MeriPehchaan\n**MeriPehchaan – National Single Sign-On (NSSO)** is a user authentication service in which a single set of credentials provide access to multiple online applications or services. This offers major benefits for both users and application administrators.\nFor users, it eliminates the need to repeatedly prove their identities to different applications and hold different credentials for each application and also helps identify the real applications as opposed to fake ones.\nTo the application owner it helps save time, effort and cost to build the authentication systems for every service independently.\n\n##### Enrolled Users\n## 0\n\n##### Integrated Services\n## 0\n\n##### Transactions\n## 0\n\n# Know Your User\nYou will get verified information about your User who has logged in via MeriPehchaan. Users will be able to reuse the MeriPehchaan profile information to access other Government services.\n# Allow Single Sign-On for Your Users\nLet users sign on to your service with their Mobile number, Username, Password/PIN, and two-factor authentication. This will allow users to access all services with a single login.\n# Single Citizen Login across the system\nProvide secure and simple access to various public services\n— Anytime, Anywhere.\n\n##### Seamless User Onboarding\nUsers can seamlessly access various services\n\n##### Standardized Registration\nUsers need not submit different credentials for different services\n\n##### Multifactor Authentication\nTo provide greater level of Security and\nPrivacy\n# Frequently Asked Questions\n\n##### [ 1. What is MeriPehchaan? ](https://meripehchaan.gov.in/#collapseOne1)\nMeriPehchaan, a Single Sign-On platform authenticates citizens easily and securely. It is an extensive collaboration of the three mainstream SSO platforms Jan Parichay, e-Pramaan, and DigiLocker. MeriPehchaan authenticates the user based on multiple authentication parameters like username, mobile number, Aadhaar, PAN, etc.\n##### [ 2. What is a Single Sign-On Platform? ](https://meripehchaan.gov.in/#collapseTwo2)\nSingle Sign-On is a centralized session and user authentication service in which a set of login credentials can be used to access multiple applications during the same session. The service helps in providing a seamless user experience by eliminating the need of proving the user identity to different applications.\n##### [ 3. What are the key benefits of using MeriPehchaan? ](https://meripehchaan.gov.in/#collapseThree3)\nThe basic objective of MeriPehchaan is to eliminate individual & repetitive sign-on procedures by centralizing user authentication and identity management at a central identity provider. It increases user productivity on a national level as its intuitive interface allows better user mobility and provides seamless access to multiple services and applications by authenticating just once.\n##### [ 4. How can I join MeriPehchaan? ](https://meripehchaan.gov.in/#collapseFour4)\nMeriPehchaan is a collaboration of 3 national level SSO, so a user may register on any of the three mainstream SSO platforms. The citizen may register by providing a Mobile number, Name, and Gender to create credentials i.e. username and password. User may also perform eKYC using Aadhaar and PAN\n##### [ 5. Is it safe to share the Aadhaar Card details with MeriPehchaan? ](https://meripehchaan.gov.in/#collapseFive5)\nYes, it’s completely safe as SSOs under MeriPehchaan take care of Aadhaar data and keep Aadhaar details in the Aadhaar vault as per the guidelines of the Aadhaar Act.\n\nCentre for Development of Advanced Computing\n(C-DAC)\nMinistry of Electronics & Information Technology (MeitY) Government of India\nDigital India Corporation\n(DIC)\nMinistry of Electronics & Information Technology (MeitY) Government of India\nNational Informatics Centre,\n(NIC)\nMinistry of Electronics & Information Technology (MeitY) Government of India",
+    "language": "en",
+    "content_hash": "79e05e13236fdf3795432cbdb46eef2805179d4c3fbf3ed9b209a751f9af5c0a",
+    "metadata": {
+      "source_path": "index__0af06c55.md",
+      "url": "https://meripehchaan.gov.in/",
+      "depth": 4,
+      "crawled_at": "2026-07-11T20:36:35.442177Z",
+      "language": "en",
+      "content_hash": "79e05e13236fdf3795432cbdb46eef2805179d4c3fbf3ed9b209a751f9af5c0a"
+    },
+    "score": "0"
+  },
+  "tree": {
+    "type": "document",
+    "title": "Document",
+    "level": 0,
+    "text": "",
+    "metadata": {
+      "source_path": "index_0af06c55__01a161aa70ba.md"
+    },
+    "children": [
+      {
+        "type": "paragraph",
+        "title": "",
+        "level": 0,
+        "text": "[Skip to Main Content](https://meripehchaan.gov.in/ \"Skip to main content\") | -A A A+ | | English हिन्दी ગુજરાતી বাংলা मराठी অসমীয়া ଓରିୟା ਪੰਜਾਬੀ தமிழ் తెలుగు ಕನ್ನಡ മലയാളം",
+        "metadata": {
+          "links": [
+            {
+              "href": "https://meripehchaan.gov.in/",
+              "text": ""
+            }
+          ],
+          "images": []
+        },
+        "children": []
+      },
+      {
+        "type": "heading",
+        "title": "About MeriPehchaan",
+        "level": 1,
+        "text": "About MeriPehchaan",
+        "metadata": {
+          "heading_chain": [
+            "About MeriPehchaan"
+          ]
+        },
+        "children": [
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "**MeriPehchaan – National Single Sign-On (NSSO)** is a user authentication service in which a single set of credentials provide access to multiple online applications or services. This offers major benefits for both users and application administrators.\nFor users, it eliminates the need to repeatedly prove their identities to different applications and hold different credentials for each application and also helps identify the real applications as opposed to fake ones.\nTo the application owner it helps save time, effort and cost to build the authentication systems for every service independently.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "heading",
+            "title": "Enrolled Users",
+            "level": 5,
+            "text": "Enrolled Users",
+            "metadata": {
+              "heading_chain": [
+                "About MeriPehchaan",
+                "Enrolled Users"
+              ]
+            },
+            "children": []
+          },
+          {
+            "type": "heading",
+            "title": "0",
+            "level": 2,
+            "text": "0",
+            "metadata": {
+              "heading_chain": [
+                "About MeriPehchaan",
+                "0"
+              ]
+            },
+            "children": [
+              {
+                "type": "heading",
+                "title": "Integrated Services",
+                "level": 5,
+                "text": "Integrated Services",
+                "metadata": {
+                  "heading_chain": [
+                    "About MeriPehchaan",
+                    "0",
+                    "Integrated Services"
+                  ]
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "title": "0",
+            "level": 2,
+            "text": "0",
+            "metadata": {
+              "heading_chain": [
+                "About MeriPehchaan",
+                "0"
+              ]
+            },
+            "children": [
+              {
+                "type": "heading",
+                "title": "Transactions",
+                "level": 5,
+                "text": "Transactions",
+                "metadata": {
+                  "heading_chain": [
+                    "About MeriPehchaan",
+                    "0",
+                    "Transactions"
+                  ]
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "title": "0",
+            "level": 2,
+            "text": "0",
+            "metadata": {
+              "heading_chain": [
+                "About MeriPehchaan",
+                "0"
+              ]
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "title": "Know Your User",
+        "level": 1,
+        "text": "Know Your User",
+        "metadata": {
+          "heading_chain": [
+            "Know Your User"
+          ]
+        },
+        "children": [
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "You will get verified information about your User who has logged in via MeriPehchaan. Users will be able to reuse the MeriPehchaan profile information to access other Government services.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "title": "Allow Single Sign-On for Your Users",
+        "level": 1,
+        "text": "Allow Single Sign-On for Your Users",
+        "metadata": {
+          "heading_chain": [
+            "Allow Single Sign-On for Your Users"
+          ]
+        },
+        "children": [
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "Let users sign on to your service with their Mobile number, Username, Password/PIN, and two-factor authentication. This will allow users to access all services with a single login.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "title": "Single Citizen Login across the system",
+        "level": 1,
+        "text": "Single Citizen Login across the system",
+        "metadata": {
+          "heading_chain": [
+            "Single Citizen Login across the system"
+          ]
+        },
+        "children": [
+          {
+            "type": "paragraph",
+            "title": "",
+            "level": 0,
+            "text": "Provide secure and simple access to various public services\n— Anytime, Anywhere.",
+            "metadata": {
+              "links": [],
+              "images": []
+            },
+            "children": []
+          },
+          {
+            "type": "heading",
+            "title": "Seamless User Onboarding",
+            "level": 5,
+            "text": "Seamless User Onboarding",
+            "metadata": {
+              "heading_chain": [
+                "Single Citizen Login across the system",
+                "Seamless User Onboarding"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "Users can seamlessly access various services",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "title": "Standardized Registration",
+            "level": 5,
+            "text": "Standardized Registration",
+            "metadata": {
+              "heading_chain": [
+                "Single Citizen Login across the system",
+                "Standardized Registration"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "Users need not submit different credentials for different services",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "title": "Multifactor Authentication",
+            "level": 5,
+            "text": "Multifactor Authentication",
+            "metadata": {
+              "heading_chain": [
+                "Single Citizen Login across the system",
+                "Multifactor Authentication"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "To provide greater level of Security and\nPrivacy",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "title": "Frequently Asked Questions",
+        "level": 1,
+        "text": "Frequently Asked Questions",
+        "metadata": {
+          "heading_chain": [
+            "Frequently Asked Questions"
+          ]
+        },
+        "children": [
+          {
+            "type": "heading",
+            "title": "[ 1. What is MeriPehchaan? ](https://meripehchaan.gov.in/#collapseOne1)",
+            "level": 5,
+            "text": "[ 1. What is MeriPehchaan? ](https://meripehchaan.gov.in/#collapseOne1)",
+            "metadata": {
+              "heading_chain": [
+                "Frequently Asked Questions",
+                "[ 1. What is MeriPehchaan? ](https://meripehchaan.gov.in/#collapseOne1)"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "MeriPehchaan, a Single Sign-On platform authenticates citizens easily and securely. It is an extensive collaboration of the three mainstream SSO platforms Jan Parichay, e-Pramaan, and DigiLocker. MeriPehchaan authenticates the user based on multiple authentication parameters like username, mobile number, Aadhaar, PAN, etc.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "title": "[ 2. What is a Single Sign-On Platform? ](https://meripehchaan.gov.in/#collapseTwo2)",
+            "level": 5,
+            "text": "[ 2. What is a Single Sign-On Platform? ](https://meripehchaan.gov.in/#collapseTwo2)",
+            "metadata": {
+              "heading_chain": [
+                "Frequently Asked Questions",
+                "[ 2. What is a Single Sign-On Platform? ](https://meripehchaan.gov.in/#collapseTwo2)"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "Single Sign-On is a centralized session and user authentication service in which a set of login credentials can be used to access multiple applications during the same session. The service helps in providing a seamless user experience by eliminating the need of proving the user identity to different applications.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "title": "[ 3. What are the key benefits of using MeriPehchaan? ](https://meripehchaan.gov.in/#collapseThree3)",
+            "level": 5,
+            "text": "[ 3. What are the key benefits of using MeriPehchaan? ](https://meripehchaan.gov.in/#collapseThree3)",
+            "metadata": {
+              "heading_chain": [
+                "Frequently Asked Questions",
+                "[ 3. What are the key benefits of using MeriPehchaan? ](https://meripehchaan.gov.in/#collapseThree3)"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "The basic objective of MeriPehchaan is to eliminate individual & repetitive sign-on procedures by centralizing user authentication and identity management at a central identity provider. It increases user productivity on a national level as its intuitive interface allows better user mobility and provides seamless access to multiple services and applications by authenticating just once.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "title": "[ 4. How can I join MeriPehchaan? ](https://meripehchaan.gov.in/#collapseFour4)",
+            "level": 5,
+            "text": "[ 4. How can I join MeriPehchaan? ](https://meripehchaan.gov.in/#collapseFour4)",
+            "metadata": {
+              "heading_chain": [
+                "Frequently Asked Questions",
+                "[ 4. How can I join MeriPehchaan? ](https://meripehchaan.gov.in/#collapseFour4)"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "MeriPehchaan is a collaboration of 3 national level SSO, so a user may register on any of the three mainstream SSO platforms. The citizen may register by providing a Mobile number, Name, and Gender to create credentials i.e. username and password. User may also perform eKYC using Aadhaar and PAN",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "title": "[ 5. Is it safe to share the Aadhaar Card details with MeriPehchaan? ](https://meripehchaan.gov.in/#collapseFive5)",
+            "level": 5,
+            "text": "[ 5. Is it safe to share the Aadhaar Card details with MeriPehchaan? ](https://meripehchaan.gov.in/#collapseFive5)",
+            "metadata": {
+              "heading_chain": [
+                "Frequently Asked Questions",
+                "[ 5. Is it safe to share the Aadhaar Card details with MeriPehchaan? ](https://meripehchaan.gov.in/#collapseFive5)"
+              ]
+            },
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "Yes, it’s completely safe as SSOs under MeriPehchaan take care of Aadhaar data and keep Aadhaar details in the Aadhaar vault as per the guidelines of the Aadhaar Act.",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              },
+              {
+                "type": "paragraph",
+                "title": "",
+                "level": 0,
+                "text": "Centre for Development of Advanced Computing\n(C-DAC)\nMinistry of Electronics & Information Technology (MeitY) Government of India\nDigital India Corporation\n(DIC)\nMinistry of Electronics & Information Technology (MeitY) Government of India\nNational Informatics Centre,\n(NIC)\nMinistry of Electronics & Information Technology (MeitY) Government of India",
+                "metadata": {
+                  "links": [],
+                  "images": []
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
