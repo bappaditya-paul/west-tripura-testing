@@ -24,7 +24,7 @@ except ImportError:
 # Repo layout
 # ─────────────────────────────────────────────────────────────────────────────
 
-REPO_ROOT: Path = Path(__file__).resolve().parent.parent
+REPO_ROOT: Path = Path(__file__).resolve().parent.parent.parent.parent
 
 # ── Raw crawler / document-pipeline output ────────────────────────────────────
 OUTPUT_ROOT: Path           = REPO_ROOT / "output"

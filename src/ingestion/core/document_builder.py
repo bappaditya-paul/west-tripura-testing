@@ -235,24 +235,45 @@ def _reconstruct_docling_markdown(content_obj: dict[str, Any]) -> str:
 
     # Pattern 2: body items list
     parts: list[str] = []
-    for item in content_obj.get("body", []):
-        if isinstance(item, dict):
-            t = item.get("text") or item.get("content") or ""
-            if t:
-                label = item.get("label", "")
-                if "heading" in label.lower():
-                    level = item.get("level", 2)
-                    parts.append(f"{'#' * level} {t}")
-                else:
-                    parts.append(t)
-        elif isinstance(item, str):
-            parts.append(item)
+    body = content_obj.get("body", [])
+    if isinstance(body, list):
+        for item in body:
+            if isinstance(item, dict):
+                t = item.get("text") or item.get("content") or ""
+                if t:
+                    label = item.get("label", "")
+                    if "heading" in label.lower():
+                        level = item.get("level", 2)
+                        parts.append(f"{'#' * level} {t}")
+                    else:
+                        parts.append(t)
+            elif isinstance(item, str):
+                parts.append(item)
+    elif isinstance(body, dict):
+        # body might be a dictionary containing children/texts
+        pass
 
     # Pattern 3: pages list
-    for page in content_obj.get("pages", []):
-        for cell in page.get("cells", []):
-            if t := cell.get("text"):
-                parts.append(t)
+    pages = content_obj.get("pages", [])
+    if isinstance(pages, dict):
+        pages = list(pages.values())
+    if isinstance(pages, list):
+        for page in pages:
+            if isinstance(page, dict):
+                cells = page.get("cells", [])
+                if isinstance(cells, list):
+                    for cell in cells:
+                        if isinstance(cell, dict):
+                            if t := cell.get("text"):
+                                parts.append(t)
+
+    # Pattern 4: top-level texts array (newer Docling)
+    texts = content_obj.get("texts", [])
+    if isinstance(texts, list):
+        for item in texts:
+            if isinstance(item, dict):
+                if t := item.get("text"):
+                    parts.append(t)
 
     return "\n\n".join(p for p in parts if p.strip())
 
