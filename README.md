@@ -4,7 +4,7 @@ A self-hostable, production-hardened Retrieval-Augmented Generation (RAG) platfo
 
 ---
 
-## 📖 For Non-Technical Minds: How It Works
+## How It Works
 
 Retrieval-Augmented Generation (RAG) is a technique that keeps AI chatbots accurate and grounded. Instead of letting the AI guess or invent answers (hallucination), the system acts like a smart librarian:
 
