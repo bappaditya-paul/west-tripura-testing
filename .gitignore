@@ -1,7 +1,7 @@
 # Secrets — never commit
 .env
 
-# Python
+# Python virtual env & cache
 __pycache__/
 *.py[cod]
 *.pyo
@@ -12,20 +12,21 @@ build/
 .venv/
 venv/
 
-# Large data / model files
+# Large data & model files
 models/
-qdrant_storage/
 *.zip
 
 # Logs
 logs/
 *.log
 
-# Project-specific ignored data folders
+# Project-specific ignored data and scrapers folders
 uploads/
 output/
 processed_documents/
 processed_chunks/
+clean_chunks/
+parsed_documents/
 qdrant_storage/
 postgres_data/
 redis_data/
