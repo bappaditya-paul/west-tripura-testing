@@ -20,3 +20,15 @@ qdrant_storage/
 # Logs
 logs/
 *.log
+
+# Project-specific ignored data folders
+uploads/
+output/
+processed_documents/
+processed_chunks/
+qdrant_storage/
+postgres_data/
+redis_data/
+failed_documents.json
+*.jsonl
+*.json
