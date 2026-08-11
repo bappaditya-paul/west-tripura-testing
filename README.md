@@ -1,628 +1,336 @@
 # 🏛️ West Tripura Citizen RAG & Document Assistant
 
-A self-hostable, production-oriented citizen information assistant for the **West Tripura District**. It combines official website crawling, document discovery/download, semantic + keyword retrieval, reranking, grounded LLM answers, direct document links, and Telegram/WhatsApp delivery.
+[![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
 
-The project is designed so that an NIC/operator can run the ingestion pipeline locally, refresh the knowledge base from the official district portal, and then serve citizen questions without manually collecting every government PDF or form.
+> **An enterprise-grade, self-hostable Retrieval-Augmented Generation (RAG) platform and multi-channel conversational assistant designed for the District Administration of West Tripura.**
 
-> **Official source:** https://westtripura.nic.in/
-
----
-
-## 🎯 What This System Does
-
-The system is designed around one simple citizen experience:
-
-```text
-Citizen asks a question
-        ↓
-Understand the question
-        ↓
-Search official West Tripura pages + documents
-        ↓
-Rank the most relevant evidence
-        ↓
-Generate a grounded answer
-        ↓
-Attach the official source/document when available
-```
-
-Examples:
-
-- `DM office er phone number ta ki?`
-- `How can I apply for a PRTC?`
-- `What documents are required for this certificate?`
-- `আমি কীভাবে সার্টিফিকেটের জন্য আবেদন করব?`
-- `Show me the official application form`
-
-For official facts, the chatbot is instructed **not to invent names, phone numbers, addresses, dates, fees, eligibility rules, or procedures** when the knowledge base does not support them.
+It automatically ingests, indexes, and delivers official government notifications, public services, schemes, administrative contacts, and application forms directly to citizens via **WhatsApp**, **Telegram**, and **REST APIs**.
 
 ---
 
-# 🚀 Main Capabilities
-
-## 1. Citizen-friendly query routing
-
-Common conversations such as greetings and thanks use a fast path instead of running the entire RAG pipeline.
-
-```text
-Hello → instant conversational response
-
-Government question → retrieval pipeline
-
-General knowledge → general LLM fallback
-```
-
-The query analyzer also handles common citizen language, Bengali, and Benglish/mixed-language wording.
-
-## 2. Hybrid retrieval
-
-Official information is searched using multiple signals:
-
-```text
-Dense semantic search
-        +
-BM25 keyword search
-        ↓
-RRF fusion
-        ↓
-Candidate pool
-        ↓
-Reranking
-        ↓
-Best evidence
-```
-
-This helps with both natural questions and exact terms such as form names, department names, phone numbers, and certificate names.
-
-## 3. Confidence-based grounding
-
-The assistant does not blindly trust the first search result.
-
-```text
-High confidence → official RAG answer
-Medium confidence → broader retrieval/retry
-Low confidence → safe general-LLM fallback
-```
-
-For West Tripura-specific facts that cannot be verified, the system prefers a verification message over fabrication.
-
-## 4. Automatic official document discovery
-
-The ingestion pipeline discovers document links exposed by crawled official pages, including common formats such as:
-
-- PDF
-- DOC / DOCX
-- XLS / XLSX
-- CSV
-- TXT
-
-When an official document is found, the pipeline can download it, extract its text, make it searchable, embed it, and retain the original official URL.
-
-## 5. Direct document delivery
-
-When a relevant form/notification/document is available, the chatbot can return the official document link directly instead of telling a citizen to manually browse the website.
-
-Example response shape:
-
-```text
-📄 Required document
-PRTC application form (PDF)
-🔗 https://official-document-url...
-```
-
-## 6. One-command knowledge-base refresh
-
-The repository includes an ingestion orchestrator:
-
-```bash
-python src/ingestion/auto_ingest.py
-```
-
-It runs the main pipeline:
-
-```text
-Crawl4AI
-  ↓
-official document discovery/download
-  ↓
-document extraction
-  ↓
-preprocessing
-  ↓
-semantic chunking
-  ↓
-embeddings
-  ↓
-Pinecone
-```
-
-For a resumable crawl:
-
-```bash
-python src/ingestion/auto_ingest.py --resume
-```
-
-For a deliberate full vector-index rebuild:
-
-```bash
-python src/ingestion/auto_ingest.py --clear-index
-```
-
-> `--clear-index` removes the existing Pinecone vectors before rebuilding them. Use it only when you intentionally want a full rebuild.
+## 📋 Table of Contents
+- [Executive Overview](#-executive-overview)
+- [Key Architectural Capabilities](#-key-architectural-capabilities)
+- [System Architecture & Flow](#-system-architecture--flow)
+- [Repository Structure](#-repository-structure)
+- [Technical Stack](#-technical-stack)
+- [Quick Start & Deployment](#-quick-start--deployment)
+- [Knowledge Base Ingestion Pipeline](#-knowledge-base-ingestion-pipeline)
+- [API Reference](#-api-reference)
+- [Operator Runbook (NIC / System Admins)](#-operator-runbook-nic--system-admins)
+- [Troubleshooting & Support](#-troubleshooting--support)
+- [License](#-license)
 
 ---
 
-# 🗂️ Repository Structure
+## 🎯 Executive Overview
+
+Navigating official municipal and district websites to find service procedures, eligibility criteria, and downloadable application forms is often complex for citizens. The **West Tripura Citizen RAG Assistant** bridges this gap by turning the official district portal ([https://westtripura.nic.in/](https://westtripura.nic.in/)) into an interactive, zero-hallucination conversational interface.
+
+### Key Value Propositions
+* **Zero-Hallucination Grounding**: Instructed strictly to ground answers in verified official context. Missing information triggers explicit fallback/verification steps rather than fabricated facts.
+* **Multilingual Citizen Experience**: Supports query understanding in **Bengali**, **English**, and **Benglish** (Bengali written in Latin script).
+* **Direct Official Document Delivery**: Discovers and indexes official PDFs, Word forms, Excel sheets, and CSVs, serving direct download links to citizens.
+* **Multi-Channel Availability**: Operates seamlessly across Telegram and WhatsApp (via OpenWA integration).
+
+---
+
+## ⚡ Key Architectural Capabilities
+
+| Feature | Description |
+| :--- | :--- |
+| 🔀 **Smart Query Routing** | Fast-path routing bypasses heavy vector search for standard greetings while routing domain questions to the RAG pipeline. |
+| 🔍 **Hybrid Retrieval Engine** | Combines **Dense Vector Search** (NVIDIA `nv-embed-v1` / Pinecone) + **Sparse Lexical Search** (BM25) via **Reciprocal Rank Fusion (RRF)**. |
+| 🎯 **Cross-Encoder Reranking** | Re-scores RRF candidates using neural cross-encoders to ensure highest-relevance evidence reaches the context window. |
+| 🛡️ **Confidence-Based Guardrails** | Multi-tier validation: High-confidence answers deliver grounded RAG context; low-confidence queries trigger safe general LLM fallbacks. |
+| 📄 **Automated Materialization** | Discovers, downloads, parses, and embeds official documents linked within district web pages. |
+| 🔄 **Resumable Ingestion** | Full web crawler (`Crawl4AI`) featuring checkpoint recovery, rate limiting, and structure-aware markdown parsing. |
+
+---
+
+## 🏗️ System Architecture & Flow
+
+```mermaid
+flowchart TD
+    subgraph Channels ["📱 Citizen Touchpoints"]
+        TG["Telegram Bot"]
+        WA["WhatsApp (OpenWA)"]
+        API_CLIENT["REST API Clients"]
+    end
+
+    subgraph Core ["⚡ FastAPI RAG Backend"]
+        ROUTER["Intent & Language Router"]
+        FAST_PATH["Fast Conversational Handler"]
+        QA["Query Analysis & Entity Extraction"]
+        
+        subgraph Retrieval ["🔍 Hybrid Search Engine"]
+            DENSE["Dense Search (Pinecone)"]
+            SPARSE["Sparse Search (BM25)"]
+            RRF["Reciprocal Rank Fusion"]
+            RERANK["Cross-Encoder Reranker"]
+        end
+        
+        CG["Confidence Gate"]
+        LLM["LLM Synthesis (NVIDIA Llama 3.1 70B)"]
+        FMT["Response & Document Formatter"]
+    end
+
+    subgraph Data ["💾 Data Stores & Ingestion"]
+        POSTGRES[(PostgreSQL 16)]
+        REDIS[(Redis Cache)]
+        PINE[(Pinecone Vector DB)]
+        INGEST["Ingestion Orchestrator (Crawl4AI)"]
+        SITE["westtripura.nic.in"]
+    end
+
+    TG --> ROUTER
+    WA --> ROUTER
+    API_CLIENT --> ROUTER
+
+    ROUTER -- Greeting / Casual --> FAST_PATH
+    ROUTER -- Public Query --> QA
+    
+    QA --> DENSE & SPARSE
+    DENSE --> RRF
+    SPARSE --> RRF
+    RRF --> RERANK
+    RERANK --> CG
+
+    CG -- High Confidence --> LLM
+    CG -- Low Confidence --> FMT
+    LLM --> FMT
+    FMT --> TG & WA & API_CLIENT
+
+    INGEST -- Crawl & Parse --> SITE
+    INGEST -- Store Chunks & Embeddings --> PINE
+```
+
+---
+
+## 📂 Repository Structure
 
 ```text
 west-tripura-testing/
+├── backend/                         # Core FastAPI Web Application
+│   ├── main.py                      # Application Entrypoint
+│   ├── api/v1/                      # REST Endpoints (RAG, Ingestion, Health)
+│   ├── core/                        # Application Config & Settings
+│   ├── db/                          # Database Connections & ORM Models
+│   ├── middleware/                  # Auth, Logging, & Rate Limiting
+│   ├── schemas/                     # Pydantic Schemas & DTOs
+│   └── services/                    # Business Logic Layer
+│       ├── confidence_service.py    # Grounding & Verification Logic
+│       ├── document_resolver.py     # Document Matching & Link Resolver
+│       ├── intent_router.py         # Fast Path & Query Classification
+│       ├── query_analysis.py        # Entity & Keyword Extraction
+│       ├── rag_service.py           # RAG Pipeline Orchestrator
+│       ├── reranker_service.py      # Neural Cross-Encoder Reranking
+│       ├── retrieval_service.py     # Hybrid Dense + Sparse Search Engine
+│       └── providers/               # Abstracted Modular Service Providers
+│           ├── bm25_retriever.py    # Local Sparse Keyword Search
+│           ├── embedding.py         # NVIDIA / OpenAI / BGE Embeddings
+│           ├── llm.py               # NVIDIA Llama 3.1 70B / OpenAI LLM
+│           └── vector_store.py      # Pinecone / Qdrant Integration
 │
-├── backend/                         # FastAPI application
-│   ├── main.py                      # API entry point
-│   ├── core/                        # Configuration and app setup
-│   ├── api/v1/                      # REST endpoints
-│   ├── schemas/                     # Pydantic request/response models
-│   ├── services/                    # RAG business logic
-│   │   ├── intent_router.py
-│   │   ├── query_analysis.py
-│   │   ├── retrieval_service.py
-│   │   ├── reranker_service.py
-│   │   ├── confidence_service.py
-│   │   ├── response_formatter.py
-│   │   ├── document_resolver.py
-│   │   ├── rag_service.py
-│   │   └── providers/
-│   │       ├── embedding.py
-│   │       ├── llm.py
-│   │       ├── vector_store.py
-│   │       └── bm25_retriever.py
-│   └── middleware/                  # Auth, logging, rate limiting
+├── src/ingestion/                   # Knowledge Base Ingestion Pipeline
+│   ├── auto_ingest.py               # Master One-Command Ingestion CLI
+│   ├── crawler.py                   # Crawl4AI District Web Crawler
+│   ├── materialize_documents.py     # Document Discovery & Materializer
+│   ├── embed_and_load.py            # Vector Index Builder
+│   └── core/                        # Preprocessing & Semantic Chunker
 │
-├── src/ingestion/                   # Knowledge-base ingestion
-│   ├── crawler.py                   # Crawl4AI website crawler
-│   ├── auto_ingest.py               # One-command full refresh
-│   ├── materialize_documents.py     # Discover/download document assets
-│   ├── embed_and_load.py            # Embeddings + Pinecone loading
-│   ├── build_chunks.py              # Chunking CLI
-│   ├── core/
-│   │   ├── preprocess_documents.py
-│   │   ├── production_chunker.py
-│   │   ├── document_builder.py
-│   │   └── config.py
-│   └── ...
-│
-├── output/                          # Runtime crawl/document data (ignored by Git)
-├── processed_documents/             # Runtime processed documents (ignored)
-├── processed_chunks/                # Runtime chunks (ignored)
-│
-├── telegram_bot.py                  # Telegram interface
-├── whatsapp_bot.py                  # OpenWA/WhatsApp interface
-├── docker-compose.yml               # API + Telegram + WhatsApp + data services
-├── Dockerfile                       # Application container
-├── requirements.txt                  # Lightweight API/runtime dependencies
-├── requirements-ingestion.txt       # Crawl/document ingestion dependencies
-├── .env.example                     # Safe environment variable template
+├── telegram_bot.py                  # Telegram Interface Service
+├── whatsapp_bot.py                  # OpenWA WhatsApp Gateway Interface
+├── docker-compose.yml               # Production Container Orchestration
+├── Dockerfile                       # Python Application Docker Image
+├── requirements.txt                  # Production Runtime Dependencies
+├── requirements-ingestion.txt       # Ingestion & Scraping Dependencies
 └── README.md
 ```
 
 ---
 
-# 🧠 RAG Architecture
+## 🛠️ Technical Stack
 
-## Online query path
-
-```text
-Citizen
-  ↓
-Intent + language analysis
-  ↓
-Fast path for simple conversation
-  ↓
-Query analysis / entity detection
-  ↓
-Dense search + BM25
-  ↓
-RRF fusion
-  ↓
-Reranking
-  ↓
-Confidence gate
-  ├── official grounded answer
-  ├── broader retrieval retry
-  └── safe general-LLM fallback
-  ↓
-Response formatting
-  ↓
-Source + document links
-  ↓
-Telegram / WhatsApp / API
-```
-
-## Offline ingestion path
-
-```text
-westtripura.nic.in
-        ↓
-      Crawl4AI
-        ↓
-  Pages + document links
-        ↓
-Document download/extraction
-        ↓
-Preprocessing + metadata
-        ↓
-Production semantic chunking
-        ↓
-Embeddings
-        ↓
-Pinecone
-        +
-BM25 local index
-        ↓
-Ready for citizen queries
-```
+- **Backend Framework**: [FastAPI](https://fastapi.tiangolo.com/) (Python 3.12, Uvicorn, Pydantic v2)
+- **Database**: [PostgreSQL 16](https://www.postgresql.org/) (AsyncPG, SQLAlchemy ORM)
+- **Caching & Rate Limiting**: [Redis 7](https://redis.io/)
+- **Vector Database**: [Pinecone](https://www.pinecone.io/) (Dense embeddings: `nv-embed-v1`, 4096 dimensions)
+- **Large Language Model**: NVIDIA API Catalog ([Meta Llama-3.1-70B-Instruct](https://build.nvidia.com/meta/llama-3_1-70b-instruct))
+- **Web Crawler**: [Crawl4AI](https://github.com/unclecode/crawl4ai)
+- **Messaging Gateways**: Telegram Bot API (`python-telegram-bot`), OpenWA WhatsApp Engine
 
 ---
 
-# 🧾 Document Ingestion Details
+## 🚀 Quick Start & Deployment
 
-The crawler starts from:
+### Prerequisites
+- [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/install/)
+- NVIDIA API Key / Pinecone API Key (configured in `.env`)
 
-```text
-https://westtripura.nic.in/
-```
-
-The crawler is configured for:
-
-- BFS/deep crawling
-- internal-domain crawling
-- crash/resume checkpoints
-- retries
-- rate/politeness delay
-- clean Markdown extraction
-- page manifests
-
-The current crawler implementation writes page content into `output/pages/` and keeps a crawl manifest/checkpoint for recovery.
-
-Document assets discovered from official pages are materialized into runtime storage under:
-
-```text
-output/documents/
-```
-
-The extracted document content is then turned into searchable material and ultimately embedded into the configured vector index.
-
----
-
-# 🧩 Chunking Strategy
-
-Government pages contain paragraphs, headings, lists, procedures, and tables. The production chunker therefore prefers document structure over blind character splitting.
-
-Typical settings:
-
-```text
-Target tokens   : 550
-Maximum tokens  : 700
-Minimum tokens  : 100
-Overlap tokens   : 60
-```
-
-Chunks preserve heading hierarchy and document metadata so that a retrieved answer can keep useful context such as:
-
-```text
-Department
-  → Service
-      → Procedure
-          → Required documents
-```
-
----
-
-# 🔎 Retrieval & Ranking
-
-The current retrieval layer combines:
-
-### Dense retrieval
-Semantic similarity from the configured embedding provider.
-
-### BM25
-Keyword-oriented retrieval for exact names, acronyms, forms, phone numbers, and other lexical matches.
-
-### RRF
-Reciprocal Rank Fusion combines the dense and sparse result lists.
-
-### Reranking
-The candidate pool can be reranked with a neural CrossEncoder. If the neural reranker is unavailable, the application has a lightweight fallback.
-
-### Context expansion
-Retrieved chunks can be expanded through related chunks in the same document/section.
-
----
-
-# 🛡️ Grounding and Safety
-
-Official government answers follow these principles:
-
-1. Use verified retrieved context.
-2. Never invent official facts.
-3. Prefer explicit uncertainty over a fabricated answer.
-4. Include source information when available.
-5. Keep general LLM answers separate from official grounded answers.
-
-The response includes internal information such as mode/grounding/confidence for debugging and evaluation.
-
----
-
-# 📄 Document Delivery
-
-A citizen may receive both:
-
-```text
-Answer
-+
-Official source page
-+
-Direct official document link (when discovered)
-```
-
-This is especially useful for:
-
-- forms
-- application documents
-- notifications
-- recruitment notices
-- tenders
-- reports
-- certificates/service-related forms
-
-The system **does not require the document binary to be committed to Git**. Runtime downloads stay under ignored output storage.
-
----
-
-# 🐳 Docker Services
-
-The main Compose stack contains services for:
-
-```text
-PostgreSQL
-Redis
-FastAPI API
-Telegram bot
-OpenWA WhatsApp gateway
-WhatsApp bot
-OpenWA bootstrap
-Docker socket proxy
-```
-
-Start the stack:
+### 1. Clone & Configure Environment
 
 ```bash
-docker compose up -d
+git clone https://github.com/your-org/west-tripura-rag.git
+cd west-tripura-rag/west-tripura-testing
+
+# Copy sample environment configuration
+cp .env.example .env
 ```
 
-Check services:
+Edit `.env` to set your credentials:
+```ini
+# Core AI Credentials
+NV_API_KEY=nvapi-...
+PINECONE_API_KEY=pcsk_...
+PINECONE_INDEX_NAME=west-tripura
+
+# Channels
+TELEGRAM_BOT_TOKEN=...
+OPENWA_API_KEY=...
+```
+
+### 2. Start the Docker Container Stack
+
+Launch all services (PostgreSQL, Redis, API, Telegram Bot, WhatsApp Gateway, Docker Proxy):
+
+```bash
+docker compose up -d --build
+```
+
+### 3. Verify Container Health
 
 ```bash
 docker compose ps
 ```
 
-View API logs:
-
-```bash
-docker compose logs -f api
+Expected output:
+```text
+NAME                     IMAGE                             STATUS
+rag-api                  west-tripura-testing-api          Up (healthy)
+rag-postgres             postgres:16-alpine                Up (healthy)
+rag-redis                redis:7-alpine                    Up (healthy)
+rag-telegram             west-tripura-testing-telegram     Up
+rag-whatsapp             west-tripura-testing-whatsapp     Up
+openwa-api               openwa-openwa-api:latest          Up (healthy)
 ```
 
-View Telegram logs:
-
+Test the API health endpoint:
 ```bash
-docker compose logs -f telegram
-```
-
-View WhatsApp logs:
-
-```bash
-docker compose logs -f whatsapp
+curl http://localhost:8001/health
 ```
 
 ---
 
-# 🧪 Local Development / API Testing
+## 🔄 Knowledge Base Ingestion Pipeline
 
-The API exposes Swagger documentation.
+To populate or refresh the RAG system with the latest content from [https://westtripura.nic.in/](https://westtripura.nic.in/):
 
-With the current Compose mapping:
+### Run Full Ingestion (One Command)
 
-```text
-http://localhost:8001/docs
+```bash
+# Install ingestion dependencies locally or inside a virtual environment
+pip install -r requirements-ingestion.txt
+
+# Execute automatic end-to-end crawl & vector build
+python src/ingestion/auto_ingest.py
 ```
 
-For direct RAG testing, use the `/chat` or `/query` endpoint shown by the running Swagger schema.
+### Advanced Ingestion Options
 
-Example citizen query:
+```bash
+# Resume an interrupted crawl from stored checkpoint
+python src/ingestion/auto_ingest.py --resume
 
+# Perform a clean rebuild (clears existing Pinecone index vectors first)
+python src/ingestion/auto_ingest.py --clear-index
+```
+
+---
+
+## 📡 API Reference
+
+Interactive API documentation (Swagger UI) is accessible at:  
+👉 **`http://localhost:8001/docs`**
+
+### Primary Endpoints
+
+| Method | Endpoint | Description |
+| :--- | :--- | :--- |
+| `GET` | `/health` | Service status, database, Redis, vector DB, and model health checks. |
+| `POST` | `/api/v1/rag/chat` | Main conversational RAG endpoint for citizen questions. |
+| `POST` | `/api/v1/rag/query` | Direct retrieval endpoint returning chunks, scores, and sources. |
+| `POST` | `/api/v1/ingestion/trigger` | Triggers background site ingestion asynchronously. |
+
+#### Example Query Request
 ```json
+POST /api/v1/rag/chat
 {
-  "query": "How can I get a PRTC certificate and what documents are required?",
-  "top_k": 5,
-  "session_id": "test-001"
+  "query": "How can I apply for PRTC certificate in West Tripura?",
+  "session_id": "citizen-session-101",
+  "language": "en"
 }
 ```
 
-Useful test categories:
-
-```text
-1. Greetings
-2. English government questions
-3. Bengali questions
-4. Benglish questions
-5. Long procedure questions
-6. Contact/phone/address questions
-7. Document/form requests
-8. Follow-up questions
-9. Out-of-domain general knowledge
-10. Deliberately unavailable official facts
+#### Example Grounded Response
+```json
+{
+  "answer": "To apply for Permanent Resident Certificate (PRTC) in West Tripura, submit the required application form along with proof of residence and identity to the Sub-Divisional Magistrate (SDM) office...",
+  "sources": [
+    {
+      "title": "PRTC Service Details - West Tripura",
+      "url": "https://westtripura.nic.in/service/prtc/"
+    }
+  ],
+  "documents": [
+    {
+      "title": "PRTC Application Form",
+      "document_type": "PDF",
+      "url": "https://westtripura.nic.in/forms/prtc_form.pdf"
+    }
+  ],
+  "confidence": "high",
+  "grounded": true
+}
 ```
 
 ---
 
-# 🔄 Keeping the Knowledge Base Updated
+## 🧑‍💻 Operator Runbook (NIC / System Admins)
 
-For a fresh official-site refresh:
+For operators managing system lifecycle and knowledge updates:
 
-```bash
-pip install -r requirements-ingestion.txt
-python src/ingestion/auto_ingest.py
-```
+1. **Scheduled Knowledge Refresh**: Set up a weekly cron job to execute `auto_ingest.py`.
+2. **Monitoring Logs**:
+   ```bash
+   # API logs
+   docker compose logs -f api
 
-If the crawl is interrupted:
+   # WhatsApp Gateway logs
+   docker compose logs -f whatsapp
 
-```bash
-python src/ingestion/auto_ingest.py --resume
-```
-
-After ingestion, the expected runtime artifacts are:
-
-```text
-output/pages/
-output/documents/
-processed_documents/
-processed_chunks/
-```
-
-and updated vectors in Pinecone.
-
-> Keep ingestion credentials in `.env`. Do not commit `.env` or downloaded runtime data.
+   # Telegram Bot logs
+   docker compose logs -f telegram
+   ```
+3. **Database Maintenance**: PostgreSQL data is persisted under the Docker volume `postgres_data`. WhatsApp session authentication persists under `openwa_data`.
 
 ---
 
-# ⚙️ Environment Configuration
+## 🔧 Troubleshooting & Support
 
-Start from:
-
-```bash
-cp .env.example .env
-```
-
-Typical configuration includes:
-
-```ini
-TELEGRAM_BOT_TOKEN=...
-PINECONE_API_KEY=...
-PINECONE_INDEX_NAME=...
-NV_API_KEY=...
-REDIS_URL=redis://redis:6379/0
-DATABASE_URL=postgresql+asyncpg://postgres:postgres@postgres:5432/ragplatform
-OPENWA_API_KEY=...
-```
-
-The exact settings and provider choices are controlled by the project's `.env` / configuration classes.
+| Symptom | Cause | Resolution |
+| :--- | :--- | :--- |
+| `rag-api` unhealthy | Missing/invalid API keys | Check `docker logs rag-api` and verify `NV_API_KEY` and `PINECONE_API_KEY` in `.env`. |
+| WhatsApp bot disconnected | Session expired | Access OpenWA dashboard on port `2785` or check `docker logs rag-whatsapp`. |
+| No documents returned | Source page lacks links | Verify if the official web page hosts downloadable links. The crawler cannot invent missing assets. |
 
 ---
 
-# 🔧 Troubleshooting
+## 📜 License
 
-## Docker cannot pull `python:3.12-slim`
-
-Test Docker Hub connectivity:
-
-```bash
-docker pull python:3.12-slim
-```
-
-If the error mentions `auth.docker.io` DNS resolution, check the host DNS resolver and restart Docker Desktop after DNS is repaired.
-
-## API container starts but RAG fails
-
-Check:
-
-```bash
-docker compose logs -f api
-```
-
-Then verify:
-
-- Pinecone credentials
-- embedding provider credentials
-- LLM provider credentials
-- Redis connectivity
-- expected vector index name/dimension
-
-## Search returns no useful results
-
-Run the retrieval endpoint from Swagger and inspect:
-
-- rewritten/retrieval query
-- result titles
-- scores
-- sections
-- source URLs
-- timing
-
-Then verify that the latest ingestion has actually been run.
-
-## A document is not returned
-
-Check whether the official page actually exposes a downloadable document link. If the website does not publish the document, the crawler cannot invent or manufacture it.
-
----
-
-# 🧑‍💻 For NIC / Local Operators
-
-Recommended operational workflow:
-
-```text
-1. Pull latest code
-2. Configure .env
-3. Run the crawler/ingestion pipeline
-4. Verify downloaded documents
-5. Verify processed chunks
-6. Verify Pinecone vector count
-7. Start Docker services
-8. Test Swagger / Telegram / WhatsApp
-9. Inspect logs and retrieval traces
-```
-
-Daily/weekly refresh can be run by scheduling:
-
-```bash
-python src/ingestion/auto_ingest.py
-```
-
-Before a production refresh, inspect the crawl logs and document count so a website-side failure does not silently replace a healthy knowledge base with an incomplete one.
-
----
-
-# 📚 Additional Documentation
-
-More detailed backend documentation is available in:
-
-```text
-backend/README.md
-```
-
-This file contains a deeper explanation of:
-
-- FastAPI routes
-- provider interfaces
-- database models
-- middleware
-- API endpoints
-- authentication
-- environment settings
-- backend request flow
-
----
-
-# ⚠️ Current Scope
-
-The knowledge base is primarily grounded in official West Tripura district content and official documents discovered from that content.
-
-Not every citizen service is necessarily published directly on `westtripura.nic.in`. For services hosted by another official Tripura department/municipality/e-District system, the correct next step is to add those **approved official sources** to the ingestion scope rather than making unsupported claims.
-
-Birth-certificate, marriage-registration, municipal, and other services may therefore require additional official Tripura sources if the district portal does not publish the required procedure or document.
-
----
-
-# 📜 License / Usage
-
-Use this project according to the repository's licensing and the applicable policies for the official government source data being crawled.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details. Developed for the public interest of West Tripura citizens.

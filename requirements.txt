@@ -31,6 +31,9 @@ bcrypt>=4.0.0
 openai>=1.0.0
 pinecone>=3.0.0
 httpx>=0.27.0
+# Force CPU-only PyTorch to prevent downloading 5GB+ of CUDA wheels
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 # Optional neural reranker; lexical fallback remains available.
 sentence-transformers>=3.0.0
 

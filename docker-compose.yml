@@ -223,6 +223,7 @@ volumes:
   output_data:
   openwa_data:
     name: openwa_openwa-data
+    external: true
 
 networks:
   default:
