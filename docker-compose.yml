@@ -84,7 +84,74 @@ services:
       disable: true
     restart: unless-stopped
 
+  # ── OpenWA WhatsApp Gateway ────────────────────────────────────────────
+  # Persistent WhatsApp session: auth data survives container restarts
+  # via the openwa_data volume + AUTO_START_SESSIONS=true in .env.openwa.
+  # Image is built locally from ~/coding/OpenWA — not a public registry pull.
+  openwa:
+    image: openwa-openwa-api:latest
+    container_name: openwa-api
+    stop_grace_period: 45s
+    security_opt:
+      - 'no-new-privileges:true'
+    cap_drop:
+      - ALL
+    cap_add:
+      - CHOWN
+      - DAC_OVERRIDE
+      - FOWNER
+      - SETGID
+      - SETUID
+    read_only: true
+    tmpfs:
+      - /tmp
+    pids_limit: 2048
+    mem_limit: 2g
+    ports:
+      - "127.0.0.1:2785:2785"
+    expose:
+      - "2785"
+    environment:
+      - NODE_ENV=production
+      - HOME=/tmp
+      - XDG_CONFIG_HOME=/tmp/.config
+      - XDG_CACHE_HOME=/tmp/.cache
+      - PORT=2785
+      - LOG_LEVEL=info
+      - ENGINE_TYPE=baileys
+      - AUTO_START_SESSIONS=true
+      - SESSION_DATA_PATH=/app/data/sessions
+      - STORAGE_TYPE=local
+      - STORAGE_LOCAL_PATH=/app/data/media
+      - REDIS_ENABLED=false
+      - WEBHOOK_TIMEOUT=10000
+      - WEBHOOK_RETRY_DELAY=5000
+      - WEBHOOK_SSRF_PROTECT=false
+      - SSRF_ALLOWED_HOSTS=rag-whatsapp,whatsapp
+      - SERVE_DASHBOARD=true
+      - API_MASTER_KEY=${OPENWA_API_KEY:-owa_k1_3402c841e8eaef19ca0fccce89d07d9520ee8aec6f582e2fd0c56dba3bccbb96}
+      - DOCKER_HOST=tcp://docker-proxy:2375
+    volumes:
+      - openwa_data:/app/data
+    networks:
+      - default
+      - openwa-internal
+    restart: unless-stopped
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "node",
+          "-e",
+          "require('http').get('http://localhost:2785/api/health/ready', (r) => process.exit(r.statusCode === 200 ? 0 : 1))"
+        ]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+
   # ── WhatsApp Bot ───────────────────────────────────────────────────────
+  # Receives OpenWA webhooks on :9000, routes to RAG API, sends reply
   whatsapp:
     build:
       context: .
@@ -94,7 +161,7 @@ services:
       - .env
     environment:
       API_BASE_URL: http://api:8000
-      OPENWA_BASE_URL: http://openwa-api:2785
+      OPENWA_BASE_URL: http://openwa:2785
       OPENWA_API_KEY: ${OPENWA_API_KEY:-owa_k1_3402c841e8eaef19ca0fccce89d07d9520ee8aec6f582e2fd0c56dba3bccbb96}
       OPENWA_SESSION_ID: ${OPENWA_SESSION_ID:-bot}
       WEBHOOK_URL: http://rag-whatsapp:9000/webhook
@@ -106,19 +173,59 @@ services:
     depends_on:
       api:
         condition: service_healthy
-    networks:
-      - default
-      - openwa-network
+      openwa:
+        condition: service_healthy
     restart: unless-stopped
+
+  # ── OpenWA Bootstrap (init container) ──────────────────────────────────
+  # Runs once: ensures session + webhook exist, then exits 0.
+  # Safe to run repeatedly (idempotent — won't duplicate webhooks).
+  openwa-bootstrap:
+    image: curlimages/curl:latest
+    container_name: openwa-bootstrap
+    env_file:
+      - .env
+    environment:
+      OPENWA_BASE_URL: http://openwa:2785
+      WEBHOOK_TARGET_URL: http://rag-whatsapp:9000/webhook
+    volumes:
+      - ./scripts:/scripts:ro
+    entrypoint: ["/bin/sh", "/scripts/openwa-bootstrap.sh"]
+    depends_on:
+      openwa:
+        condition: service_healthy
+      api:
+        condition: service_healthy
+    restart: "no"
+
+  # ── Docker Socket Proxy (required by OpenWA) ────────────────────────────
+  # Provides restricted Docker API access for OpenWA's infrastructure management.
+  docker-proxy:
+    image: tecnativa/docker-socket-proxy:v0.4.2
+    container_name: openwa-docker-proxy
+    restart: unless-stopped
+    networks:
+      - openwa-internal
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    environment:
+      CONTAINERS: 1
+      IMAGES: 1
+      VOLUMES: 1
+      INFO: 1
+      PING: 1
+      POST: 1
 
 volumes:
   postgres_data:
   redis_data:
   uploads_data:
   output_data:
+  openwa_data:
+    name: openwa_openwa-data
 
 networks:
   default:
-  openwa-network:
-    external: true
-    name: openwa-network
+  openwa-internal:
+    name: openwa-internal-docker
+    internal: true

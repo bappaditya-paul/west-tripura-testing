@@ -20,7 +20,7 @@ from fastapi.responses import JSONResponse
 import uvicorn
 
 # ── Environment & Settings ──────────────────────────────────────────────────
-OPENWA_BASE_URL = os.getenv("OPENWA_BASE_URL", "http://openwa-api:2785").rstrip("/")
+OPENWA_BASE_URL = os.getenv("OPENWA_BASE_URL", "http://openwa:2785").rstrip("/")
 OPENWA_API_KEY = os.getenv(
     "OPENWA_API_KEY",
     "owa_k1_3402c841e8eaef19ca0fccce89d07d9520ee8aec6f582e2fd0c56dba3bccbb96"

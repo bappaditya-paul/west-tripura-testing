@@ -25,6 +25,7 @@ RUN groupadd -r appuser && useradd -r -g appuser -d /app -s /sbin/nologin appuse
 COPY backend/ backend/
 COPY src/ src/
 COPY telegram_bot.py .
+COPY whatsapp_bot.py .
 
 # ── Create required data directories ────────────────────────────────────
 RUN mkdir -p uploads output output/chunks processed_documents processed_chunks && \

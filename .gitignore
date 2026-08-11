@@ -1,5 +1,6 @@
 # Secrets — never commit
 .env
+.env.openwa
 
 # Python virtual env & cache
 __pycache__/
