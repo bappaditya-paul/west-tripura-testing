@@ -25,30 +25,45 @@ def run(cmd: list[str]) -> None:
     subprocess.run(cmd, cwd=ROOT, check=True)
 
 
+def module_cmd(module: str, *args: str) -> list[str]:
+    """Run a repository module so src.* imports resolve reliably."""
+    return [PYTHON, "-m", module, *args]
+
+
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Crawl, collect documents, chunk, embed and index West Tripura data.")
+    parser = argparse.ArgumentParser(
+        description="Crawl, collect documents, chunk, embed and index West Tripura data."
+    )
     parser.add_argument("--resume", action="store_true", help="Resume the Crawl4AI crawl from its checkpoint.")
     parser.add_argument("--force-embed", action="store_true", help="Force re-embedding instead of reusing cached embeddings.")
     parser.add_argument("--clear-index", action="store_true", help="Delete the existing Pinecone vectors before loading. Use only for a full rebuild.")
     parser.add_argument("--min-tokens", type=int, default=30)
     args = parser.parse_args()
 
-    run([PYTHON, "src/ingestion/crawler.py", *( ["--resume"] if args.resume else [] )])
-    run([PYTHON, "src/ingestion/materialize_documents.py"])
+    # Use -m for all src modules. Executing files by path (for example,
+    # python src/ingestion/crawler.py) removes the repository root from
+    # Python's import search path and breaks imports such as src.ingestion.*.
+    crawl_args = ["--resume"] if args.resume else []
+    run(module_cmd("src.ingestion.crawler", *crawl_args))
+
+    run(module_cmd("src.ingestion.materialize_documents"))
     run([
         PYTHON,
         "-c",
         "from src.ingestion.core.preprocess_documents import preprocess_directory; print(preprocess_directory('output/pages', 'processed_documents'))",
     ])
-    run([
-        PYTHON,
-        "src/ingestion/build_chunks.py",
+    run(module_cmd(
+        "src.ingestion.build_chunks",
         "--docs", "processed_documents",
         "--out", "processed_chunks",
         "--engine", "production",
-    ])
+    ))
 
-    embed_cmd = [PYTHON, "src/ingestion/embed_and_load.py", "--chunks-dir", str(ROOT / "processed_chunks"), "--min-tokens", str(args.min_tokens)]
+    embed_cmd = module_cmd(
+        "src.ingestion.embed_and_load",
+        "--chunks-dir", str(ROOT / "processed_chunks"),
+        "--min-tokens", str(args.min_tokens),
+    )
     if args.force_embed:
         # embed_and_load always recomputes vectors; this flag is kept for CLI compatibility.
         print("Note: embed_and_load recomputes embeddings for the current chunk corpus.")
