@@ -1,18 +1,18 @@
 """
 backend/schemas/rag.py
 ======================
-Pydantic schemas for /search (retrieval debugging) and /chat (RAG query).
+Pydantic schemas for /search and citizen /chat.
 """
 
 from __future__ import annotations
 
-from typing import Optional, List, Dict, Any
+from typing import Optional, List
 from pydantic import BaseModel, Field
 
 
 class SearchRequest(BaseModel):
     query: str = Field(..., min_length=1, description="User search query (English, Bengali, Benglish)")
-    top_k: int = Field(default=5, ge=1, le=20, description="Number of results to retrieve")
+    top_k: int = Field(default=5, ge=1, le=20)
 
 
 class SearchResultItem(BaseModel):
@@ -23,7 +23,7 @@ class SearchResultItem(BaseModel):
     section: Optional[str] = None
     url: Optional[str] = None
     content: str
-    source: str = "hybrid_rrf"  # pinecone, bm25, or hybrid_rrf
+    source: str = "hybrid_rrf"
 
 
 class SearchTiming(BaseModel):
@@ -32,6 +32,7 @@ class SearchTiming(BaseModel):
     pinecone_ms: float = 0.0
     bm25_ms: float = 0.0
     fusion_ms: float = 0.0
+    search_ms: float = 0.0
     total_ms: float = 0.0
 
 
@@ -50,15 +51,25 @@ class SourceCitation(BaseModel):
     chunk_id: Optional[str] = None
 
 
+class DocumentLink(BaseModel):
+    title: str
+    url: str
+    document_type: str
+
+
 class ChatRequest(BaseModel):
     query: str = Field(..., min_length=1, description="Citizen question")
-    top_k: int = Field(default=5, ge=1, le=20, description="Number of chunks to retrieve for context")
-    session_id: Optional[str] = Field(default=None, description="Optional conversation session identifier")
+    top_k: int = Field(default=5, ge=1, le=20)
+    session_id: Optional[str] = None
 
 
 class ChatResponse(BaseModel):
     answer: str
     sources: List[SourceCitation]
+    documents: List[DocumentLink] = []
+    mode: str = "official_rag"
+    grounded: bool = False
+    confidence: Optional[float] = None
     retrieval_query: Optional[str] = None
     timing_ms: float = 0.0
     session_id: Optional[str] = None
