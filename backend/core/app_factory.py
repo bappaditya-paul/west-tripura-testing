@@ -86,26 +86,11 @@ def create_app() -> FastAPI:
 
     # ── Register API Routers ─────────────────────────────────────────────
     from backend.api.v1.health import router as health_router
-    from backend.api.v1.auth import router as auth_router
-    from backend.api.v1.projects import router as projects_router
-    from backend.api.v1.documents import router as documents_router
-    from backend.api.v1.crawl import router as crawl_router
-    from backend.api.v1.embeddings import router as embeddings_router
-    from backend.api.v1.search import router as search_router
-    from backend.api.v1.chat import router as chat_router
-    from backend.api.v1.admin import router as admin_router
-    from backend.api.v1.feedback import router as feedback_router
+    from backend.api.v1.ingestion import router as ingestion_router
+    from backend.api.v1.rag import router as rag_router
 
-    prefix = settings.API_V1_PREFIX
     app.include_router(health_router)
-    app.include_router(auth_router, prefix=prefix, tags=["Authentication"])
-    app.include_router(projects_router, prefix=prefix, tags=["Projects"])
-    app.include_router(documents_router, prefix=prefix, tags=["Documents"])
-    app.include_router(crawl_router, prefix=prefix, tags=["Crawler"])
-    app.include_router(embeddings_router, prefix=prefix, tags=["Embeddings"])
-    app.include_router(search_router, prefix=prefix, tags=["Search & Query"])
-    app.include_router(chat_router, prefix=prefix, tags=["Chat"])
-    app.include_router(feedback_router, prefix=prefix, tags=["Feedback & Evaluation"])
-    app.include_router(admin_router, prefix=prefix, tags=["Admin"])
+    app.include_router(ingestion_router)
+    app.include_router(rag_router)
 
     return app

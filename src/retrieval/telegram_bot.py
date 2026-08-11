@@ -66,40 +66,69 @@ async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
     await update.message.reply_text(welcome_text, parse_mode="Markdown")
 
 
+GREETINGS = {"hi", "hello", "hey", "namaste", "good morning", "good evening", "নমস্কার", "হাই", "হ্যালো", "নমস্কার।"}
+
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Receive text queries, request answers from the RAG engine, and reply."""
     user_query = update.message.text
     if not user_query:
         return
 
+    clean_q = user_query.strip().lower()
     logger.info(f"Received query from user {update.effective_user.id}: {user_query}")
-    
-    # Send a typing indicator to let user know bot is working
+
+    # 1. Immediate friendly handling for simple greetings
+    if clean_q in GREETINGS or clean_q.rstrip(".!") in GREETINGS:
+        is_bengali = any(ord(char) >= 0x0980 and ord(char) <= 0x09FF for char in user_query)
+        if is_bengali:
+            greeting_resp = (
+                "👋 **নমস্কার!** আমি পশ্চিম ত্রিপুরা জেলা তথ্য সহকারী।\n\n"
+                "আমি আপনাকে জেলা প্রশাসন, অফিসের সময়সূচী, ডিএম/এসডিএম অফিস নির্দেশিকা, "
+                "নিয়োগ এবং সরকারি পরিষেবা সম্পর্কিত তথ্যে সহায়তা করতে পারি।\n\n"
+                "💡 যেকোনো প্রশ্ন নিচে টাইপ করুন! (যেমন: *পশ্চিম ত্রিপুরার ডিএম কে?*)"
+            )
+        else:
+            greeting_resp = (
+                "👋 **Hello!** I am the West Tripura District Information Assistant.\n\n"
+                "How can I help you today? You can ask me about district offices, DM/SDM guidelines, "
+                "employee lists, recruitment notifications, or government services in West Tripura.\n\n"
+                "💡 Type your question below! (e.g. *Who is the DM of West Tripura?*)"
+            )
+        await update.message.reply_text(greeting_resp, parse_mode="Markdown")
+        return
+
+    # 2. Send typing indicator
     await context.bot.send_chat_action(chat_id=update.effective_chat.id, action="typing")
 
     try:
-        # Run RAG answer generation
-        result = pipeline.answer(user_query)
+        # Run RAGService answer generation with RRF Hybrid Retrieval & Benglish Query Normalization
+        from backend.services.rag_service import get_rag_service
+        rag_service = get_rag_service()
+        
+        result = await rag_service.answer(query=user_query, top_k=5)
         answer = result["answer"]
-        references = result["references"]
+        sources = result.get("sources", [])
 
-        # If there are references, append them to the answer
-        if references:
+        # If there are sources, append formatted source list
+        if sources:
             ref_lines = []
-            for i, ref in enumerate(references):
-                title = ref.get("title") or "Document"
-                section = ref.get("section")
-                url = ref.get("url")
-                if section:
-                    ref_text = f"📍 [{section} - {title}]({url})"
-                else:
-                    ref_text = f"📍 [{title}]({url})"
-                ref_lines.append(ref_text)
+            for src in sources:
+                title = src.get("title") or "West Tripura Document"
+                section = src.get("section")
+                url = src.get("url")
+                if url:
+                    if section:
+                        ref_text = f"📍 [{section} - {title}]({url})"
+                    else:
+                        ref_text = f"📍 [{title}]({url})"
+                    ref_lines.append(ref_text)
             
-            # Simple multilingual references header
-            is_bengali = any(ord(char) >= 0x0980 and ord(char) <= 0x09FF for char in user_query)
-            ref_header = "\n\n📖 **Verified Sources / উৎসসমূহ:**\n" if is_bengali else "\n\n📖 **Verified Sources:**\n"
-            answer_with_sources = answer + ref_header + "\n".join(ref_lines)
+            if ref_lines:
+                is_bengali = any(ord(char) >= 0x0980 and ord(char) <= 0x09FF for char in user_query)
+                ref_header = "\n\n📖 **Verified Sources / উৎসসমূহ:**\n" if is_bengali else "\n\n📖 **Verified Sources:**\n"
+                answer_with_sources = answer + ref_header + "\n".join(ref_lines)
+            else:
+                answer_with_sources = answer
         else:
             answer_with_sources = answer
 
@@ -110,7 +139,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
             disable_web_page_preview=True
         )
     except Exception as e:
-        logger.error(f"Error handling message: {e}")
+        logger.error(f"Error handling message: {e}", exc_info=True)
         await update.message.reply_text(
             "⚠️ An error occurred while processing your question. Please try again later.\n\n"
             "⚠️ আপনার প্রশ্নটি প্রক্রিয়া করার সময় একটি ত্রুটি ঘটেছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।"

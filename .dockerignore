@@ -15,12 +15,9 @@ build
 output/
 !output/chunks/chunks.jsonl
 processed_documents/
-processed_chunks/
 uploads/
 logs/
 *.db
 *.sqlite3
-src/
 tests/
-*.md
 !requirements.txt

@@ -47,39 +47,29 @@ def decode_token(token: str) -> dict:
         raise HTTPException(status_code=401, detail="Invalid token")
 
 
+GUEST_USER_DICT = {
+    "sub": "00000000-0000-0000-0000-000000000001",
+    "id": "00000000-0000-0000-0000-000000000001",
+    "email": "guest@westtripura.gov.in",
+    "username": "guest_user",
+    "role": "admin",
+    "is_active": True,
+    "created_at": "2026-01-01T00:00:00Z",
+    "method": "no_jwt_open_access",
+}
+
+
 async def get_current_user(
     credentials: Optional[HTTPAuthorizationCredentials] = Security(security_bearer),
     api_key: Optional[str] = Security(api_key_header),
 ) -> dict:
-    """Extract user from JWT Bearer token or API Key."""
-    settings = get_settings()
-
-    # API Key auth (static — for programmatic access)
-    if api_key:
-        if api_key == settings.STATIC_API_KEY:
-            return {"sub": "api-key-user", "method": "api_key"}
-        raise HTTPException(
-            status_code=401,
-            detail="Invalid X-API-Key.",
-        )
-
-    # JWT Bearer auth
-    if credentials:
-        payload = decode_token(credentials.credentials)
-        return payload
-
-    raise HTTPException(
-        status_code=401,
-        detail="Authentication required. Provide a Bearer token or X-API-Key header.",
-    )
+    """Authentication disabled: Always returns default guest/admin user context."""
+    return GUEST_USER_DICT
 
 
 async def get_optional_user(
     credentials: Optional[HTTPAuthorizationCredentials] = Security(security_bearer),
     api_key: Optional[str] = Security(api_key_header),
 ) -> Optional[dict]:
-    """Same as get_current_user but returns None instead of 401."""
-    try:
-        return await get_current_user(credentials, api_key)
-    except HTTPException:
-        return None
+    """Authentication disabled: Always returns default guest/admin user context."""
+    return GUEST_USER_DICT

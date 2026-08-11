@@ -3,7 +3,8 @@ FROM python:3.12-slim AS base
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
     PIP_NO_CACHE_DIR=1 \
-    PIP_DISABLE_PIP_VERSION_CHECK=1
+    PIP_DISABLE_PIP_VERSION_CHECK=1 \
+    PYTHONPATH=/app
 
 WORKDIR /app
 
@@ -22,13 +23,11 @@ RUN groupadd -r appuser && useradd -r -g appuser -d /app -s /sbin/nologin appuse
 
 # ── Application code ─────────────────────────────────────────────────────
 COPY backend/ backend/
+COPY src/ src/
 COPY telegram_bot.py .
 
-# ── Chunk data for BM25 search ──────────────────────────────────────────
-COPY output/chunks/chunks.jsonl output/chunks/chunks.jsonl
-
-# ── Create required directories ──────────────────────────────────────────
-RUN mkdir -p uploads output processed_documents processed_chunks && \
+# ── Create required data directories ────────────────────────────────────
+RUN mkdir -p uploads output output/chunks processed_documents processed_chunks && \
     chown -R appuser:appuser /app
 
 USER appuser

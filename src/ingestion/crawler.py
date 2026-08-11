@@ -30,9 +30,16 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse, urljoin
 
-from crawl4ai import AsyncWebCrawler, CrawlerRunConfig, BrowserConfig
-from crawl4ai.deep_crawling import BFSDeepCrawlStrategy
-from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
+try:
+    from crawl4ai import AsyncWebCrawler, CrawlerRunConfig, BrowserConfig
+    from crawl4ai.deep_crawling import BFSDeepCrawlStrategy
+    from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
+    HAS_CRAWL4AI = True
+except ImportError:
+    HAS_CRAWL4AI = False
+    AsyncWebCrawler = None
+    CrawlerRunConfig = None
+    BrowserConfig = None
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Configuration

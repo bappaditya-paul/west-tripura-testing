@@ -53,21 +53,16 @@ HELP_TEXT = """\
 
 RESPONSE_500 = "\u26a0\ufe0f Processing error. Try rephrasing your question."
 RESPONSE_TIMEOUT = "\u23f3 Taking longer than usual. Please try again."
-RESPONSE_404 = "\u2753 That information isn't in my knowledge base yet."
-
-
-def _session_id(user_id: int) -> str:
-    return f"tg-{user_id}"
+GREETINGS = {"hi", "hello", "hey", "namaste", "good morning", "good evening", "নমস্কার", "হাই", "হ্যালো"}
 
 
 async def query_rag(question: str, session_id: str) -> dict:
-    async with httpx.AsyncClient(timeout=60) as client:
+    async with httpx.AsyncClient(timeout=120) as client:
         resp = await client.post(
-            f"{API_BASE_URL}/api/v1/query",
-            json={"query": question, "top_k": 5, "session_id": session_id},
+            f"{API_BASE_URL}/chat",
+            json={"query": question},
             headers={
                 "Content-Type": "application/json",
-                "X-API-Key": "telegram-bot-internal",
             },
         )
         resp.raise_for_status()
@@ -75,17 +70,7 @@ async def query_rag(question: str, session_id: str) -> dict:
 
 
 async def reset_session_api(session_id: str) -> dict:
-    async with httpx.AsyncClient(timeout=10) as client:
-        resp = await client.post(
-            f"{API_BASE_URL}/api/v1/query",
-            json={"query": "", "top_k": 5, "session_id": session_id, "reset": True},
-            headers={
-                "Content-Type": "application/json",
-                "X-API-Key": "telegram-bot-internal",
-            },
-        )
-        resp.raise_for_status()
-        return resp.json()
+    return {"status": "ok"}
 
 
 async def health_check() -> bool:
@@ -106,20 +91,15 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
 
 
 async def reset_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    sid = _session_id(update.effective_user.id)
-    try:
-        await reset_session_api(sid)
-        await update.message.reply_text("Conversation history cleared. How can I help you?")
-    except Exception:
-        await update.message.reply_text("Could not reset session. Please try again.")
+    await update.message.reply_text("Conversation reset.")
 
 
 async def health_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     ok = await health_check()
     if ok:
-        await update.message.reply_text("\u2705 API is healthy and running.")
+        await update.message.reply_text("✅ API is healthy and running.")
     else:
-        await update.message.reply_text("\u274c API is unreachable. Please check the docker services.")
+        await update.message.reply_text("❌ API is unreachable. Please check docker services.")
 
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -127,23 +107,48 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
     if not user_query:
         return
 
+    clean_q = user_query.strip().lower().rstrip(".!")
     user_id = update.effective_user.id
     sid = _session_id(user_id)
     logger.info("Query from user %d: %s", user_id, user_query)
+
+    # Friendly immediate response for greetings
+    if clean_q in GREETINGS:
+        is_bengali = any(ord(char) >= 0x0980 and ord(char) <= 0x09FF for char in user_query)
+        if is_bengali:
+            greeting_text = (
+                "👋 **নমস্কার!** আমি পশ্চিম ত্রিপুরা জেলা তথ্য সহকারী।\n\n"
+                "আমি আপনাকে জেলা প্রশাসন, ডিএম/এসডিএম নির্দেশিকা, "
+                "নিয়োগ এবং সরকারি পরিষেবা সম্পর্কিত তথ্য দিতে পারি।\n\n"
+                "💡 আপনার প্রশ্নটি নিচে টাইপ করুন! (যেমন: *পশ্চিম ত্রিপুরার ডিএম কে?*)"
+            )
+        else:
+            greeting_text = (
+                "👋 **Hello!** I am the West Tripura District Information Assistant.\n\n"
+                "How can I help you today? You can ask me about district offices, DM/SDM guidelines, "
+                "employee lists, recruitment notifications, or public services in West Tripura.\n\n"
+                "💡 Type your question below! (e.g. *Who is the DM of West Tripura?*)"
+            )
+        await update.message.reply_text(greeting_text, parse_mode=ParseMode.MARKDOWN)
+        return
 
     await context.bot.send_chat_action(chat_id=update.effective_chat.id, action="typing")
 
     try:
         result = await query_rag(user_query, sid)
         answer = result.get("answer", "No answer received.")
-        references = result.get("references", [])
+        sources = result.get("sources", [])
 
-        if references:
-            ref_lines = ["\n\U0001f4ce *Sources:*"]
-            for i, ref in enumerate(references, 1):
+        if sources:
+            ref_lines = ["\n\U0001f4ce *Sources / উৎসসমূহ:*"]
+            for i, ref in enumerate(sources, 1):
                 title = ref.get("title", "Document")
                 url = ref.get("url", "")
-                ref_lines.append(f"{i}. [{title}]({url})")
+                section = ref.get("section")
+                if section:
+                    ref_lines.append(f"{i}. [{section} - {title}]({url})")
+                else:
+                    ref_lines.append(f"{i}. [{title}]({url})")
             answer += "\n" + "\n".join(ref_lines)
 
         await update.message.reply_text(
@@ -154,12 +159,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
     except httpx.HTTPStatusError as e:
         status = e.response.status_code
         logger.error("API error %d: %s", status, e)
-        if status == 404:
-            msg = RESPONSE_404
-        elif status >= 500:
-            msg = RESPONSE_500
-        else:
-            msg = f"API returned an error ({status}). Please try again later."
+        msg = f"API returned an error ({status}). Please try again later."
         await update.message.reply_text(msg)
     except httpx.TimeoutException:
         await update.message.reply_text(RESPONSE_TIMEOUT)

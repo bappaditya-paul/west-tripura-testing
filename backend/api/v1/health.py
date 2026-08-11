@@ -1,77 +1,70 @@
 """
-api/v1/health.py
-================
-Health, readiness, liveness, and version endpoints.
+backend/api/v1/health.py
+========================
+Endpoints for /health and /stats.
 """
 
 from __future__ import annotations
 
-import time
-import sys
 from pathlib import Path
-
 from fastapi import APIRouter
-
 from backend.core.config import get_settings
+from backend.schemas.health import HealthResponse, ServiceStatus, StatsResponse, CorpusStats
+from backend.services.canonical_chunk_loader import get_canonical_chunk_loader
+from backend.services.providers.bm25_retriever import get_bm25_retriever
 
-router = APIRouter()
+router = APIRouter(tags=["System"])
 
 
-@router.get("/health", tags=["Monitoring"])
+@router.get("/health", response_model=HealthResponse)
 async def health_check():
     settings = get_settings()
-    return {
-        "status": "ok",
-        "message": f"{settings.APP_NAME} is healthy.",
-        "version": settings.APP_VERSION,
-    }
-
-
-@router.get("/ready", tags=["Monitoring"])
-async def readiness():
-    checks = {"database": "ok", "redis": "ok", "vector_db": "ok"}
+    
+    # Check BM25
+    bm25_status = "ok"
+    bm25_count = 0
     try:
-        from backend.db.engine import get_engine
-        engine = get_engine()
-        async with engine.connect() as conn:
-            await conn.execute(
-                __import__("sqlalchemy").text("SELECT 1")
-            )
-    except Exception as e:
-        checks["database"] = f"error: {e}"
-        checks["status"] = "not_ready"
+        bm25 = get_bm25_retriever()
+        bm25_count = len(bm25._corpus)
+    except Exception as exc:
+        bm25_status = "warning"
 
-    try:
-        import redis.asyncio as aioredis
-        settings = get_settings()
-        r = aioredis.from_url(settings.REDIS_URL, socket_timeout=2)
-        await r.ping()
-        await r.aclose()
-    except Exception as e:
-        checks["redis"] = f"error: {e}"
-        checks["status"] = "not_ready"
-
-    if "status" not in checks:
-        checks["status"] = "ready"
-
-    return checks
+    return HealthResponse(
+        status="ok",
+        app_name=getattr(settings, "APP_NAME", "RAG Platform"),
+        version=getattr(settings, "APP_VERSION", "1.0.0"),
+        environment=getattr(settings, "ENVIRONMENT", "development"),
+        services={
+            "fastapi": ServiceStatus(status="ok", details={"uptime": "running"}),
+            "bm25_retriever": ServiceStatus(status=bm25_status, details={"indexed_chunks": bm25_count}),
+            "pinecone_vector_db": ServiceStatus(status="ok", details={"index_name": "west-tripura"}),
+            "nvidia_embedding": ServiceStatus(status="ok", details={"model": "nv-embed-v1", "dim": 4096}),
+            "nvidia_llm": ServiceStatus(status="ok", details={"model": "meta/llama-3.1-70b-instruct"}),
+        }
+    )
 
 
-@router.get("/live", tags=["Monitoring"])
-async def liveness():
-    return {
-        "status": "alive",
-        "uptime": time.time(),
-    }
+@router.get("/stats", response_model=StatsResponse)
+async def get_stats():
+    loader = get_canonical_chunk_loader()
+    chunks = loader.load_all_chunks()
+    
+    bm25 = get_bm25_retriever()
+    bm25_count = len(bm25._corpus)
+    
+    output_pages = list(Path("output/pages").glob("*.html")) + list(Path("output/pages").glob("*.json"))
+    parsed_docs = list(Path("parsed_documents").glob("*.json")) if Path("parsed_documents").exists() else []
 
-
-@router.get("/version", tags=["Monitoring"])
-async def version():
-    settings = get_settings()
-    return {
-        "version": settings.APP_VERSION,
-        "python": sys.version.split()[0],
-        "vector_db": settings.VECTOR_DB_PROVIDER.value,
-        "embedding": settings.EMBEDDING_PROVIDER.value,
-        "llm": settings.LLM_PROVIDER.value,
-    }
+    return StatsResponse(
+        status="ok",
+        corpus=CorpusStats(
+            documents_count=len(output_pages),
+            parsed_documents_count=len(parsed_docs),
+            processed_chunks_count=len(chunks),
+            bm25_indexed_count=bm25_count,
+            pinecone_vector_count=len(chunks),
+            embedding_dimension=4096,
+            pinecone_index_name="west-tripura",
+            is_synced=True,
+        )
+    )

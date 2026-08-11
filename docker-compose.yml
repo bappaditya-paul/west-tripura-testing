@@ -53,6 +53,7 @@ services:
       redis:
         condition: service_healthy
     volumes:
+      - .:/app
       - uploads_data:/app/uploads
       - output_data:/app/output
     healthcheck:
@@ -74,6 +75,8 @@ services:
     environment:
       API_BASE_URL: http://api:8000
     command: python telegram_bot.py
+    volumes:
+      - .:/app
     depends_on:
       api:
         condition: service_healthy
@@ -81,8 +84,41 @@ services:
       disable: true
     restart: unless-stopped
 
+  # ── WhatsApp Bot ───────────────────────────────────────────────────────
+  whatsapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rag-whatsapp
+    env_file:
+      - .env
+    environment:
+      API_BASE_URL: http://api:8000
+      OPENWA_BASE_URL: http://openwa-api:2785
+      OPENWA_API_KEY: ${OPENWA_API_KEY:-owa_k1_3402c841e8eaef19ca0fccce89d07d9520ee8aec6f582e2fd0c56dba3bccbb96}
+      OPENWA_SESSION_ID: ${OPENWA_SESSION_ID:-bot}
+      WEBHOOK_URL: http://rag-whatsapp:9000/webhook
+    command: python whatsapp_bot.py
+    ports:
+      - "9000:9000"
+    volumes:
+      - .:/app
+    depends_on:
+      api:
+        condition: service_healthy
+    networks:
+      - default
+      - openwa-network
+    restart: unless-stopped
+
 volumes:
   postgres_data:
   redis_data:
   uploads_data:
   output_data:
+
+networks:
+  default:
+  openwa-network:
+    external: true
+    name: openwa-network
