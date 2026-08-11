@@ -45,7 +45,7 @@ def extract_document_links(chunks: list[dict]) -> list[DocumentLink]:
         for raw_url in candidates:
             if not raw_url:
                 continue
-            url = str(raw_url).rstrip(".,;)"]}")
+            url = str(raw_url).rstrip(".,;)]")
             path = urlparse(url).path.lower()
             suffix = next((ext for ext in DOCUMENT_EXTENSIONS if path.endswith(ext)), None)
             if not suffix:
