@@ -27,10 +27,12 @@ passlib[bcrypt]>=1.7.4
 PyJWT>=2.8.0
 bcrypt>=4.0.0
 
-# ── AI / Embedding / LLM ────────────────────────────────────────────────
+# ── AI / Embedding / LLM ─────────────────────────────────────────────────
 openai>=1.0.0
 pinecone>=3.0.0
 httpx>=0.27.0
+# Optional neural reranker; lexical fallback remains available.
+sentence-transformers>=3.0.0
 
 # ── Search ───────────────────────────────────────────────────────────────
 rank-bm25>=0.2.2
@@ -48,7 +50,7 @@ beautifulsoup4>=4.12.0
 # qdrant-client>=1.7.0
 
 # ── Optional: Sentence Transformers ─────────────────────────────────────
-# sentence-transformers>=2.2.0
+# sentence-transformers is enabled above for the optional reranker.
 
 # ── Telegram Bot ─────────────────────────────────────────────────────────
 python-telegram-bot>=20.0
