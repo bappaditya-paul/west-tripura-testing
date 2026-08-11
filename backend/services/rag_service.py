@@ -10,6 +10,7 @@ from typing import Any, Dict, Optional
 from backend.core.config import get_settings
 from backend.services.cache_service import CacheService
 from backend.services.confidence_service import ConfidenceScorer
+from backend.services.document_resolver import extract_document_links, format_documents
 from backend.services.query_analysis import QueryAnalyzer
 from backend.services.response_formatter import ResponseFormatter
 from backend.services.reranker_service import RerankerService
@@ -23,8 +24,10 @@ Answer the citizen's question using ONLY the verified official context supplied 
 Never invent government names, phone numbers, addresses, dates, eligibility rules, fees or procedures.
 Use simple language suitable for ordinary citizens. Match the user's language: English, Bengali, or Benglish.
 For a contact question, put the key contact details first. For procedures, use numbered steps.
-If the context does not support the answer, say that the information could not be verified.
+If the context does not support a claim, say that the information could not be verified.
 Always include a short source line when a source URL is available.
+
+When the context contains a downloadable PDF/DOC/XLS file URL relevant to the question, tell the citizen that the document is available and include the direct URL instead of telling them to browse the website manually.
 
 OFFICIAL CONTEXT:
 {context}"""
@@ -78,7 +81,8 @@ class RAGService:
         confidence = self.confidence.score(analysis.retrieval_query, reranked)
 
         if confidence.level == "low":
-            # One cheap broadening pass before falling back.
+            # Retry without restrictive metadata filters. This prevents an incorrect
+            # entity/topic inference from hiding a useful official document.
             broad = await self.retrieval_service.search(query=query, top_k=self.settings.RETRIEVAL_CANDIDATE_K)
             reranked = self.reranker.rank(query, broad["results"], top_k=self.settings.RERANK_TOP_K)
             confidence = self.confidence.score(query, reranked)
@@ -89,7 +93,12 @@ class RAGService:
         else:
             context_chunks = self.retrieval_service.expand_context(reranked[:self.settings.RERANK_TOP_K])
             text, sources = await self._grounded_answer(query, analysis.language, context_chunks)
+            doc_links = extract_document_links(context_chunks)
+            document_text = format_documents(analysis.language, doc_links)
+            if document_text and document_text not in text:
+                text = f"{text.rstrip()}\n\n{document_text}"
             result = self._result(text, "official_rag", sources, t0, session_id, confidence.score, search_res)
+            result["documents"] = [doc.__dict__ for doc in doc_links]
 
         if self.settings.ENABLE_CACHE and result["mode"] == "official_rag":
             await self.cache.set(cache_key, result)
