@@ -1,7 +1,7 @@
 """
 backend/api/v1/rag.py
 ======================
-Thin router for /search (retrieval debugging) and /chat (RAG response).
+Citizen RAG endpoints with searchable documents and direct document delivery.
 """
 
 from __future__ import annotations
@@ -10,6 +10,7 @@ from fastapi import APIRouter
 from backend.schemas.rag import SearchRequest, SearchResponse, SearchResultItem, SearchTiming, ChatRequest, ChatResponse, SourceCitation
 from backend.services.rag_service import get_rag_service
 from backend.services.retrieval_service import RetrievalService
+from backend.services.document_resolver import extract_document_links
 
 router = APIRouter(tags=["RAG Engine"])
 retrieval_service = RetrievalService()
@@ -17,10 +18,6 @@ retrieval_service = RetrievalService()
 
 @router.post("/search", response_model=SearchResponse)
 async def search_debug(payload: SearchRequest):
-    """
-    POST /search performs retrieval WITHOUT calling the LLM.
-    Returns granular timing metrics and RRF hybrid results for debugging.
-    """
     search_data = await retrieval_service.search(query=payload.query, top_k=payload.top_k)
 
     results_items = []
@@ -39,7 +36,6 @@ async def search_debug(payload: SearchRequest):
         )
 
     timing_model = SearchTiming(**search_data["timing"])
-
     return SearchResponse(
         query=search_data["query"],
         retrieval_query=search_data["retrieval_query"],
@@ -51,10 +47,6 @@ async def search_debug(payload: SearchRequest):
 
 @router.post("/chat", response_model=ChatResponse)
 async def chat_rag(payload: ChatRequest):
-    """
-    POST /chat executes full citizen RAG pipeline:
-    Query Preprocessing ➔ RRF Hybrid Search ➔ Context Expansion ➔ LLM Answer + Sources.
-    """
     rag_service = get_rag_service()
     result = await rag_service.answer(query=payload.query, top_k=payload.top_k, session_id=payload.session_id)
 
