@@ -7,8 +7,8 @@ those pages.
 
 Priority areas are based on the live West Tripura site structure:
 services, certificates, forms, schemes, documents, notices/announcements,
-helplines, offices/contacts, e-governance, public utilities, and local
-administration information.
+helplines, offices/contacts, e-governance, public utilities, revenue,
+social security, and local administration information.
 """
 
 import asyncio
@@ -45,18 +45,17 @@ CHECKPOINT_FILE = OUTPUT_DIR / "checkpoint.json"
 MANIFEST_FILE = OUTPUT_DIR / "manifest.jsonl"
 LOG_FILE = OUTPUT_DIR / "crawl.log"
 
-# The live portal currently exposes citizen-focused areas such as Services,
-# Certificates, Forms, Documents, Schemes, Notices, E-Governance and Helpline.
-# BestFirst uses these terms to visit those URLs before low-value site pages.
+# These are the citizen-facing sections currently exposed by the live portal.
+# BestFirst uses them to visit high-value URLs before generic district pages.
 CITIZEN_PRIORITY_KEYWORDS = [
-    "service", "services", "certificate", "certificates", "form", "forms",
-    "scheme", "schemes", "document", "documents", "download", "notice",
-    "announcement", "notification", "helpline", "contact", "who-is-who",
-    "division", "office", "department", "e-governance", "public-utility",
-    "utility", "hospital", "school", "bank", "postal", "electricity",
-    "subdivision", "block", "tehsil", "village", "panchayat", "rti",
-    "grievance", "recruitment", "tender", "order", "government-order",
-    "disaster", "emergency", "phone", "email", "address", "pin-code",
+    "citizen", "service", "services", "certificate", "certificates", "form", "forms",
+    "scheme", "schemes", "document", "documents", "download", "notice", "announcement",
+    "notification", "helpline", "contact", "who-is-who", "division", "office", "department",
+    "e-governance", "public-utility", "utility", "bill", "supply", "magisterial", "revenue",
+    "social-security", "social", "hospital", "school", "bank", "postal", "electricity",
+    "subdivision", "block", "tehsil", "village", "panchayat", "rti", "grievance",
+    "recruitment", "tender", "order", "government-order", "disaster", "emergency", "phone",
+    "email", "address", "pin-code",
 ]
 
 # Obvious utility/auth/media URLs add little value to a citizen RAG index.
@@ -65,8 +64,7 @@ LOW_VALUE_URL_PATTERNS = [
     "*/feed*", "*/search*", "*/tag/*", "*/gallery/*", "*/media-gallery*",
     "*/photo-gallery*", "*/audio-gallery*", "*/video-gallery*",
     "*.css", "*.js", "*.png", "*.jpg", "*.jpeg", "*.gif", "*.svg",
-    "*.webp", "*.ico", "*.woff", "*.woff2", "*.ttf", "*.xml",
-    "*.json", "*.zip",
+    "*.webp", "*.ico", "*.woff", "*.woff2", "*.ttf", "*.xml", "*.json", "*.zip",
 ]
 
 MAX_DEPTH = 4
