@@ -1,8 +1,14 @@
 """
-West Tripura NIC Website Full Crawler
-======================================
-Crawls https://westtripura.nic.in/ with Crawl4AI, saves page Markdown, and
-also discovers/downloads official citizen-facing documents linked from pages.
+West Tripura NIC Citizen Knowledge Crawler
+===========================================
+Crawls https://westtripura.nic.in/ with Crawl4AI, prioritizing pages that are
+most useful to citizens and discovering official downloadable documents from
+those pages.
+
+Priority areas are based on the live West Tripura site structure:
+services, certificates, forms, schemes, documents, notices/announcements,
+helplines, offices/contacts, e-governance, public utilities, and local
+administration information.
 """
 
 import asyncio
@@ -18,7 +24,9 @@ from urllib.parse import urlparse
 
 try:
     from crawl4ai import AsyncWebCrawler, CrawlerRunConfig, BrowserConfig
-    from crawl4ai.deep_crawling import BFSDeepCrawlStrategy
+    from crawl4ai.deep_crawling import BestFirstCrawlingStrategy
+    from crawl4ai.deep_crawling.filters import ContentTypeFilter, DomainFilter, FilterChain, URLPatternFilter
+    from crawl4ai.deep_crawling.scorers import KeywordRelevanceScorer
     from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
     HAS_CRAWL4AI = True
 except ImportError:
@@ -36,9 +44,34 @@ PAGES_DIR = OUTPUT_DIR / "pages"
 CHECKPOINT_FILE = OUTPUT_DIR / "checkpoint.json"
 MANIFEST_FILE = OUTPUT_DIR / "manifest.jsonl"
 LOG_FILE = OUTPUT_DIR / "crawl.log"
-MAX_DEPTH = 5
-MAX_PAGES = 2000
-DELAY_BETWEEN_REQUESTS = 1.5
+
+# The live portal currently exposes citizen-focused areas such as Services,
+# Certificates, Forms, Documents, Schemes, Notices, E-Governance and Helpline.
+# BestFirst uses these terms to visit those URLs before low-value site pages.
+CITIZEN_PRIORITY_KEYWORDS = [
+    "service", "services", "certificate", "certificates", "form", "forms",
+    "scheme", "schemes", "document", "documents", "download", "notice",
+    "announcement", "notification", "helpline", "contact", "who-is-who",
+    "division", "office", "department", "e-governance", "public-utility",
+    "utility", "hospital", "school", "bank", "postal", "electricity",
+    "subdivision", "block", "tehsil", "village", "panchayat", "rti",
+    "grievance", "recruitment", "tender", "order", "government-order",
+    "disaster", "emergency", "phone", "email", "address", "pin-code",
+]
+
+# Obvious utility/auth/media URLs add little value to a citizen RAG index.
+LOW_VALUE_URL_PATTERNS = [
+    "*/login*", "*/logout*", "*/admin*", "*/wp-admin*", "*/wp-login*",
+    "*/feed*", "*/search*", "*/tag/*", "*/gallery/*", "*/media-gallery*",
+    "*/photo-gallery*", "*/audio-gallery*", "*/video-gallery*",
+    "*.css", "*.js", "*.png", "*.jpg", "*.jpeg", "*.gif", "*.svg",
+    "*.webp", "*.ico", "*.woff", "*.woff2", "*.ttf", "*.xml",
+    "*.json", "*.zip",
+]
+
+MAX_DEPTH = 4
+MAX_PAGES = 400
+DELAY_BETWEEN_REQUESTS = 1.0
 
 
 def setup_logging() -> logging.Logger:
@@ -134,12 +167,24 @@ async def run_crawl(resume: bool = False):
     if saved_state:
         log.info("Resuming from checkpoint: %s pages already crawled.", saved_state.get("pages_crawled", 0))
 
-    strategy = BFSDeepCrawlStrategy(
+    priority_scorer = KeywordRelevanceScorer(
+        keywords=CITIZEN_PRIORITY_KEYWORDS,
+        weight=0.9,
+    )
+    filter_chain = FilterChain([
+        DomainFilter(allowed_domains=[TARGET_DOMAIN]),
+        ContentTypeFilter(allowed_types=["text/html"]),
+        URLPatternFilter(patterns=LOW_VALUE_URL_PATTERNS, reverse=True),
+    ])
+
+    strategy = BestFirstCrawlingStrategy(
         max_depth=MAX_DEPTH,
         include_external=False,
         max_pages=MAX_PAGES,
         resume_state=saved_state,
         on_state_change=on_state_change,
+        url_scorer=priority_scorer,
+        filter_chain=filter_chain,
     )
     config = CrawlerRunConfig(
         deep_crawl_strategy=strategy,
@@ -149,8 +194,6 @@ async def run_crawl(resume: bool = False):
         word_count_threshold=20,
         remove_overlay_elements=True,
         remove_consent_popups=True,
-        # Page traversal stays on westtripura.nic.in. Official file links are
-        # extracted separately by document_assets.py.
         exclude_external_links=False,
         exclude_social_media_links=True,
         preserve_https_for_internal_links=True,
@@ -166,8 +209,8 @@ async def run_crawl(resume: bool = False):
     total_errors = 0
     total_assets = 0
 
-    log.info("Starting crawl of %s", START_URL)
-    log.info("Max depth: %s | Max pages: %s", MAX_DEPTH, MAX_PAGES)
+    log.info("Starting citizen-priority crawl of %s", START_URL)
+    log.info("Priority keywords: %d | Max depth: %s | Max pages: %s", len(CITIZEN_PRIORITY_KEYWORDS), MAX_DEPTH, MAX_PAGES)
 
     try:
         async with AsyncWebCrawler(config=browser_cfg) as crawler:
@@ -189,21 +232,32 @@ async def run_crawl(resume: bool = False):
                 write_page(url, markdown, metadata, document_urls)
                 total_pages += 1
 
-                log.info("[%4d] depth=%s | %7d chars | %s | assets=%d", total_pages, metadata.get("depth", 0), len(markdown), url, len(downloaded))
+                log.info(
+                    "[%4d] depth=%s score=%.3f | %7d chars | %s | assets=%d",
+                    total_pages,
+                    metadata.get("depth", 0),
+                    float(metadata.get("score", 0) or 0),
+                    len(markdown),
+                    url,
+                    len(downloaded),
+                )
 
     except KeyboardInterrupt:
         log.info("Crawl interrupted. Use --resume to continue.")
     except Exception as exc:
-        log.error("Unexpected crawler error: %s", exc, exc_info=True)
-        log.info("Checkpoint state is preserved when available.")
+        log.error("Crawler failed before producing a usable corpus: %s", exc, exc_info=True)
+        raise
 
     elapsed = time.time() - start_time
     log.info("Crawl finished in %.1fs | pages=%d failed=%d documents=%d", elapsed, total_pages, total_errors, total_assets)
     log.info("Output: %s", OUTPUT_DIR.resolve())
 
+    if total_pages == 0:
+        raise RuntimeError("Crawl produced 0 pages. Check Playwright/browser installation, network access, and robots.txt before continuing ingestion.")
+
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Crawl West Tripura and collect official documents.")
+    parser = argparse.ArgumentParser(description="Crawl West Tripura citizen-critical content and collect official documents.")
     parser.add_argument("--resume", action="store_true", help="Resume from the last crawl checkpoint.")
     args = parser.parse_args()
     asyncio.run(run_crawl(resume=args.resume))
