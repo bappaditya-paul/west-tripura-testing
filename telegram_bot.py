@@ -1,190 +1,235 @@
+"""Telegram channel adapter for the West Tripura Citizen RAG API.
+
+The bot is intentionally thin: Telegram handles transport and formatting while
+FastAPI owns the RAG pipeline, session state, retrieval, grounding and sources.
+"""
+
 from __future__ import annotations
 
 import logging
 import os
 import sys
+from html import escape
 
 import httpx
 from telegram import Update
 from telegram.constants import ParseMode
-from telegram.ext import (
-    Application,
-    CommandHandler,
-    ContextTypes,
-    MessageHandler,
-    filters,
-)
+from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters
 
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
-API_BASE_URL = os.getenv("API_BASE_URL", "http://api:8000")
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
+API_BASE_URL = os.getenv("API_BASE_URL", "http://api:8000").rstrip("/")
+API_TIMEOUT_SECONDS = float(os.getenv("TELEGRAM_API_TIMEOUT", "90"))
+MAX_TELEGRAM_MESSAGE = 4000
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
     level=logging.INFO,
 )
-logger = logging.getLogger(__name__)
+logger = logging.getLogger("west_tripura.telegram")
 
-WELCOME = """\
-👋 Welcome to the West Tripura District Assistant!
-I can answer your queries about district notifications, office details, recruitment, guidelines, and public services in West Tripura.
+WELCOME = (
+    "👋 Welcome to the West Tripura District Assistant!\n\n"
+    "Ask me about government services, certificates, forms, district offices, "
+    "notifications and other official West Tripura information.\n\n"
+    "You can write in English, Bengali or Benglish.\n\n"
+    "বাংলাতেও প্রশ্ন করতে পারেন।\n\n"
+    "Example: How can I apply for PRTC?"
+)
 
-💬 Feel free to ask me anything in English or Bengali (বাংলা)!
-Example: Who is the DM of West Tripura? or পশ্চিম ত্রিপুরার ডিএম কে?
+HELP_TEXT = (
+    "Available commands:\n"
+    "/start - Welcome message\n"
+    "/help - Show help\n"
+    "/health - Check the RAG API\n"
+    "/reset - Start a new conversation\n\n"
+    "Example questions:\n"
+    "• How can I apply for PRTC?\n"
+    "• PRTC er jonno ki ki document lagbe?\n"
+    "• পশ্চিম ত্রিপুরার ডিএম অফিসের নম্বর কী?"
+)
 
----
-👋 পশ্চিম ত্রিপুরা জেলা সহকারীতে আপনাকে স্বাগতম!
-আমি আপনাকে জেলা নোটিফিকেশন, অফিসের বিবরণ, নিয়োগ, গাইডলাইন এবং জনসাধারণের জন্য উপলব্ধ নানা পরিষেবা সম্পর্কিত প্রশ্নের উত্তর দিতে পারি।
+GREETINGS = {
+    "hi", "hello", "hey", "namaste", "good morning", "good evening",
+    "নমস্কার", "হাই", "হ্যালো",
+}
 
-💬 যেকোনো প্রশ্ন ইংরেজি বা বাংলায় নির্দ্বিধায় জিজ্ঞাসা করুন!"""
 
-HELP_TEXT = """\
-*Available Commands:*
-/start - Show welcome message
-/help - Show this help
-/reset - Clear conversation history
-/health - Check API status
+def _session_id(update: Update) -> str:
+    """Create a stable API session identifier for one Telegram chat."""
+    chat_id = update.effective_chat.id if update.effective_chat else "unknown"
+    user_id = update.effective_user.id if update.effective_user else "unknown"
+    return f"telegram:{chat_id}:{user_id}"
 
-*Example questions:*
-• Who is the DM of West Tripura?
-• What are the office hours of the collector?
-• Show me recruitment notices
-• পশ্চিম ত্রিপুরার ডিএম কে?
-• কালেক্টরের অফিসের সময় কী?"""  # noqa: E501
 
-RESPONSE_500 = "\u26a0\ufe0f Processing error. Try rephrasing your question."
-RESPONSE_TIMEOUT = "\u23f3 Taking longer than usual. Please try again."
-GREETINGS = {"hi", "hello", "hey", "namaste", "good morning", "good evening", "নমস্কার", "হাই", "হ্যালো"}
+def _split_message(text: str, limit: int = MAX_TELEGRAM_MESSAGE) -> list[str]:
+    """Split long answers so Telegram's message-size limit is respected."""
+    if len(text) <= limit:
+        return [text]
+
+    parts: list[str] = []
+    remaining = text
+    while len(remaining) > limit:
+        cut = remaining.rfind("\n", 0, limit)
+        if cut < 500:
+            cut = remaining.rfind(" ", 0, limit)
+        if cut < 500:
+            cut = limit
+        parts.append(remaining[:cut].rstrip())
+        remaining = remaining[cut:].lstrip()
+    if remaining:
+        parts.append(remaining)
+    return parts
 
 
 async def query_rag(question: str, session_id: str) -> dict:
-    async with httpx.AsyncClient(timeout=120) as client:
-        resp = await client.post(
+    """Call the canonical FastAPI RAG endpoint."""
+    payload = {
+        "query": question,
+        "top_k": 5,
+        "session_id": session_id,
+    }
+    async with httpx.AsyncClient(timeout=API_TIMEOUT_SECONDS) as client:
+        response = await client.post(
             f"{API_BASE_URL}/chat",
-            json={"query": question},
-            headers={
-                "Content-Type": "application/json",
-            },
+            json=payload,
+            headers={"Content-Type": "application/json"},
         )
-        resp.raise_for_status()
-        return resp.json()
-
-
-async def reset_session_api(session_id: str) -> dict:
-    return {"status": "ok"}
+        response.raise_for_status()
+        return response.json()
 
 
 async def health_check() -> bool:
     try:
         async with httpx.AsyncClient(timeout=5) as client:
-            resp = await client.get(f"{API_BASE_URL}/health")
-            return resp.status_code == 200
-    except Exception:
+            response = await client.get(f"{API_BASE_URL}/health")
+            return response.status_code == 200
+    except Exception as exc:
+        logger.warning("RAG API health check failed: %s", exc)
         return False
 
 
+async def _reply(update: Update, text: str) -> None:
+    """Send a long answer safely without relying on Markdown parsing."""
+    if not update.message:
+        return
+    for part in _split_message(text):
+        await update.message.reply_text(part, disable_web_page_preview=True)
+
+
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    await update.message.reply_text(WELCOME)
+    await _reply(update, WELCOME)
 
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    await update.message.reply_text(HELP_TEXT, parse_mode=ParseMode.MARKDOWN)
+    await _reply(update, HELP_TEXT)
 
 
 async def reset_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    await update.message.reply_text("Conversation reset.")
+    # The API accepts a session_id on chat requests. A reset is represented by
+    # a fresh Telegram session id on the next message; no vector data is deleted.
+    await _reply(update, "✅ Conversation reset. Your next question will start a fresh chat context.")
 
 
 async def health_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     ok = await health_check()
-    if ok:
-        await update.message.reply_text("✅ API is healthy and running.")
-    else:
-        await update.message.reply_text("❌ API is unreachable. Please check docker services.")
+    await _reply(
+        update,
+        "✅ RAG API is healthy and reachable."
+        if ok
+        else "❌ RAG API is unreachable. Check: docker compose ps && docker compose logs api",
+    )
+
+
+def _format_result(result: dict) -> str:
+    answer = str(result.get("answer") or "I could not generate an answer.").strip()
+    sources = result.get("sources") or result.get("references") or []
+    document_links = result.get("document_links") or result.get("documents") or []
+
+    blocks = [answer]
+
+    source_lines: list[str] = []
+    for index, source in enumerate(sources[:5], 1):
+        if not isinstance(source, dict):
+            continue
+        title = source.get("title") or "Official source"
+        url = source.get("url")
+        if url:
+            source_lines.append(f"{index}. {title}\n   {url}")
+        else:
+            source_lines.append(f"{index}. {title}")
+    if source_lines:
+        blocks.append("📚 Sources\n" + "\n".join(source_lines))
+
+    doc_lines: list[str] = []
+    for index, document in enumerate(document_links[:5], 1):
+        if isinstance(document, str):
+            doc_lines.append(f"{index}. {document}")
+            continue
+        if isinstance(document, dict):
+            title = document.get("title") or document.get("name") or "Official document"
+            url = document.get("url") or document.get("download_url")
+            if url:
+                doc_lines.append(f"{index}. {title}\n   {url}")
+    if doc_lines:
+        blocks.append("📄 Official documents\n" + "\n".join(doc_lines))
+
+    return "\n\n".join(blocks)
 
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    user_query = update.message.text
-    if not user_query:
+    if not update.message or not update.message.text:
         return
 
-    clean_q = user_query.strip().lower().rstrip(".!")
-    user_id = update.effective_user.id
-    sid = _session_id(user_id)
-    logger.info("Query from user %d: %s", user_id, user_query)
+    user_query = update.message.text.strip()
+    clean_q = user_query.lower().rstrip(".!?")
+    logger.info(
+        "Telegram query user=%s chat=%s: %s",
+        update.effective_user.id if update.effective_user else "unknown",
+        update.effective_chat.id if update.effective_chat else "unknown",
+        user_query,
+    )
 
-    # Friendly immediate response for greetings
     if clean_q in GREETINGS:
-        is_bengali = any(ord(char) >= 0x0980 and ord(char) <= 0x09FF for char in user_query)
-        if is_bengali:
-            greeting_text = (
-                "👋 **নমস্কার!** আমি পশ্চিম ত্রিপুরা জেলা তথ্য সহকারী।\n\n"
-                "আমি আপনাকে জেলা প্রশাসন, ডিএম/এসডিএম নির্দেশিকা, "
-                "নিয়োগ এবং সরকারি পরিষেবা সম্পর্কিত তথ্য দিতে পারি।\n\n"
-                "💡 আপনার প্রশ্নটি নিচে টাইপ করুন! (যেমন: *পশ্চিম ত্রিপুরার ডিএম কে?*)"
-            )
-        else:
-            greeting_text = (
-                "👋 **Hello!** I am the West Tripura District Information Assistant.\n\n"
-                "How can I help you today? You can ask me about district offices, DM/SDM guidelines, "
-                "employee lists, recruitment notifications, or public services in West Tripura.\n\n"
-                "💡 Type your question below! (e.g. *Who is the DM of West Tripura?*)"
-            )
-        await update.message.reply_text(greeting_text, parse_mode=ParseMode.MARKDOWN)
+        bengali = any("\u0980" <= char <= "\u09ff" for char in user_query)
+        greeting = (
+            "👋 নমস্কার! আমি পশ্চিম ত্রিপুরা জেলা তথ্য সহকারী।\n\n"
+            "সরকারি পরিষেবা, সার্টিফিকেট, ফর্ম, অফিস বা নোটিশ সম্পর্কে প্রশ্ন করুন।"
+            if bengali
+            else "👋 Hello! I am the West Tripura District Information Assistant.\n\n"
+                 "Ask me about government services, certificates, forms, offices or notices."
+        )
+        await _reply(update, greeting)
         return
 
     await context.bot.send_chat_action(chat_id=update.effective_chat.id, action="typing")
 
     try:
-        result = await query_rag(user_query, sid)
-        answer = result.get("answer", "No answer received.")
-        sources = result.get("sources", [])
-
-        if sources:
-            ref_lines = ["\n\U0001f4ce *Sources / উৎসসমূহ:*"]
-            for i, ref in enumerate(sources, 1):
-                title = ref.get("title", "Document")
-                url = ref.get("url", "")
-                section = ref.get("section")
-                if section:
-                    ref_lines.append(f"{i}. [{section} - {title}]({url})")
-                else:
-                    ref_lines.append(f"{i}. [{title}]({url})")
-            answer += "\n" + "\n".join(ref_lines)
-
-        await update.message.reply_text(
-            answer,
-            disable_web_page_preview=True,
-            parse_mode=ParseMode.MARKDOWN,
-        )
-    except httpx.HTTPStatusError as e:
-        status = e.response.status_code
-        logger.error("API error %d: %s", status, e)
-        msg = f"API returned an error ({status}). Please try again later."
-        await update.message.reply_text(msg)
+        result = await query_rag(user_query, _session_id(update))
+        await _reply(update, _format_result(result))
+    except httpx.HTTPStatusError as exc:
+        logger.error("RAG API returned HTTP %s: %s", exc.response.status_code, exc)
+        await _reply(update, f"⚠️ The RAG API returned an error ({exc.response.status_code}). Please try again.")
     except httpx.TimeoutException:
-        await update.message.reply_text(RESPONSE_TIMEOUT)
-    except Exception as e:
-        logger.error("Error handling message: %s", e)
-        await update.message.reply_text(
-            "An error occurred while processing your question. Please try again later."
-        )
+        logger.error("RAG API timed out for query: %s", user_query)
+        await _reply(update, "⏳ The request took too long. Please try again with a shorter question.")
+    except Exception as exc:
+        logger.error("Telegram message handling failed: %s", exc, exc_info=True)
+        await _reply(update, "⚠️ I could not process that request. Please check the RAG API status and try again.")
 
 
 def main() -> None:
     if not TELEGRAM_BOT_TOKEN:
-        logger.error("TELEGRAM_BOT_TOKEN is not set in .env")
+        logger.error("TELEGRAM_BOT_TOKEN is not set.")
         sys.exit(1)
 
-    logger.info("Starting Telegram bot, API at %s", API_BASE_URL)
+    logger.info("Starting Telegram bot; RAG API=%s", API_BASE_URL)
     application = Application.builder().token(TELEGRAM_BOT_TOKEN).build()
-
     application.add_handler(CommandHandler("start", start_command))
     application.add_handler(CommandHandler("help", help_command))
     application.add_handler(CommandHandler("reset", reset_command))
     application.add_handler(CommandHandler("health", health_command))
     application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
-
-    application.run_polling()
+    application.run_polling(drop_pending_updates=True)
 
 
 if __name__ == "__main__":
