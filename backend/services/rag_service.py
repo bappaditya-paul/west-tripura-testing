@@ -12,6 +12,7 @@ from backend.services.cache_service import CacheService
 from backend.services.confidence_service import ConfidenceScorer
 from backend.services.document_resolver import extract_document_links, format_documents
 from backend.services.query_analysis import QueryAnalyzer
+from backend.services.query_analysis_v2 import QueryAnalyzerV2
 from backend.services.response_formatter import ResponseFormatter
 from backend.services.reranker_service import RerankerService
 from backend.services.providers.llm import get_llm_provider
@@ -25,9 +26,8 @@ Never invent government names, phone numbers, addresses, dates, eligibility rule
 Use simple language suitable for ordinary citizens. Match the user's language: English, Bengali, or Benglish.
 For a contact question, put the key contact details first. For procedures, use numbered steps.
 If the context does not support a claim, say that the information could not be verified.
+When a relevant downloadable PDF/DOC/XLS file URL is present in the context, include that direct URL so the citizen can open/download it without manually browsing the district website.
 Always include a short source line when a source URL is available.
-
-When the context contains a downloadable PDF/DOC/XLS file URL relevant to the question, tell the citizen that the document is available and include the direct URL instead of telling them to browse the website manually.
 
 OFFICIAL CONTEXT:
 {context}"""
@@ -46,6 +46,7 @@ class RAGService:
         self.retrieval_service = retrieval_service or RetrievalService()
         self.llm = llm or get_llm_provider(self.settings.llm_config)
         self.analyzer = QueryAnalyzer()
+        self.analyzer_v2 = QueryAnalyzerV2()
         self.reranker = RerankerService(self.settings.RERANKER_MODEL if self.settings.ENABLE_RERANKER else None)
         self.confidence = ConfidenceScorer()
         self.formatter = ResponseFormatter()
@@ -54,6 +55,7 @@ class RAGService:
     async def answer(self, query: str, top_k: int | None = None, session_id: Optional[str] = None) -> Dict[str, Any]:
         t0 = time.perf_counter()
         analysis = self.analyzer.analyze(query)
+        broad_analysis = self.analyzer_v2.analyze(query)
 
         if analysis.intent.value == "conversational":
             thanks = bool(re.search(r"\b(thank|thanks)\b|ধন্যবাদ", query, re.I))
@@ -71,21 +73,22 @@ class RAGService:
                 cached["session_id"] = session_id
                 return cached
 
+        # First pass: conservative filters only when strongly inferred.
         search_res = await self.retrieval_service.search(
-            query=analysis.retrieval_query,
+            query=broad_analysis.retrieval_query,
             top_k=max(top_k or self.settings.TOP_K, self.settings.RETRIEVAL_CANDIDATE_K),
-            filters=analysis.filters,
+            filters=broad_analysis.filters,
         )
         candidates = search_res["results"]
-        reranked = self.reranker.rank(analysis.retrieval_query, candidates, top_k=self.settings.RERANK_TOP_K)
-        confidence = self.confidence.score(analysis.retrieval_query, reranked)
+        reranked = self.reranker.rank(broad_analysis.retrieval_query, candidates, top_k=self.settings.RERANK_TOP_K)
+        confidence = self.confidence.score(broad_analysis.retrieval_query, reranked)
 
+        # Critical fallback: if retrieval is weak, retry without metadata filters.
         if confidence.level == "low":
-            # Retry without restrictive metadata filters. This prevents an incorrect
-            # entity/topic inference from hiding a useful official document.
-            broad = await self.retrieval_service.search(query=query, top_k=self.settings.RETRIEVAL_CANDIDATE_K)
+            broad = await self.retrieval_service.search(query=query, top_k=self.settings.RETRIEVAL_CANDIDATE_K, filters=None)
             reranked = self.reranker.rank(query, broad["results"], top_k=self.settings.RERANK_TOP_K)
             confidence = self.confidence.score(query, reranked)
+            search_res = broad
 
         if confidence.level == "low":
             text = await self._general_fallback(query, analysis.language, official_query=True)
@@ -124,8 +127,7 @@ class RAGService:
         return answer.strip(), sources
 
     async def _general_fallback(self, query: str, language: str, official_query: bool = False) -> str:
-        prompt = GENERAL_PROMPT
-        answer = await self.llm.generate([{"role": "system", "content": prompt}, {"role": "user", "content": query}], temperature=0.3, max_tokens=600)
+        answer = await self.llm.generate([{"role": "system", "content": GENERAL_PROMPT}, {"role": "user", "content": query}], temperature=0.3, max_tokens=600)
         if official_query and "could not verify" not in answer.lower() and "couldn't verify" not in answer.lower():
             return self.formatter.not_verified(language)
         return answer.strip()
@@ -135,6 +137,7 @@ class RAGService:
         return {
             "answer": answer,
             "sources": sources,
+            "documents": [],
             "mode": mode,
             "grounded": mode == "official_rag",
             "confidence": confidence,
